@@ -1,0 +1,413 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MuhuratAmsterdam//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Choghadiya NEUTRAL (Amsterdam)
+X-WR-TIMEZONE:Europe/Amsterdam
+BEGIN:VEVENT
+UID:2d75a011130ad8a21058015d9889b029174b7479@muhurat-ams
+DTSTAMP:20251231T190355
+DTSTART;TZID=Europe/Amsterdam:20260101T085000
+DTEND;TZID=Europe/Amsterdam:20260101T094900
+SUMMARY:Shubha
+DESCRIPTION:Score: 5 (Chogh:2\, Tara:2\, Chandra:1\, Total:5)\nTransit: Rohini / Vrishabha\nStart: Avoid\nContinue: Allowed\nTags: Yamaganda\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:42fc0a96b23432996f5a59eb4872cdba0ddbeb2b@muhurat-ams
+DTSTAMP:20251231T190355
+DTSTART;TZID=Europe/Amsterdam:20260101T134300
+DTEND;TZID=Europe/Amsterdam:20260101T144100
+SUMMARY:Amrita
+DESCRIPTION:Score: 6 (Chogh:3\, Tara:2\, Chandra:1\, Total:6)\nTransit: Rohini / Vrishabha\nStart: Avoid\nContinue: Allowed\nTags: Rahu Kalam\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:dff02da57816b4953aba55621dcfaa02f501cf83@muhurat-ams
+DTSTAMP:20251231T190355
+DTSTART;TZID=Europe/Amsterdam:20260103T094900
+DTEND;TZID=Europe/Amsterdam:20260103T104800
+SUMMARY:Shubha
+DESCRIPTION:Score: 2 (Chogh:2\, Tara:1\, Chandra:-1\, Total:2)\nTransit: Ardra / Mithuna\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:008cacb3f87f76e96b8bf0c786a26e3c016e4bb7@muhurat-ams
+DTSTAMP:20251231T190355
+DTSTART;TZID=Europe/Amsterdam:20260103T124500
+DTEND;TZID=Europe/Amsterdam:20260103T134400
+SUMMARY:Chara
+DESCRIPTION:Score: 1 (Chogh:1\, Tara:1\, Chandra:-1\, Total:1)\nTransit: Ardra / Mithuna\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:9906536b37b502a526774f98a9974914a44bf502@muhurat-ams
+DTSTAMP:20251231T190355
+DTSTART;TZID=Europe/Amsterdam:20260103T204200
+DTEND;TZID=Europe/Amsterdam:20260103T224400
+SUMMARY:Shubha
+DESCRIPTION:Score: 2 (Chogh:2\, Tara:1\, Chandra:-1\, Total:2)\nTransit: Ardra / Mithuna\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:a805de42329f6b0295ff6c57838e49ea74ea3089@muhurat-ams
+DTSTAMP:20251231T190355
+DTSTART;TZID=Europe/Amsterdam:20260103T004500
+DTEND;TZID=Europe/Amsterdam:20260103T024600
+SUMMARY:Chara
+DESCRIPTION:Score: 1 (Chogh:1\, Tara:1\, Chandra:-1\, Total:1)\nTransit: Ardra / Mithuna\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:89218aec5b6ba9adff61ba4db00a4f56e1b0ae9d@muhurat-ams
+DTSTAMP:20251231T190355
+DTSTART;TZID=Europe/Amsterdam:20260103T064900
+DTEND;TZID=Europe/Amsterdam:20260103T085000
+SUMMARY:Labha
+DESCRIPTION:Score: 2 (Chogh:2\, Tara:1\, Chandra:-1\, Total:2)\nTransit: Ardra / Mithuna\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ab45084c20e188eb6a547669be2723720ba962bc@muhurat-ams
+DTSTAMP:20251231T190355
+DTSTART;TZID=Europe/Amsterdam:20260105T085000
+DTEND;TZID=Europe/Amsterdam:20260105T094900
+SUMMARY:Amrita
+DESCRIPTION:Score: 2 (Chogh:3\, Tara:-2\, Chandra:1\, Total:2)\nTransit: Pushya / Karka\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cf703188c44dc4e3b21fa11aac855b2b4f7f4cad@muhurat-ams
+DTSTAMP:20251231T190355
+DTSTART;TZID=Europe/Amsterdam:20260105T104800
+DTEND;TZID=Europe/Amsterdam:20260105T114700
+SUMMARY:Shubha
+DESCRIPTION:Score: 1 (Chogh:2\, Tara:-2\, Chandra:1\, Total:1)\nTransit: Pushya / Karka\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:49582394096bbcbf678defae951364adcd94b3af@muhurat-ams
+DTSTAMP:20251231T190355
+DTSTART;TZID=Europe/Amsterdam:20260105T154300
+DTEND;TZID=Europe/Amsterdam:20260105T164200
+SUMMARY:Amrita
+DESCRIPTION:Score: 2 (Chogh:3\, Tara:-2\, Chandra:1\, Total:2)\nTransit: Pushya / Karka\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:7d0c63a9feb71c2054914219ff6446a0582300bd@muhurat-ams
+DTSTAMP:20251231T190355
+DTSTART;TZID=Europe/Amsterdam:20260105T164200
+DTEND;TZID=Europe/Amsterdam:20260105T184300
+SUMMARY:Chara
+DESCRIPTION:Score: 0 (Chogh:1\, Tara:-2\, Chandra:1\, Total:0)\nTransit: Pushya / Karka\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:78d4d274428369c7f2736840bce9bc34342edae1@muhurat-ams
+DTSTAMP:20251231T190355
+DTSTART;TZID=Europe/Amsterdam:20260105T224500
+DTEND;TZID=Europe/Amsterdam:20260106T004600
+SUMMARY:Labha
+DESCRIPTION:Score: 1 (Chogh:2\, Tara:-2\, Chandra:1\, Total:1)\nTransit: Pushya / Karka\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:478b19aa142eb3656e436af6b8d6bab89dccf11a@muhurat-ams
+DTSTAMP:20251231T190355
+DTSTART;TZID=Europe/Amsterdam:20260105T024700
+DTEND;TZID=Europe/Amsterdam:20260105T044700
+SUMMARY:Shubha
+DESCRIPTION:Score: 1 (Chogh:2\, Tara:-2\, Chandra:1\, Total:1)\nTransit: Pushya / Karka\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f321bdb909209d338d2b27ef4876cff4d291aecd@muhurat-ams
+DTSTAMP:20251231T190355
+DTSTART;TZID=Europe/Amsterdam:20260105T044700
+DTEND;TZID=Europe/Amsterdam:20260105T064800
+SUMMARY:Amrita
+DESCRIPTION:Score: 2 (Chogh:3\, Tara:-2\, Chandra:1\, Total:2)\nTransit: Pushya / Karka\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:94dc990f8a7789d8778ffb970774fe89cc21f48a@muhurat-ams
+DTSTAMP:20251231T190355
+DTSTART;TZID=Europe/Amsterdam:20260105T064800
+DTEND;TZID=Europe/Amsterdam:20260105T084900
+SUMMARY:Chara
+DESCRIPTION:Score: 0 (Chogh:1\, Tara:-2\, Chandra:1\, Total:0)\nTransit: Pushya / Karka\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fd122d2bb00bab9dcaf89f97af966771e4b88535@muhurat-ams
+DTSTAMP:20251231T190355
+DTSTART;TZID=Europe/Amsterdam:20260106T004600
+DTEND;TZID=Europe/Amsterdam:20260106T024700
+SUMMARY:Amrita
+DESCRIPTION:Score: 0 (Chogh:3\, Tara:-2\, Chandra:-1\, Total:0)\nTransit: Magha / Simha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:702bcfe71b69aa45efb91dffccc11f21608e011e@muhurat-ams
+DTSTAMP:20251231T190355
+DTSTART;TZID=Europe/Amsterdam:20260107T084900
+DTEND;TZID=Europe/Amsterdam:20260107T094800
+SUMMARY:Labha
+DESCRIPTION:Score: 2 (Chogh:2\, Tara:1\, Chandra:-1\, Total:2)\nTransit: Purva Phalguni / Simha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:74189e1a7a769a953bde374bc84524db5362ad9b@muhurat-ams
+DTSTAMP:20251231T190355
+DTSTART;TZID=Europe/Amsterdam:20260107T094800
+DTEND;TZID=Europe/Amsterdam:20260107T104800
+SUMMARY:Amrita
+DESCRIPTION:Score: 3 (Chogh:3\, Tara:1\, Chandra:-1\, Total:3)\nTransit: Purva Phalguni / Simha\nStart: Avoid\nContinue: Allowed\nTags: Yamaganda\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:c4a02153b822e869454ed3c05f0e97c734962e06@muhurat-ams
+DTSTAMP:20251231T190355
+DTSTART;TZID=Europe/Amsterdam:20260107T114700
+DTEND;TZID=Europe/Amsterdam:20260107T124700
+SUMMARY:Shubha
+DESCRIPTION:Score: 2 (Chogh:2\, Tara:1\, Chandra:-1\, Total:2)\nTransit: Purva Phalguni / Simha\nStart: Avoid\nContinue: Allowed\nTags: Gulikai Kalam\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:24d4011ee76f37556f7749c7e9c6c5a28b807f3d@muhurat-ams
+DTSTAMP:20251231T190355
+DTSTART;TZID=Europe/Amsterdam:20260107T144600
+DTEND;TZID=Europe/Amsterdam:20260107T154500
+SUMMARY:Chara
+DESCRIPTION:Score: 1 (Chogh:1\, Tara:1\, Chandra:-1\, Total:1)\nTransit: Purva Phalguni / Simha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:53b509f91f200925217d12c8f58f83eaf1ee65e6@muhurat-ams
+DTSTAMP:20251231T190355
+DTSTART;TZID=Europe/Amsterdam:20260107T154500
+DTEND;TZID=Europe/Amsterdam:20260107T164500
+SUMMARY:Labha
+DESCRIPTION:Score: 2 (Chogh:2\, Tara:1\, Chandra:-1\, Total:2)\nTransit: Purva Phalguni / Simha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fa9288fd47fa6a19c5736152d73bf8d75669e11e@muhurat-ams
+DTSTAMP:20251231T190355
+DTSTART;TZID=Europe/Amsterdam:20260107T184500
+DTEND;TZID=Europe/Amsterdam:20260107T204600
+SUMMARY:Shubha
+DESCRIPTION:Score: 2 (Chogh:2\, Tara:1\, Chandra:-1\, Total:2)\nTransit: Purva Phalguni / Simha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:147855ea74e69b06f1117ebc13ab615916ff9502@muhurat-ams
+DTSTAMP:20251231T190355
+DTSTART;TZID=Europe/Amsterdam:20260107T224600
+DTEND;TZID=Europe/Amsterdam:20260108T004700
+SUMMARY:Chara
+DESCRIPTION:Score: 1 (Chogh:1\, Tara:1\, Chandra:-1\, Total:1)\nTransit: Purva Phalguni / Simha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6a1d62a8551c6b4218e384d4e131b6d9d18c5876@muhurat-ams
+DTSTAMP:20251231T190355
+DTSTART;TZID=Europe/Amsterdam:20260107T044700
+DTEND;TZID=Europe/Amsterdam:20260107T064800
+SUMMARY:Labha
+DESCRIPTION:Score: 2 (Chogh:2\, Tara:1\, Chandra:-1\, Total:2)\nTransit: Purva Phalguni / Simha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:26b6cc9c7ff3c06b6e9744361dc5154ce5b4a16d@muhurat-ams
+DTSTAMP:20251231T190355
+DTSTART;TZID=Europe/Amsterdam:20260108T124700
+DTEND;TZID=Europe/Amsterdam:20260108T134700
+SUMMARY:Labha
+DESCRIPTION:Score: 0 (Chogh:2\, Tara:-1\, Chandra:-1\, Total:0)\nTransit: Uttara Phalguni / Simha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b72876cddee263682735df6106e3f8e1c917ab9a@muhurat-ams
+DTSTAMP:20251231T190355
+DTSTART;TZID=Europe/Amsterdam:20260108T164600
+DTEND;TZID=Europe/Amsterdam:20260108T184700
+SUMMARY:Amrita
+DESCRIPTION:Score: 1 (Chogh:3\, Tara:-1\, Chandra:-1\, Total:1)\nTransit: Uttara Phalguni / Simha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:43710ebb5af793f0b93d2ca8e3ea0674ea6f10b2@muhurat-ams
+DTSTAMP:20251231T190355
+DTSTART;TZID=Europe/Amsterdam:20260108T004700
+DTEND;TZID=Europe/Amsterdam:20260108T024700
+SUMMARY:Labha
+DESCRIPTION:Score: 0 (Chogh:2\, Tara:-1\, Chandra:-1\, Total:0)\nTransit: Uttara Phalguni / Simha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:eff32f575c2ce0c22fbe25c85d6be43b438a4107@muhurat-ams
+DTSTAMP:20251231T190355
+DTSTART;TZID=Europe/Amsterdam:20260108T044700
+DTEND;TZID=Europe/Amsterdam:20260108T064700
+SUMMARY:Shubha
+DESCRIPTION:Score: 0 (Chogh:2\, Tara:-1\, Chandra:-1\, Total:0)\nTransit: Uttara Phalguni / Simha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:3589ddee4582c5e7010221c51558b7743bc0c47b@muhurat-ams
+DTSTAMP:20251231T190355
+DTSTART;TZID=Europe/Amsterdam:20260108T064700
+DTEND;TZID=Europe/Amsterdam:20260108T084800
+SUMMARY:Amrita
+DESCRIPTION:Score: 1 (Chogh:3\, Tara:-1\, Chandra:-1\, Total:1)\nTransit: Uttara Phalguni / Simha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:911b295c1dc11e48ac88546742ad90ae5d819899@muhurat-ams
+DTSTAMP:20251231T190355
+DTSTART;TZID=Europe/Amsterdam:20260109T084800
+DTEND;TZID=Europe/Amsterdam:20260109T094800
+SUMMARY:Chara
+DESCRIPTION:Score: 1 (Chogh:1\, Tara:-1\, Chandra:1\, Total:1)\nTransit: Uttara Phalguni / Kanya\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:c94d7fdb2ade54690ec8715f9145414f438c37f0@muhurat-ams
+DTSTAMP:20251231T190355
+DTSTART;TZID=Europe/Amsterdam:20260109T094800
+DTEND;TZID=Europe/Amsterdam:20260109T104800
+SUMMARY:Labha
+DESCRIPTION:Score: 2 (Chogh:2\, Tara:-1\, Chandra:1\, Total:2)\nTransit: Uttara Phalguni / Kanya\nStart: Avoid\nContinue: Allowed\nTags: Gulikai Kalam\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:a0a9bd2f91bfded4fd9de452df85735347be2994@muhurat-ams
+DTSTAMP:20251231T190355
+DTSTART;TZID=Europe/Amsterdam:20260109T124800
+DTEND;TZID=Europe/Amsterdam:20260109T134800
+SUMMARY:Shubha
+DESCRIPTION:Score: 2 (Chogh:2\, Tara:-1\, Chandra:1\, Total:2)\nTransit: Uttara Phalguni / Kanya\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:535d13fd92d1f96f8ce25d2760c4de7c9b1ef105@muhurat-ams
+DTSTAMP:20251231T190355
+DTSTART;TZID=Europe/Amsterdam:20260109T154800
+DTEND;TZID=Europe/Amsterdam:20260109T164800
+SUMMARY:Chara
+DESCRIPTION:Score: 1 (Chogh:1\, Tara:-1\, Chandra:1\, Total:1)\nTransit: Uttara Phalguni / Kanya\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:d4a33a3662c2aa93611c5d4bb1fb6713ea4b0933@muhurat-ams
+DTSTAMP:20251231T190355
+DTSTART;TZID=Europe/Amsterdam:20260109T004700
+DTEND;TZID=Europe/Amsterdam:20260109T024700
+SUMMARY:Shubha
+DESCRIPTION:Score: 2 (Chogh:2\, Tara:-1\, Chandra:1\, Total:2)\nTransit: Uttara Phalguni / Kanya\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:8ecc1c69c5b51faf8262a3ee5ecfde0430d33b14@muhurat-ams
+DTSTAMP:20251231T190355
+DTSTART;TZID=Europe/Amsterdam:20260109T044700
+DTEND;TZID=Europe/Amsterdam:20260109T064700
+SUMMARY:Chara
+DESCRIPTION:Score: 1 (Chogh:1\, Tara:-1\, Chandra:1\, Total:1)\nTransit: Uttara Phalguni / Kanya\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:05ce8e04237ed65a1df8c6c1ab8c3443dc08e101@muhurat-ams
+DTSTAMP:20251231T190355
+DTSTART;TZID=Europe/Amsterdam:20260112T104700
+DTEND;TZID=Europe/Amsterdam:20260112T114800
+SUMMARY:Shubha
+DESCRIPTION:Score: 2 (Chogh:2\, Tara:1\, Chandra:-1\, Total:2)\nTransit: Swati / Tula\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:9725e0834017c5ce02ed766d369ed5f5a43fd5ca@muhurat-ams
+DTSTAMP:20251231T190355
+DTSTART;TZID=Europe/Amsterdam:20260112T165200
+DTEND;TZID=Europe/Amsterdam:20260112T185100
+SUMMARY:Chara
+DESCRIPTION:Score: 1 (Chogh:1\, Tara:1\, Chandra:-1\, Total:1)\nTransit: Swati / Tula\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:4034f61ab1cd31b8e3685d3504737d8f82bb0735@muhurat-ams
+DTSTAMP:20251231T190355
+DTSTART;TZID=Europe/Amsterdam:20260112T224900
+DTEND;TZID=Europe/Amsterdam:20260113T004900
+SUMMARY:Labha
+DESCRIPTION:Score: 2 (Chogh:2\, Tara:1\, Chandra:-1\, Total:2)\nTransit: Swati / Tula\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:78fa04eff9c29fd04f18f7d973d2c9a8617e8270@muhurat-ams
+DTSTAMP:20251231T190355
+DTSTART;TZID=Europe/Amsterdam:20260112T024800
+DTEND;TZID=Europe/Amsterdam:20260112T044700
+SUMMARY:Shubha
+DESCRIPTION:Score: 2 (Chogh:2\, Tara:1\, Chandra:-1\, Total:2)\nTransit: Swati / Tula\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f5f9b335925887eeb79d241db349de539de353d2@muhurat-ams
+DTSTAMP:20251231T190355
+DTSTART;TZID=Europe/Amsterdam:20260112T064600
+DTEND;TZID=Europe/Amsterdam:20260112T084500
+SUMMARY:Chara
+DESCRIPTION:Score: 1 (Chogh:1\, Tara:1\, Chandra:-1\, Total:1)\nTransit: Swati / Tula\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:98a4a04bf3f07586ad49821f299892e3dba388ac@muhurat-ams
+DTSTAMP:20251231T190355
+DTSTART;TZID=Europe/Amsterdam:20260113T104700
+DTEND;TZID=Europe/Amsterdam:20260113T114800
+SUMMARY:Chara
+DESCRIPTION:Score: 2 (Chogh:1\, Tara:2\, Chandra:-1\, Total:2)\nTransit: Vishakha / Tula\nStart: Avoid\nContinue: Allowed\nTags: Yamaganda\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:8f863518c265548d775f3fee0a3d56c4dcbcf86a@muhurat-ams
+DTSTAMP:20251231T190355
+DTSTART;TZID=Europe/Amsterdam:20260113T124900
+DTEND;TZID=Europe/Amsterdam:20260113T135000
+SUMMARY:Amrita
+DESCRIPTION:Score: 4 (Chogh:3\, Tara:2\, Chandra:-1\, Total:4)\nTransit: Vishakha / Tula\nStart: Avoid\nContinue: Allowed\nTags: Gulikai Kalam\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:3573928d225cdb5addf2d20c188bb3c71a4a8968@muhurat-ams
+DTSTAMP:20251231T190355
+DTSTART;TZID=Europe/Amsterdam:20260113T145200
+DTEND;TZID=Europe/Amsterdam:20260113T155300
+SUMMARY:Shubha
+DESCRIPTION:Score: 3 (Chogh:2\, Tara:2\, Chandra:-1\, Total:3)\nTransit: Vishakha / Tula\nStart: Avoid\nContinue: Allowed\nTags: Rahu Kalam\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:840e703fadbad1dc85b6f4d4da8027ef9f320469@muhurat-ams
+DTSTAMP:20251231T190355
+DTSTART;TZID=Europe/Amsterdam:20260113T024800
+DTEND;TZID=Europe/Amsterdam:20260113T044700
+SUMMARY:Chara
+DESCRIPTION:Score: 2 (Chogh:1\, Tara:2\, Chandra:-1\, Total:2)\nTransit: Vishakha / Tula\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b812e08d23288ee7cfe04fd4ff4b39a5af9886af@muhurat-ams
+DTSTAMP:20251231T190355
+DTSTART;TZID=Europe/Amsterdam:20260114T205200
+DTEND;TZID=Europe/Amsterdam:20260114T225100
+SUMMARY:Amrita
+DESCRIPTION:Score: 0 (Chogh:3\, Tara:-2\, Chandra:-1\, Total:0)\nTransit: Anuradha / Vrishchika\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
