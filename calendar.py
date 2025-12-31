@@ -13,9 +13,10 @@ Requires:
 
 from __future__ import annotations
 
-# Avoid shadowing stdlib "calendar" when this file is named calendar.py.
+import glob
 import importlib
 import os
+import subprocess
 import sys
 
 import argparse
@@ -51,7 +52,8 @@ DAY_PANCHANG_URL = "https://www.drikpanchang.com/panchang/day-panchang.html"
 
 USER_AGENT = "Mozilla/5.0 (compatible; MuhuratCalendarBot/1.0)"
 CACHE_DIR = ".drik_cache"
-REQUEST_SLEEP_SECONDS = 5  # be polite
+REQUEST_SLEEP_SECONDS = 0.4  # be polite
+DOTENV_PATH = ".env"
 
 # Natal config (your kundli from earlier in this thread)
 JANMA_NAKSHATRA = "Pushya"
@@ -65,6 +67,9 @@ START_BLOCKING_KAALS = {"Rahu Kalam", "Yamaganda", "Gulikai Kalam"}
 
 # Vela tags treated as hard-avoid (both start and continue)
 VELA_HARD_AVOID = {"Vaar Vela", "Kaal Vela", "Kaal Ratri"}
+
+GITHUB_REMOTE_SUBSTR = "github.com/devraghu/mahurat"
+SKIP_GITHUB_PUBLISH_ENV = "MAHURAT_SKIP_GITHUB_PUBLISH"
 
 
 # ----------------------------
@@ -267,6 +272,29 @@ def find_index(tokens: List[str], predicate) -> int:
 
 def normalize_heading(t: str) -> str:
     return t.strip().lstrip("#").strip().lower()
+
+
+def load_dotenv(path: str) -> Dict[str, str]:
+    """
+    Minimal `.env` loader. Returns a dict of KEY=VAL entries.
+    Lines starting with '#' or empty lines are ignored.
+    """
+    out: Dict[str, str] = {}
+    try:
+        with open(path, "r", encoding="utf-8") as f:
+            for raw in f:
+                line = raw.strip()
+                if not line or line.startswith("#"):
+                    continue
+                if "=" not in line:
+                    continue
+                key, val = line.split("=", 1)
+                key = key.strip()
+                val = val.strip().strip('"').strip("'")
+                out[key] = val
+    except FileNotFoundError:
+        pass
+    return out
 
 
 # ----------------------------
@@ -608,6 +636,67 @@ def write_ics(path: str, cal_name: str, events: List[Dict]) -> None:
 
 
 # ----------------------------
+# GitHub publishing
+# ----------------------------
+
+def _git_output(cmd: List[str], cwd: str) -> str:
+    proc = subprocess.run(cmd, capture_output=True, text=True, cwd=cwd, check=True)
+    return proc.stdout.strip()
+
+def publish_to_github(outdir: str) -> None:
+    if os.environ.get(SKIP_GITHUB_PUBLISH_ENV):
+        print(f"Skipping GitHub publish because {SKIP_GITHUB_PUBLISH_ENV} is set.")
+        return
+
+    repo_root = _git_output(["git", "rev-parse", "--show-toplevel"], cwd=os.getcwd())
+    remote_url = _git_output(["git", "remote", "get-url", "origin"], cwd=repo_root)
+    if GITHUB_REMOTE_SUBSTR not in remote_url:
+        raise RuntimeError(f"Unexpected Git remote ({remote_url}); publish target must be {GITHUB_REMOTE_SUBSTR}.")
+
+    branch = _git_output(["git", "symbolic-ref", "--short", "HEAD"], cwd=repo_root)
+
+    abs_outdir = os.path.abspath(outdir)
+    if not abs_outdir.startswith(repo_root):
+        raise RuntimeError(f"Output directory {abs_outdir} is not inside the repository root {repo_root}.")
+
+    ics_paths = sorted(glob.glob(os.path.join(abs_outdir, "*.ics")))
+    if not ics_paths:
+        raise RuntimeError(f"No .ics files found in {abs_outdir} to publish.")
+
+    rel_paths = [os.path.relpath(p, repo_root) for p in ics_paths]
+    subprocess.run(["git", "add"] + rel_paths, cwd=repo_root, check=True)
+
+    diff = subprocess.run(["git", "diff", "--cached", "--quiet"], cwd=repo_root)
+    if diff.returncode == 0:
+        print("No changes to choghadiya ICS files; skipping publish.")
+        return
+
+    commit_msg = f"Update choghadiya calendars {date.today().isoformat()}"
+    subprocess.run(["git", "commit", "-m", commit_msg], cwd=repo_root, check=True)
+    dotenv = load_dotenv(os.path.join(repo_root, DOTENV_PATH))
+    pat = dotenv.get("GITHUB_PAT") or os.environ.get("GITHUB_PAT")
+    if not pat:
+        raise RuntimeError(
+            "GITHUB_PAT must be provided via .env or environment to publish to GitHub."
+        )
+
+    askpass = os.path.join(repo_root, "scripts", "git-askpass.sh")
+    if not os.path.exists(askpass):
+        raise RuntimeError("Missing scripts/git-askpass.sh helper for password-less git pushes.")
+
+    push_env = os.environ.copy()
+    push_env["GIT_TERMINAL_PROMPT"] = "0"
+    push_env["GIT_ASKPASS"] = askpass
+    push_env["GITHUB_PAT"] = pat
+    subprocess.run(
+        ["git", "push", "origin", branch],
+        cwd=repo_root,
+        env=push_env,
+        check=True,
+    )
+
+
+# ----------------------------
 # Pipeline: for each date -> blocks -> scored blocks -> events
 # ----------------------------
 
@@ -715,18 +804,23 @@ def generate_calendars(start: date, days: int, outdir: str, refresh: bool) -> No
 
 def parse_args() -> argparse.Namespace:
     p = argparse.ArgumentParser(description="Generate Amsterdam Choghadiya calendars (GOOD/NEUTRAL/AVOID) from Drik Panchang")
-    p.add_argument("--start", type=str, default="2026-01-01", help="Start date (YYYY-MM-DD)")
-    p.add_argument("--days", type=int, default=14, help="Number of days to generate (keep modest; subscriptions can be rolling)")
+    p.add_argument("--start", type=str, default=None, help="Start date (YYYY-MM-DD), defaults to today")
+    p.add_argument("--days", type=int, default=30, help="Number of days to generate (default 30 to keep weekly cache warm)")
     p.add_argument("--outdir", type=str, default="out_ics", help="Output directory for .ics files")
     p.add_argument("--refresh", action="store_true", help="Ignore cache and refetch pages")
+    p.add_argument("--skip-publish", action="store_true", help="Do not commit/push generated files (for local debugging)")
     return p.parse_args()
 
 def main() -> None:
     args = parse_args()
-    y, m, d = [int(x) for x in args.start.split("-")]
-    start_d = date(y, m, d)
+    if args.start:
+        start_d = date.fromisoformat(args.start)
+    else:
+        start_d = date.today()
 
     generate_calendars(start_d, args.days, args.outdir, refresh=args.refresh)
+    if not args.skip_publish:
+        publish_to_github(args.outdir)
     print(f"Done. Files written to: {args.outdir}/")
     print(" - choghadiya_good.ics")
     print(" - choghadiya_neutral.ics")
