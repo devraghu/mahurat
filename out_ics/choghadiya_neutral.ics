@@ -7,2575 +7,2575 @@ X-WR-CALNAME:Choghadiya NEUTRAL (Amsterdam)
 X-WR-TIMEZONE:Europe/Amsterdam
 BEGIN:VEVENT
 UID:260362cdab4cf7b5e4a8d8743e7e0100a990eeb7@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260102T085000
 DTEND;TZID=Europe/Amsterdam:20260102T094900
-SUMMARY:Chara
+SUMMARY:C S:A C:A S:0.5 SS:0.5 CS:0.5
 DESCRIPTION:BaseScore: 0.5 (Chogh:1\, Tara:-2\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 0.5\nContinueScore: 0.5\nAbhijit: No\nTransit: Mrigashira / Mithuna\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e5ce0969841d816c8d92c348bcdeaebe107fc571@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260102T094900
 DTEND;TZID=Europe/Amsterdam:20260102T104700
-SUMMARY:Labha
+SUMMARY:L S:N C:A S:1.5 SS:0.5 CS:1.5
 DESCRIPTION:BaseScore: 1.5 (Chogh:2\, Tara:-2\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 0.5\nContinueScore: 1.5\nAbhijit: No\nTransit: Mrigashira / Mithuna\nStart: Avoid\nContinue: Allowed\nTags: Gulikai Kalam\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a5195a37c0d059117e3ca23ff6f2829897469d69@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260102T104700
 DTEND;TZID=Europe/Amsterdam:20260102T114600
-SUMMARY:Amrita
+SUMMARY:A S:A C:A S:2.5 SS:1.5 CS:2.5
 DESCRIPTION:BaseScore: 2.5 (Chogh:3\, Tara:-2\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 1.5\nContinueScore: 2.5\nAbhijit: No\nTransit: Mrigashira / Mithuna\nStart: Allowed\nContinue: Allowed\nTags: Vaar Vela\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6d38adc72724ba35b718e2fd10f45f080bdcf5a0@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260102T134300
 DTEND;TZID=Europe/Amsterdam:20260102T144200
-SUMMARY:Roga
+SUMMARY:R S:A C:A S:-2.5 SS:-2.5 CS:-2.5
 DESCRIPTION:BaseScore: -2.5 (Chogh:-2\, Tara:-2\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -2.5\nContinueScore: -2.5\nAbhijit: No\nTransit: Mrigashira / Mithuna\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a4fee7d598a501310e25c1f4412e9dcdef678cf9@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260102T144200
 DTEND;TZID=Europe/Amsterdam:20260102T154000
-SUMMARY:Udvega
+SUMMARY:U S:N C:A S:-1.5 SS:-2.5 CS:-1.5
 DESCRIPTION:BaseScore: -1.5 (Chogh:-1\, Tara:-2\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -2.5\nContinueScore: -1.5\nAbhijit: No\nTransit: Mrigashira / Mithuna\nStart: Avoid\nContinue: Allowed\nTags: Yamaganda\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:275c93eeed3748e4b13774a67af73a13e392dc80@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260102T154000
 DTEND;TZID=Europe/Amsterdam:20260102T163900
-SUMMARY:Chara
+SUMMARY:C S:A C:A S:0.5 SS:0.5 CS:0.5
 DESCRIPTION:BaseScore: 0.5 (Chogh:1\, Tara:-2\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 0.5\nContinueScore: 0.5\nAbhijit: No\nTransit: Mrigashira / Mithuna\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:46495d258f240e32846b7cf45552cbd9dd8cd2bc@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260102T163900
 DTEND;TZID=Europe/Amsterdam:20260102T184000
-SUMMARY:Roga
+SUMMARY:R S:A C:A S:-2.5 SS:-2.5 CS:-2.5
 DESCRIPTION:BaseScore: -2.5 (Chogh:-2\, Tara:-2\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -2.5\nContinueScore: -2.5\nAbhijit: No\nTransit: Mrigashira / Mithuna\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e285e0b1207ad339103782f864f7877a373eade9@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260102T184000
 DTEND;TZID=Europe/Amsterdam:20260102T204200
-SUMMARY:Kala
+SUMMARY:K S:A C:A S:-2.5 SS:-2.5 CS:-2.5
 DESCRIPTION:BaseScore: -2.5 (Chogh:-2\, Tara:-2\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -2.5\nContinueScore: -2.5\nAbhijit: No\nTransit: Mrigashira / Mithuna\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:fa00e0ad1d44417f5a541fd806db96c1f496e1d8@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260102T204200
 DTEND;TZID=Europe/Amsterdam:20260102T224300
-SUMMARY:Labha
+SUMMARY:L S:N C:A S:1.5 SS:0.5 CS:1.5
 DESCRIPTION:BaseScore: 1.5 (Chogh:2\, Tara:-2\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 0.5\nContinueScore: 1.5\nAbhijit: No\nTransit: Mrigashira / Mithuna\nStart: Avoid\nContinue: Allowed\nTags: Kaal Ratri\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a65501aed9e453fe0c8b2b413803da37637d95fc@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260102T224300
 DTEND;TZID=Europe/Amsterdam:20260103T004400
-SUMMARY:Udvega
+SUMMARY:U S:A C:A S:-1.5 SS:-1.5 CS:-1.5
 DESCRIPTION:BaseScore: -1.5 (Chogh:-1\, Tara:-2\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -1.5\nContinueScore: -1.5\nAbhijit: No\nTransit: Mrigashira / Mithuna\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:9ba624cb487b7872b51bfa758b468ab7d487db49@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260103T004400
 DTEND;TZID=Europe/Amsterdam:20260103T024600
-SUMMARY:Shubha
+SUMMARY:S S:A C:A S:1.5 SS:1.5 CS:1.5
 DESCRIPTION:BaseScore: 1.5 (Chogh:2\, Tara:-2\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 1.5\nContinueScore: 1.5\nAbhijit: No\nTransit: Mrigashira / Mithuna\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8d4b718804c0bce537fbe8e5c8a6334cfaefac3a@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260103T044700
 DTEND;TZID=Europe/Amsterdam:20260103T064900
-SUMMARY:Chara
+SUMMARY:C S:A C:A S:0.5 SS:0.5 CS:0.5
 DESCRIPTION:BaseScore: 0.5 (Chogh:1\, Tara:-2\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 0.5\nContinueScore: 0.5\nAbhijit: No\nTransit: Mrigashira / Mithuna\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d6140032cd29166f7f8e88df67613958a4e2548f@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260103T064900
 DTEND;TZID=Europe/Amsterdam:20260103T085000
-SUMMARY:Roga
+SUMMARY:R S:A C:A S:-2.5 SS:-2.5 CS:-2.5
 DESCRIPTION:BaseScore: -2.5 (Chogh:-2\, Tara:-2\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -2.5\nContinueScore: -2.5\nAbhijit: No\nTransit: Mrigashira / Mithuna\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:bf129c55c774392af80ba7641bda82b738da9b0a@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260103T085000
 DTEND;TZID=Europe/Amsterdam:20260103T094900
-SUMMARY:Kala
+SUMMARY:K S:N C:A S:0.5 SS:-1.5 CS:0.5
 DESCRIPTION:BaseScore: 0.5 (Chogh:-2\, Tara:1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -1.5\nContinueScore: 0.5\nAbhijit: No\nTransit: Ardra / Mithuna\nStart: Avoid\nContinue: Allowed\nTags: Kaal Vela\, Gulikai Kalam\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:55f8a9c04b2cb4d4df1924307c009e8f3c2715ad@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260103T104800
 DTEND;TZID=Europe/Amsterdam:20260103T114600
-SUMMARY:Roga
+SUMMARY:R S:N C:A S:0.5 SS:-0.5 CS:0.5
 DESCRIPTION:BaseScore: 0.5 (Chogh:-2\, Tara:1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -0.5\nContinueScore: 0.5\nAbhijit: No\nTransit: Ardra / Mithuna\nStart: Avoid\nContinue: Allowed\nTags: Rahu Kalam\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:fbd4c4c66fd36638fcaeacb9eaab95c97bd91f88@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260103T134400
 DTEND;TZID=Europe/Amsterdam:20260103T144300
-SUMMARY:Labha
+SUMMARY:L S:A C:A S:4.5 SS:2.5 CS:4.5
 DESCRIPTION:BaseScore: 4.5 (Chogh:2\, Tara:1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 2.5\nContinueScore: 4.5\nAbhijit: No\nTransit: Ardra / Mithuna\nStart: Allowed\nContinue: Allowed\nTags: Vaar Vela\, Yamaganda\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:9bfe4e46afef590499ec6feb4ff247bc388523e7@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260103T154100
 DTEND;TZID=Europe/Amsterdam:20260103T164000
-SUMMARY:Kala
+SUMMARY:K S:N C:A S:0.5 SS:-0.5 CS:0.5
 DESCRIPTION:BaseScore: 0.5 (Chogh:-2\, Tara:1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -0.5\nContinueScore: 0.5\nAbhijit: No\nTransit: Ardra / Mithuna\nStart: Avoid\nContinue: Allowed\nTags: Kaal Vela\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:46e43b79c55c89f3984cc921681fc1cd921f5a63@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260103T164000
 DTEND;TZID=Europe/Amsterdam:20260103T184100
-SUMMARY:Labha
+SUMMARY:L S:A C:A S:4.5 SS:3.5 CS:4.5
 DESCRIPTION:BaseScore: 4.5 (Chogh:2\, Tara:1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 3.5\nContinueScore: 4.5\nAbhijit: No\nTransit: Ardra / Mithuna\nStart: Allowed\nContinue: Allowed\nTags: Kaal Ratri\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:7aba533490e2a68c25e7dd00b4ff52a736e2413f@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260103T184100
 DTEND;TZID=Europe/Amsterdam:20260103T204200
-SUMMARY:Udvega
+SUMMARY:U S:A C:A S:1.5 SS:1.5 CS:1.5
 DESCRIPTION:BaseScore: 1.5 (Chogh:-1\, Tara:1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 1.5\nContinueScore: 1.5\nAbhijit: No\nTransit: Ardra / Mithuna\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:86e0ba276b94c14f021238960bf3ee44142736c6@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260104T024600
 DTEND;TZID=Europe/Amsterdam:20260104T044700
-SUMMARY:Roga
+SUMMARY:R S:A C:A S:0.5 SS:0.5 CS:0.5
 DESCRIPTION:BaseScore: 0.5 (Chogh:-2\, Tara:1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 0.5\nContinueScore: 0.5\nAbhijit: No\nTransit: Ardra / Mithuna\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:5396008aaa8ec44d14ae8f86a5229307cfab73a0@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260104T044700
 DTEND;TZID=Europe/Amsterdam:20260104T064900
-SUMMARY:Kala
+SUMMARY:K S:A C:A S:0.5 SS:0.5 CS:0.5
 DESCRIPTION:BaseScore: 0.5 (Chogh:-2\, Tara:1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 0.5\nContinueScore: 0.5\nAbhijit: No\nTransit: Ardra / Mithuna\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:52cf966ef424e218459f46a493f7cab309b1c1c4@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260104T064900
 DTEND;TZID=Europe/Amsterdam:20260104T085000
-SUMMARY:Labha
+SUMMARY:L S:A C:A S:4.5 SS:3.5 CS:4.5
 DESCRIPTION:BaseScore: 4.5 (Chogh:2\, Tara:1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 3.5\nContinueScore: 4.5\nAbhijit: No\nTransit: Ardra / Mithuna\nStart: Allowed\nContinue: Allowed\nTags: Kaal Ratri\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ac66e057daacb3fe3bbfd4740eaa6eced6d9f7be@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260104T114700
 DTEND;TZID=Europe/Amsterdam:20260104T124600
-SUMMARY:Amrita
+SUMMARY:A S:A C:A S:7.5 SS:7.5 CS:8.5
 DESCRIPTION:BaseScore: 7.5 (Chogh:3\, Tara:2\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 7.5\nContinueScore: 8.5\nAbhijit: Yes\nTransit: Punarvasu / Karka\nStart: Allowed\nContinue: Allowed\nTags: Vaar Vela\, Abhijit Muhurat\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6e50498fc4c8e8b80f20cb883ee401ad8fe2b8ad@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260104T124600
 DTEND;TZID=Europe/Amsterdam:20260104T134400
-SUMMARY:Kala
+SUMMARY:K S:A C:A S:2.5 SS:1.5 CS:3.5
 DESCRIPTION:BaseScore: 2.5 (Chogh:-2\, Tara:2\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 1.5\nContinueScore: 3.5\nAbhijit: Yes\nTransit: Punarvasu / Karka\nStart: Allowed\nContinue: Allowed\nTags: Kaal Vela\, Abhijit Muhurat\, Yamaganda\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2acf77eaa8cf3996d203cb4480e3d95c8a85b281@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260104T144300
 DTEND;TZID=Europe/Amsterdam:20260104T154200
-SUMMARY:Roga
+SUMMARY:R S:A C:A S:2.5 SS:1.5 CS:2.5
 DESCRIPTION:BaseScore: 2.5 (Chogh:-2\, Tara:2\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 1.5\nContinueScore: 2.5\nAbhijit: No\nTransit: Punarvasu / Karka\nStart: Allowed\nContinue: Allowed\nTags: Gulikai Kalam\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a08b36e615ef0bf8873f84187be0bb0ae5a89702@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260104T154200
 DTEND;TZID=Europe/Amsterdam:20260104T164100
-SUMMARY:Udvega
+SUMMARY:U S:A C:A S:3.5 SS:2.5 CS:3.5
 DESCRIPTION:BaseScore: 3.5 (Chogh:-1\, Tara:2\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 2.5\nContinueScore: 3.5\nAbhijit: No\nTransit: Punarvasu / Karka\nStart: Allowed\nContinue: Allowed\nTags: Rahu Kalam\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ff0768157a9ed5a30ea8ca0187b66a1b8f0d7edd@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260105T024600
 DTEND;TZID=Europe/Amsterdam:20260105T044700
-SUMMARY:Labha
+SUMMARY:L S:A C:A S:6.5 SS:5.5 CS:6.5
 DESCRIPTION:BaseScore: 6.5 (Chogh:2\, Tara:2\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 5.5\nContinueScore: 6.5\nAbhijit: No\nTransit: Punarvasu / Karka\nStart: Allowed\nContinue: Allowed\nTags: Kaal Ratri\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f85bc8052e25ef3f05ff93b60db476242dbbbf48@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260105T094900
 DTEND;TZID=Europe/Amsterdam:20260105T104800
-SUMMARY:Kala
+SUMMARY:K S:N C:A S:-0.5 SS:-2.5 CS:-0.5
 DESCRIPTION:BaseScore: -0.5 (Chogh:-2\, Tara:-1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -2.5\nContinueScore: -0.5\nAbhijit: No\nTransit: Pushya / Karka\nStart: Avoid\nContinue: Allowed\nTags: Kaal Vela\, Rahu Kalam\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:5f54f9477d8cf966092861ee4a6127ee288f788c@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260105T114700
 DTEND;TZID=Europe/Amsterdam:20260105T124600
-SUMMARY:Roga
+SUMMARY:R S:N C:A S:-0.5 SS:-0.5 CS:0.5
 DESCRIPTION:BaseScore: -0.5 (Chogh:-2\, Tara:-1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -0.5\nContinueScore: 0.5\nAbhijit: Yes\nTransit: Pushya / Karka\nStart: Avoid\nContinue: Allowed\nTags: Abhijit Muhurat\, Yamaganda\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b60d1f40c44b35400080270bb1e745db1049f202@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260105T124600
 DTEND;TZID=Europe/Amsterdam:20260105T134500
-SUMMARY:Udvega
+SUMMARY:U S:A C:A S:0.5 SS:1.5 CS:1.5
 DESCRIPTION:BaseScore: 0.5 (Chogh:-1\, Tara:-1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 1.5\nContinueScore: 1.5\nAbhijit: Yes\nTransit: Pushya / Karka\nStart: Allowed\nContinue: Allowed\nTags: Abhijit Muhurat\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:fa7329a31ece1c45f24b466c7724e7ec25b06e04@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260105T134500
 DTEND;TZID=Europe/Amsterdam:20260105T144400
-SUMMARY:Chara
+SUMMARY:C S:A C:A S:2.5 SS:1.5 CS:2.5
 DESCRIPTION:BaseScore: 2.5 (Chogh:1\, Tara:-1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 1.5\nContinueScore: 2.5\nAbhijit: No\nTransit: Pushya / Karka\nStart: Allowed\nContinue: Allowed\nTags: Gulikai Kalam\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:13201a3ec49ae1299bfb56603ad46e6822d1eba0@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260105T144400
 DTEND;TZID=Europe/Amsterdam:20260105T154300
-SUMMARY:Labha
+SUMMARY:L S:A C:A S:3.5 SS:2.5 CS:3.5
 DESCRIPTION:BaseScore: 3.5 (Chogh:2\, Tara:-1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 2.5\nContinueScore: 3.5\nAbhijit: No\nTransit: Pushya / Karka\nStart: Allowed\nContinue: Allowed\nTags: Vaar Vela\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:9eb8e5e073c34d8f144cffed88e87fa317698ed4@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260105T184300
 DTEND;TZID=Europe/Amsterdam:20260105T204400
-SUMMARY:Roga
+SUMMARY:R S:A C:A S:-0.5 SS:-0.5 CS:-0.5
 DESCRIPTION:BaseScore: -0.5 (Chogh:-2\, Tara:-1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -0.5\nContinueScore: -0.5\nAbhijit: No\nTransit: Pushya / Karka\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:4cb35e7889761a7b8863f720aa057123379eed3b@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260105T204400
 DTEND;TZID=Europe/Amsterdam:20260105T224500
-SUMMARY:Kala
+SUMMARY:K S:A C:A S:-0.5 SS:-0.5 CS:-0.5
 DESCRIPTION:BaseScore: -0.5 (Chogh:-2\, Tara:-1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -0.5\nContinueScore: -0.5\nAbhijit: No\nTransit: Pushya / Karka\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:78d4d274428369c7f2736840bce9bc34342edae1@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260105T224500
 DTEND;TZID=Europe/Amsterdam:20260106T004600
-SUMMARY:Labha
+SUMMARY:L S:A C:A S:3.5 SS:2.5 CS:3.5
 DESCRIPTION:BaseScore: 3.5 (Chogh:2\, Tara:-1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 2.5\nContinueScore: 3.5\nAbhijit: No\nTransit: Pushya / Karka\nStart: Allowed\nContinue: Allowed\nTags: Kaal Ratri\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8daf02be60ea6bd32140ff50ce85c0850a47d431@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260106T004600
 DTEND;TZID=Europe/Amsterdam:20260106T024700
-SUMMARY:Udvega
+SUMMARY:U S:A C:A S:0.5 SS:0.5 CS:0.5
 DESCRIPTION:BaseScore: 0.5 (Chogh:-1\, Tara:-1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 0.5\nContinueScore: 0.5\nAbhijit: No\nTransit: Pushya / Karka\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f4b828ab0e6aca912ba513ee436033cba4538e96@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260106T084900
 DTEND;TZID=Europe/Amsterdam:20260106T094800
-SUMMARY:Roga
+SUMMARY:R S:A C:A S:-1.5 SS:-1.5 CS:-1.5
 DESCRIPTION:BaseScore: -1.5 (Chogh:-2\, Tara:-1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -1.5\nContinueScore: -1.5\nAbhijit: No\nTransit: Magha / Simha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ca66a4bd45c9e547d2b10715519650f8c216257e@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260106T094800
 DTEND;TZID=Europe/Amsterdam:20260106T104800
-SUMMARY:Udvega
+SUMMARY:U S:N C:A S:-0.5 SS:-1.5 CS:-0.5
 DESCRIPTION:BaseScore: -0.5 (Chogh:-1\, Tara:-1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -1.5\nContinueScore: -0.5\nAbhijit: No\nTransit: Magha / Simha\nStart: Avoid\nContinue: Allowed\nTags: Vaar Vela\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:89ac011ef069272c6a9332c67ad2fc524f824e30@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260106T104800
 DTEND;TZID=Europe/Amsterdam:20260106T114700
-SUMMARY:Chara
+SUMMARY:C S:N C:A S:1.5 SS:0.5 CS:1.5
 DESCRIPTION:BaseScore: 1.5 (Chogh:1\, Tara:-1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 0.5\nContinueScore: 1.5\nAbhijit: No\nTransit: Magha / Simha\nStart: Avoid\nContinue: Allowed\nTags: Yamaganda\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b977e9423de79c10869b542a24b76e9442aba613@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260106T124600
 DTEND;TZID=Europe/Amsterdam:20260106T134600
-SUMMARY:Amrita
+SUMMARY:A S:A C:A S:3.5 SS:3.5 CS:4.5
 DESCRIPTION:BaseScore: 3.5 (Chogh:3\, Tara:-1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 3.5\nContinueScore: 4.5\nAbhijit: Yes\nTransit: Magha / Simha\nStart: Allowed\nContinue: Allowed\nTags: Abhijit Muhurat\, Gulikai Kalam\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:cb1ac9aab4f138cd1d8b6ec2ef30e889df82bc56@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260106T134600
 DTEND;TZID=Europe/Amsterdam:20260106T144500
-SUMMARY:Kala
+SUMMARY:K S:N C:A S:-1.5 SS:-2.5 CS:-1.5
 DESCRIPTION:BaseScore: -1.5 (Chogh:-2\, Tara:-1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -2.5\nContinueScore: -1.5\nAbhijit: No\nTransit: Magha / Simha\nStart: Avoid\nContinue: Allowed\nTags: Kaal Vela\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8a2efc54f2a85b2b826f95f30aec5a304573c5b0@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260106T144500
 DTEND;TZID=Europe/Amsterdam:20260106T154400
-SUMMARY:Shubha
+SUMMARY:S S:A C:A S:2.5 SS:1.5 CS:2.5
 DESCRIPTION:BaseScore: 2.5 (Chogh:2\, Tara:-1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 1.5\nContinueScore: 2.5\nAbhijit: No\nTransit: Magha / Simha\nStart: Allowed\nContinue: Allowed\nTags: Rahu Kalam\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:3c91121ad8bebfdb0106792159177409b669c5ec@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260106T154400
 DTEND;TZID=Europe/Amsterdam:20260106T164400
-SUMMARY:Roga
+SUMMARY:R S:A C:A S:-1.5 SS:-1.5 CS:-1.5
 DESCRIPTION:BaseScore: -1.5 (Chogh:-2\, Tara:-1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -1.5\nContinueScore: -1.5\nAbhijit: No\nTransit: Magha / Simha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:1cf2a813399cdf77447b548b608eae46eaeb8ff0@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260106T164400
 DTEND;TZID=Europe/Amsterdam:20260106T184400
-SUMMARY:Kala
+SUMMARY:K S:A C:A S:-1.5 SS:-1.5 CS:-1.5
 DESCRIPTION:BaseScore: -1.5 (Chogh:-2\, Tara:-1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -1.5\nContinueScore: -1.5\nAbhijit: No\nTransit: Magha / Simha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:702ca4e66168002d7d511230ad3d401ef97becc2@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260106T184400
 DTEND;TZID=Europe/Amsterdam:20260106T204500
-SUMMARY:Labha
+SUMMARY:L S:A C:A S:2.5 SS:1.5 CS:2.5
 DESCRIPTION:BaseScore: 2.5 (Chogh:2\, Tara:-1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 1.5\nContinueScore: 2.5\nAbhijit: No\nTransit: Magha / Simha\nStart: Allowed\nContinue: Allowed\nTags: Kaal Ratri\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:93e9c65e9fb9dfc33867927efbea47b359d08538@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260106T204500
 DTEND;TZID=Europe/Amsterdam:20260106T224600
-SUMMARY:Udvega
+SUMMARY:U S:A C:A S:-0.5 SS:-0.5 CS:-0.5
 DESCRIPTION:BaseScore: -0.5 (Chogh:-1\, Tara:-1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -0.5\nContinueScore: -0.5\nAbhijit: No\nTransit: Magha / Simha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:958eb33a0885aae4a10a78f2cad06999e1c2c54c@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260107T024700
 DTEND;TZID=Europe/Amsterdam:20260107T044700
-SUMMARY:Chara
+SUMMARY:C S:A C:A S:1.5 SS:1.5 CS:1.5
 DESCRIPTION:BaseScore: 1.5 (Chogh:1\, Tara:-1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 1.5\nContinueScore: 1.5\nAbhijit: No\nTransit: Magha / Simha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ad58af45280847da3c00cbb1cd123d01780dd986@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260107T044700
 DTEND;TZID=Europe/Amsterdam:20260107T064800
-SUMMARY:Roga
+SUMMARY:R S:A C:A S:-1.5 SS:-1.5 CS:-1.5
 DESCRIPTION:BaseScore: -1.5 (Chogh:-2\, Tara:-1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -1.5\nContinueScore: -1.5\nAbhijit: No\nTransit: Magha / Simha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:fef2239305f69787144fd6068e4b072914f88dd0@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260107T064800
 DTEND;TZID=Europe/Amsterdam:20260107T084900
-SUMMARY:Kala
+SUMMARY:K S:A C:A S:-1.5 SS:-1.5 CS:-1.5
 DESCRIPTION:BaseScore: -1.5 (Chogh:-2\, Tara:-1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -1.5\nContinueScore: -1.5\nAbhijit: No\nTransit: Magha / Simha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:74189e1a7a769a953bde374bc84524db5362ad9b@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260107T094800
 DTEND;TZID=Europe/Amsterdam:20260107T104800
-SUMMARY:Amrita
+SUMMARY:A S:A C:A S:5.5 SS:4.5 CS:5.5
 DESCRIPTION:BaseScore: 5.5 (Chogh:3\, Tara:1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 4.5\nContinueScore: 5.5\nAbhijit: No\nTransit: Purva Phalguni / Simha\nStart: Allowed\nContinue: Allowed\nTags: Yamaganda\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:7f90e4deecca502edd42ba1150957c8865541052@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260107T104800
 DTEND;TZID=Europe/Amsterdam:20260107T114700
-SUMMARY:Kala
+SUMMARY:K S:N C:A S:0.5 SS:-0.5 CS:0.5
 DESCRIPTION:BaseScore: 0.5 (Chogh:-2\, Tara:1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -0.5\nContinueScore: 0.5\nAbhijit: No\nTransit: Purva Phalguni / Simha\nStart: Avoid\nContinue: Allowed\nTags: Kaal Vela\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:c4a02153b822e869454ed3c05f0e97c734962e06@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260107T114700
 DTEND;TZID=Europe/Amsterdam:20260107T124700
-SUMMARY:Shubha
+SUMMARY:S S:A C:A S:4.5 SS:3.5 CS:4.5
 DESCRIPTION:BaseScore: 4.5 (Chogh:2\, Tara:1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 3.5\nContinueScore: 4.5\nAbhijit: No\nTransit: Purva Phalguni / Simha\nStart: Allowed\nContinue: Allowed\nTags: Gulikai Kalam\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:95cda2b1d1645b4d4d2e3c55809e4c750c359822@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260107T124700
 DTEND;TZID=Europe/Amsterdam:20260107T134600
-SUMMARY:Roga
+SUMMARY:R S:N C:A S:0.5 SS:-1.5 CS:0.5
 DESCRIPTION:BaseScore: 0.5 (Chogh:-2\, Tara:1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -1.5\nContinueScore: 0.5\nAbhijit: No\nTransit: Purva Phalguni / Simha\nStart: Avoid\nContinue: Allowed\nTags: Vaar Vela\, Rahu Kalam\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f13f1cbdee12f4ad8010e376b6b2d82c4e71f6c1@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260107T134600
 DTEND;TZID=Europe/Amsterdam:20260107T144600
-SUMMARY:Udvega
+SUMMARY:U S:A C:A S:1.5 SS:1.5 CS:1.5
 DESCRIPTION:BaseScore: 1.5 (Chogh:-1\, Tara:1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 1.5\nContinueScore: 1.5\nAbhijit: No\nTransit: Purva Phalguni / Simha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:9543d27484f1123485aad9aa5a9fbf6992ef2289@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260107T164500
 DTEND;TZID=Europe/Amsterdam:20260107T184500
-SUMMARY:Udvega
+SUMMARY:U S:A C:A S:1.5 SS:1.5 CS:1.5
 DESCRIPTION:BaseScore: 1.5 (Chogh:-1\, Tara:1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 1.5\nContinueScore: 1.5\nAbhijit: No\nTransit: Purva Phalguni / Simha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:989f34be93c0ac13eb1bf5d16921f56b23ea971c@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260108T004700
 DTEND;TZID=Europe/Amsterdam:20260108T024700
-SUMMARY:Roga
+SUMMARY:R S:A C:A S:0.5 SS:0.5 CS:0.5
 DESCRIPTION:BaseScore: 0.5 (Chogh:-2\, Tara:1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 0.5\nContinueScore: 0.5\nAbhijit: No\nTransit: Purva Phalguni / Simha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d41f47c8c9821b635bbb85bfea83babe64c5a715@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260108T024700
 DTEND;TZID=Europe/Amsterdam:20260108T044700
-SUMMARY:Kala
+SUMMARY:K S:A C:A S:0.5 SS:0.5 CS:0.5
 DESCRIPTION:BaseScore: 0.5 (Chogh:-2\, Tara:1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 0.5\nContinueScore: 0.5\nAbhijit: No\nTransit: Purva Phalguni / Simha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:7d331cc2a31a23d1f6c87171b51d216e5d8a5b50@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260108T044700
 DTEND;TZID=Europe/Amsterdam:20260108T064800
-SUMMARY:Labha
+SUMMARY:L S:A C:A S:4.5 SS:3.5 CS:4.5
 DESCRIPTION:BaseScore: 4.5 (Chogh:2\, Tara:1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 3.5\nContinueScore: 4.5\nAbhijit: No\nTransit: Purva Phalguni / Simha\nStart: Allowed\nContinue: Allowed\nTags: Kaal Ratri\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2b7e8aa40dcfeba550068f36c7e9f2fcecb9c08c@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260108T064800
 DTEND;TZID=Europe/Amsterdam:20260108T084800
-SUMMARY:Udvega
+SUMMARY:U S:A C:A S:1.5 SS:1.5 CS:1.5
 DESCRIPTION:BaseScore: 1.5 (Chogh:-1\, Tara:1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 1.5\nContinueScore: 1.5\nAbhijit: No\nTransit: Purva Phalguni / Simha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d1d3f21f00823926971501e43d567a28bdb5b51d@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260108T084800
 DTEND;TZID=Europe/Amsterdam:20260108T094800
-SUMMARY:Shubha
+SUMMARY:S S:A C:A S:2.5 SS:1.5 CS:2.5
 DESCRIPTION:BaseScore: 2.5 (Chogh:2\, Tara:-1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 1.5\nContinueScore: 2.5\nAbhijit: No\nTransit: Uttara Phalguni / Simha\nStart: Allowed\nContinue: Allowed\nTags: Yamaganda\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:545ea2e44f3b3c36969fb3e8390ea842221dd0eb@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260108T094800
 DTEND;TZID=Europe/Amsterdam:20260108T104800
-SUMMARY:Roga
+SUMMARY:R S:A C:A S:-1.5 SS:-1.5 CS:-1.5
 DESCRIPTION:BaseScore: -1.5 (Chogh:-2\, Tara:-1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -1.5\nContinueScore: -1.5\nAbhijit: No\nTransit: Uttara Phalguni / Simha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:dad05a1b55e0f5ef5491ce1a17873385c0768ddd@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260108T104800
 DTEND;TZID=Europe/Amsterdam:20260108T114800
-SUMMARY:Udvega
+SUMMARY:U S:N C:A S:-0.5 SS:-1.5 CS:-0.5
 DESCRIPTION:BaseScore: -0.5 (Chogh:-1\, Tara:-1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -1.5\nContinueScore: -0.5\nAbhijit: No\nTransit: Uttara Phalguni / Simha\nStart: Avoid\nContinue: Allowed\nTags: Gulikai Kalam\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:9c594598ff1c489d5a41c3744b19461adfc22f77@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260108T134700
 DTEND;TZID=Europe/Amsterdam:20260108T144700
-SUMMARY:Amrita
+SUMMARY:A S:A C:A S:3.5 SS:2.5 CS:3.5
 DESCRIPTION:BaseScore: 3.5 (Chogh:3\, Tara:-1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 2.5\nContinueScore: 3.5\nAbhijit: No\nTransit: Uttara Phalguni / Simha\nStart: Allowed\nContinue: Allowed\nTags: Rahu Kalam\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e5812e4ac7a5072db50d1e8ed2d92fc9f10f6830@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260108T144700
 DTEND;TZID=Europe/Amsterdam:20260108T154700
-SUMMARY:Kala
+SUMMARY:K S:N C:A S:-1.5 SS:-2.5 CS:-1.5
 DESCRIPTION:BaseScore: -1.5 (Chogh:-2\, Tara:-1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -2.5\nContinueScore: -1.5\nAbhijit: No\nTransit: Uttara Phalguni / Simha\nStart: Avoid\nContinue: Allowed\nTags: Kaal Vela\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:cd83607da30ae6e10f55e67de7e71644f98af49f@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260108T154700
 DTEND;TZID=Europe/Amsterdam:20260108T164600
-SUMMARY:Shubha
+SUMMARY:S S:A C:A S:2.5 SS:1.5 CS:2.5
 DESCRIPTION:BaseScore: 2.5 (Chogh:2\, Tara:-1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 1.5\nContinueScore: 2.5\nAbhijit: No\nTransit: Uttara Phalguni / Simha\nStart: Allowed\nContinue: Allowed\nTags: Vaar Vela\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:7985e16dd06d3119fdb99412df88a762c3f78fb6@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260108T184700
 DTEND;TZID=Europe/Amsterdam:20260108T204700
-SUMMARY:Chara
+SUMMARY:C S:A C:A S:1.5 SS:1.5 CS:1.5
 DESCRIPTION:BaseScore: 1.5 (Chogh:1\, Tara:-1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 1.5\nContinueScore: 1.5\nAbhijit: No\nTransit: Uttara Phalguni / Simha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:0cd2543b0c4ba9bb2e38d670189b0997ffbee7b2@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260108T204700
 DTEND;TZID=Europe/Amsterdam:20260108T224700
-SUMMARY:Roga
+SUMMARY:R S:A C:A S:-1.5 SS:-1.5 CS:-1.5
 DESCRIPTION:BaseScore: -1.5 (Chogh:-2\, Tara:-1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -1.5\nContinueScore: -1.5\nAbhijit: No\nTransit: Uttara Phalguni / Simha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e9fb2a67d51fb438eee49b352962b8fd09a32a56@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260108T224700
 DTEND;TZID=Europe/Amsterdam:20260109T004700
-SUMMARY:Kala
+SUMMARY:K S:A C:A S:-1.5 SS:-1.5 CS:-1.5
 DESCRIPTION:BaseScore: -1.5 (Chogh:-2\, Tara:-1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -1.5\nContinueScore: -1.5\nAbhijit: No\nTransit: Uttara Phalguni / Simha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ef8a18b4fc2e55925d658462c1d3d7b23513f108@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260109T004700
 DTEND;TZID=Europe/Amsterdam:20260109T024700
-SUMMARY:Labha
+SUMMARY:L S:A C:A S:2.5 SS:1.5 CS:2.5
 DESCRIPTION:BaseScore: 2.5 (Chogh:2\, Tara:-1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 1.5\nContinueScore: 2.5\nAbhijit: No\nTransit: Uttara Phalguni / Simha\nStart: Allowed\nContinue: Allowed\nTags: Kaal Ratri\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:56f59c63b6832e369e724c8c36d84f2f3c03c4c6@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260109T024700
 DTEND;TZID=Europe/Amsterdam:20260109T044700
-SUMMARY:Udvega
+SUMMARY:U S:A C:A S:-0.5 SS:-0.5 CS:-0.5
 DESCRIPTION:BaseScore: -0.5 (Chogh:-1\, Tara:-1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -0.5\nContinueScore: -0.5\nAbhijit: No\nTransit: Uttara Phalguni / Simha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:c94d7fdb2ade54690ec8715f9145414f438c37f0@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260109T094800
 DTEND;TZID=Europe/Amsterdam:20260109T104800
-SUMMARY:Labha
+SUMMARY:L S:A C:A S:3.5 SS:2.5 CS:3.5
 DESCRIPTION:BaseScore: 3.5 (Chogh:2\, Tara:-1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 2.5\nContinueScore: 3.5\nAbhijit: No\nTransit: Uttara Phalguni / Kanya\nStart: Allowed\nContinue: Allowed\nTags: Gulikai Kalam\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e2340886908ca3cdfa8c9195b59852434499cad8@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260109T104800
 DTEND;TZID=Europe/Amsterdam:20260109T114800
-SUMMARY:Amrita
+SUMMARY:A S:A C:A S:4.5 SS:3.5 CS:4.5
 DESCRIPTION:BaseScore: 4.5 (Chogh:3\, Tara:-1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 3.5\nContinueScore: 4.5\nAbhijit: No\nTransit: Uttara Phalguni / Kanya\nStart: Allowed\nContinue: Allowed\nTags: Vaar Vela\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:5de8fcac3b0b7830431cd1932b1327bf19b94a2a@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260109T114800
 DTEND;TZID=Europe/Amsterdam:20260109T124800
-SUMMARY:Kala
+SUMMARY:K S:N C:A S:-0.5 SS:-1.5 CS:0.5
 DESCRIPTION:BaseScore: -0.5 (Chogh:-2\, Tara:-1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -1.5\nContinueScore: 0.5\nAbhijit: Yes\nTransit: Uttara Phalguni / Kanya\nStart: Avoid\nContinue: Allowed\nTags: Kaal Vela\, Abhijit Muhurat\, Rahu Kalam\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:29219567ab6b261fbd6f43d3d2ce92430c6944c0@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260109T134800
 DTEND;TZID=Europe/Amsterdam:20260109T144800
-SUMMARY:Roga
+SUMMARY:R S:A C:A S:-0.5 SS:-0.5 CS:-0.5
 DESCRIPTION:BaseScore: -0.5 (Chogh:-2\, Tara:-1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -0.5\nContinueScore: -0.5\nAbhijit: No\nTransit: Uttara Phalguni / Kanya\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a9457d178949c21b3167bc1cfce8b266e94f8764@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260109T144800
 DTEND;TZID=Europe/Amsterdam:20260109T154800
-SUMMARY:Udvega
+SUMMARY:U S:N C:A S:0.5 SS:-0.5 CS:0.5
 DESCRIPTION:BaseScore: 0.5 (Chogh:-1\, Tara:-1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -0.5\nContinueScore: 0.5\nAbhijit: No\nTransit: Uttara Phalguni / Kanya\nStart: Avoid\nContinue: Allowed\nTags: Yamaganda\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:45ecdf8797f5786c97bf85e687b53f3539299e8c@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260109T164800
 DTEND;TZID=Europe/Amsterdam:20260109T184800
-SUMMARY:Roga
+SUMMARY:R S:A C:A S:-0.5 SS:-0.5 CS:-0.5
 DESCRIPTION:BaseScore: -0.5 (Chogh:-2\, Tara:-1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -0.5\nContinueScore: -0.5\nAbhijit: No\nTransit: Uttara Phalguni / Kanya\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b523ef759e52cf4700c0c08153ff47548fc17817@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260109T184800
 DTEND;TZID=Europe/Amsterdam:20260109T204800
-SUMMARY:Kala
+SUMMARY:K S:A C:A S:-0.5 SS:-0.5 CS:-0.5
 DESCRIPTION:BaseScore: -0.5 (Chogh:-2\, Tara:-1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -0.5\nContinueScore: -0.5\nAbhijit: No\nTransit: Uttara Phalguni / Kanya\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:18172acf06fb4dcc47a533e288dc773e3a3681fb@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260109T204800
 DTEND;TZID=Europe/Amsterdam:20260109T224800
-SUMMARY:Labha
+SUMMARY:L S:A C:A S:3.5 SS:2.5 CS:3.5
 DESCRIPTION:BaseScore: 3.5 (Chogh:2\, Tara:-1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 2.5\nContinueScore: 3.5\nAbhijit: No\nTransit: Uttara Phalguni / Kanya\nStart: Allowed\nContinue: Allowed\nTags: Kaal Ratri\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:9164963b30fed3dad099febb44c86bd6669dc2e6@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260109T224800
 DTEND;TZID=Europe/Amsterdam:20260110T004700
-SUMMARY:Udvega
+SUMMARY:U S:A C:A S:0.5 SS:0.5 CS:0.5
 DESCRIPTION:BaseScore: 0.5 (Chogh:-1\, Tara:-1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 0.5\nContinueScore: 0.5\nAbhijit: No\nTransit: Uttara Phalguni / Kanya\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8c8a52b1ea3135162cb69092d5e2bd9065fa1f19@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260110T064700
 DTEND;TZID=Europe/Amsterdam:20260110T084700
-SUMMARY:Roga
+SUMMARY:R S:A C:A S:-0.5 SS:-0.5 CS:-0.5
 DESCRIPTION:BaseScore: -0.5 (Chogh:-2\, Tara:-1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -0.5\nContinueScore: -0.5\nAbhijit: No\nTransit: Uttara Phalguni / Kanya\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:34dbe282ebd44033e0b116c9154407343d3f6a0c@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260110T084700
 DTEND;TZID=Europe/Amsterdam:20260110T094700
-SUMMARY:Kala
+SUMMARY:K S:N C:A S:2.5 SS:0.5 CS:2.5
 DESCRIPTION:BaseScore: 2.5 (Chogh:-2\, Tara:2\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 0.5\nContinueScore: 2.5\nAbhijit: No\nTransit: Hasta / Kanya\nStart: Avoid\nContinue: Allowed\nTags: Kaal Vela\, Gulikai Kalam\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:7e69a9b00d93616ea448a0fc883a11d9120bb300@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260110T104800
 DTEND;TZID=Europe/Amsterdam:20260110T114800
-SUMMARY:Roga
+SUMMARY:R S:A C:A S:2.5 SS:1.5 CS:2.5
 DESCRIPTION:BaseScore: 2.5 (Chogh:-2\, Tara:2\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 1.5\nContinueScore: 2.5\nAbhijit: No\nTransit: Hasta / Kanya\nStart: Allowed\nContinue: Allowed\nTags: Rahu Kalam\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f7f8dae2506c4ab19d8ac2226d4ddaf2e64bd379@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260110T134800
 DTEND;TZID=Europe/Amsterdam:20260110T144900
-SUMMARY:Labha
+SUMMARY:L S:A C:A S:6.5 SS:4.5 CS:6.5
 DESCRIPTION:BaseScore: 6.5 (Chogh:2\, Tara:2\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 4.5\nContinueScore: 6.5\nAbhijit: No\nTransit: Hasta / Kanya\nStart: Allowed\nContinue: Allowed\nTags: Vaar Vela\, Yamaganda\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:c4f79cb855653ff33094abf893bc5a0e87d701cf@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260110T154900
 DTEND;TZID=Europe/Amsterdam:20260110T164900
-SUMMARY:Kala
+SUMMARY:K S:A C:A S:2.5 SS:1.5 CS:2.5
 DESCRIPTION:BaseScore: 2.5 (Chogh:-2\, Tara:2\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 1.5\nContinueScore: 2.5\nAbhijit: No\nTransit: Hasta / Kanya\nStart: Allowed\nContinue: Allowed\nTags: Kaal Vela\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b923e116e41f08b7fdfaef48fb3e10d76932cbf0@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260110T164900
 DTEND;TZID=Europe/Amsterdam:20260110T184900
-SUMMARY:Labha
+SUMMARY:L S:A C:A S:6.5 SS:5.5 CS:6.5
 DESCRIPTION:BaseScore: 6.5 (Chogh:2\, Tara:2\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 5.5\nContinueScore: 6.5\nAbhijit: No\nTransit: Hasta / Kanya\nStart: Allowed\nContinue: Allowed\nTags: Kaal Ratri\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:9b47be0d70344c9f71ed572c49dd4e141783e11d@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260111T064700
 DTEND;TZID=Europe/Amsterdam:20260111T084600
-SUMMARY:Labha
+SUMMARY:L S:A C:A S:6.5 SS:5.5 CS:6.5
 DESCRIPTION:BaseScore: 6.5 (Chogh:2\, Tara:2\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 5.5\nContinueScore: 6.5\nAbhijit: No\nTransit: Hasta / Kanya\nStart: Allowed\nContinue: Allowed\nTags: Kaal Ratri\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b8267a0764c46761f9d126b1934a4a5f4c81a67d@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260111T084600
 DTEND;TZID=Europe/Amsterdam:20260111T094700
-SUMMARY:Udvega
+SUMMARY:U S:A C:A S:-1.5 SS:-1.5 CS:-1.5
 DESCRIPTION:BaseScore: -1.5 (Chogh:-1\, Tara:-2\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -1.5\nContinueScore: -1.5\nAbhijit: No\nTransit: Chitra / Tula\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:87080173edf15c3dee533296abc6c5553c7d0227@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260111T094700
 DTEND;TZID=Europe/Amsterdam:20260111T104700
-SUMMARY:Chara
+SUMMARY:C S:A C:A S:0.5 SS:0.5 CS:0.5
 DESCRIPTION:BaseScore: 0.5 (Chogh:1\, Tara:-2\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 0.5\nContinueScore: 0.5\nAbhijit: No\nTransit: Chitra / Tula\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:22090f6a0ffc2f940174ee54dffd46893cd86a3b@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260111T104700
 DTEND;TZID=Europe/Amsterdam:20260111T114800
-SUMMARY:Labha
+SUMMARY:L S:A C:A S:1.5 SS:1.5 CS:1.5
 DESCRIPTION:BaseScore: 1.5 (Chogh:2\, Tara:-2\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 1.5\nContinueScore: 1.5\nAbhijit: No\nTransit: Chitra / Tula\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b28a6948499ef76fcdd82d4fe15f0244cb7c2de7@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260111T114800
 DTEND;TZID=Europe/Amsterdam:20260111T124900
-SUMMARY:Amrita
+SUMMARY:A S:A C:A S:2.5 SS:2.5 CS:3.5
 DESCRIPTION:BaseScore: 2.5 (Chogh:3\, Tara:-2\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 2.5\nContinueScore: 3.5\nAbhijit: Yes\nTransit: Chitra / Tula\nStart: Allowed\nContinue: Allowed\nTags: Vaar Vela\, Abhijit Muhurat\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:9d83be28d06d4f9149f9294e963e6c09ba06770a@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260111T134900
 DTEND;TZID=Europe/Amsterdam:20260111T145000
-SUMMARY:Shubha
+SUMMARY:S S:A C:A S:1.5 SS:1.5 CS:1.5
 DESCRIPTION:BaseScore: 1.5 (Chogh:2\, Tara:-2\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 1.5\nContinueScore: 1.5\nAbhijit: No\nTransit: Chitra / Tula\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:53fc581ab93ebcceae132c0794331c5806c104b8@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260111T155000
 DTEND;TZID=Europe/Amsterdam:20260111T165100
-SUMMARY:Udvega
+SUMMARY:U S:N C:A S:-1.5 SS:-2.5 CS:-1.5
 DESCRIPTION:BaseScore: -1.5 (Chogh:-1\, Tara:-2\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -2.5\nContinueScore: -1.5\nAbhijit: No\nTransit: Chitra / Tula\nStart: Avoid\nContinue: Allowed\nTags: Rahu Kalam\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e7de39c8159ed6bcc59c136f275ea6785ecda6a6@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260111T165100
 DTEND;TZID=Europe/Amsterdam:20260111T185000
-SUMMARY:Shubha
+SUMMARY:S S:A C:A S:1.5 SS:1.5 CS:1.5
 DESCRIPTION:BaseScore: 1.5 (Chogh:2\, Tara:-2\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 1.5\nContinueScore: 1.5\nAbhijit: No\nTransit: Chitra / Tula\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:647942c05b660d17d78d454375c124bb8e0cdd59@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260111T204900
 DTEND;TZID=Europe/Amsterdam:20260111T224900
-SUMMARY:Chara
+SUMMARY:C S:A C:A S:0.5 SS:0.5 CS:0.5
 DESCRIPTION:BaseScore: 0.5 (Chogh:1\, Tara:-2\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 0.5\nContinueScore: 0.5\nAbhijit: No\nTransit: Chitra / Tula\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:9fcd5e04c4a3529f7155062b027989e1a4c5e414@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260111T224900
 DTEND;TZID=Europe/Amsterdam:20260112T004800
-SUMMARY:Roga
+SUMMARY:R S:A C:A S:-2.5 SS:-2.5 CS:-2.5
 DESCRIPTION:BaseScore: -2.5 (Chogh:-2\, Tara:-2\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -2.5\nContinueScore: -2.5\nAbhijit: No\nTransit: Chitra / Tula\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:835d533847591a64e3306f9dc4611accad6d3997@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260112T004800
 DTEND;TZID=Europe/Amsterdam:20260112T024800
-SUMMARY:Kala
+SUMMARY:K S:A C:A S:-2.5 SS:-2.5 CS:-2.5
 DESCRIPTION:BaseScore: -2.5 (Chogh:-2\, Tara:-2\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -2.5\nContinueScore: -2.5\nAbhijit: No\nTransit: Chitra / Tula\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:eda12f3d2104e436bcaf683d4912ef8579eb81af@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260112T024800
 DTEND;TZID=Europe/Amsterdam:20260112T044700
-SUMMARY:Labha
+SUMMARY:L S:N C:A S:1.5 SS:0.5 CS:1.5
 DESCRIPTION:BaseScore: 1.5 (Chogh:2\, Tara:-2\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 0.5\nContinueScore: 1.5\nAbhijit: No\nTransit: Chitra / Tula\nStart: Avoid\nContinue: Allowed\nTags: Kaal Ratri\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:7fe5ac8595f881e38f9e63da83d9cab975262f6e@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260112T044700
 DTEND;TZID=Europe/Amsterdam:20260112T064600
-SUMMARY:Udvega
+SUMMARY:U S:A C:A S:-1.5 SS:-1.5 CS:-1.5
 DESCRIPTION:BaseScore: -1.5 (Chogh:-1\, Tara:-2\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -1.5\nContinueScore: -1.5\nAbhijit: No\nTransit: Chitra / Tula\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a4cb8f45bbc0cf7ec314f32e3913827a9e86892f@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260112T064600
 DTEND;TZID=Europe/Amsterdam:20260112T084600
-SUMMARY:Shubha
+SUMMARY:S S:A C:A S:1.5 SS:1.5 CS:1.5
 DESCRIPTION:BaseScore: 1.5 (Chogh:2\, Tara:-2\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 1.5\nContinueScore: 1.5\nAbhijit: No\nTransit: Chitra / Tula\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8ef51d8c57a8186c00b263f1f4b2bfeb32361838@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260112T094600
 DTEND;TZID=Europe/Amsterdam:20260112T104700
-SUMMARY:Kala
+SUMMARY:K S:N C:A S:0.5 SS:-1.5 CS:0.5
 DESCRIPTION:BaseScore: 0.5 (Chogh:-2\, Tara:1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -1.5\nContinueScore: 0.5\nAbhijit: No\nTransit: Swati / Tula\nStart: Avoid\nContinue: Allowed\nTags: Kaal Vela\, Rahu Kalam\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:50337fa36b0852e9bc6e0f0908c304d835fa096a@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260112T114800
 DTEND;TZID=Europe/Amsterdam:20260112T124900
-SUMMARY:Roga
+SUMMARY:R S:N C:A S:0.5 SS:0.5 CS:1.5
 DESCRIPTION:BaseScore: 0.5 (Chogh:-2\, Tara:1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 0.5\nContinueScore: 1.5\nAbhijit: Yes\nTransit: Swati / Tula\nStart: Avoid\nContinue: Allowed\nTags: Abhijit Muhurat\, Yamaganda\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a6f163c9400249d60498d2ac6d0d21e93cb74158@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260112T135000
 DTEND;TZID=Europe/Amsterdam:20260112T145100
-SUMMARY:Chara
+SUMMARY:C S:A C:A S:3.5 SS:2.5 CS:3.5
 DESCRIPTION:BaseScore: 3.5 (Chogh:1\, Tara:1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 2.5\nContinueScore: 3.5\nAbhijit: No\nTransit: Swati / Tula\nStart: Allowed\nContinue: Allowed\nTags: Gulikai Kalam\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:894157371ff55d7d5a4b5e6b4a0bdd14229ae50f@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260112T145100
 DTEND;TZID=Europe/Amsterdam:20260112T155100
-SUMMARY:Labha
+SUMMARY:L S:A C:A S:4.5 SS:3.5 CS:4.5
 DESCRIPTION:BaseScore: 4.5 (Chogh:2\, Tara:1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 3.5\nContinueScore: 4.5\nAbhijit: No\nTransit: Swati / Tula\nStart: Allowed\nContinue: Allowed\nTags: Vaar Vela\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:883a9f2750d45d721bc04da49aaf5620cbd1dc9a@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260112T185100
 DTEND;TZID=Europe/Amsterdam:20260112T205000
-SUMMARY:Roga
+SUMMARY:R S:A C:A S:0.5 SS:0.5 CS:0.5
 DESCRIPTION:BaseScore: 0.5 (Chogh:-2\, Tara:1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 0.5\nContinueScore: 0.5\nAbhijit: No\nTransit: Swati / Tula\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:3146875843f576cb14c56919223377a66a1f4bf3@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260112T205000
 DTEND;TZID=Europe/Amsterdam:20260112T224900
-SUMMARY:Kala
+SUMMARY:K S:A C:A S:0.5 SS:0.5 CS:0.5
 DESCRIPTION:BaseScore: 0.5 (Chogh:-2\, Tara:1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 0.5\nContinueScore: 0.5\nAbhijit: No\nTransit: Swati / Tula\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:4034f61ab1cd31b8e3685d3504737d8f82bb0735@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260112T224900
 DTEND;TZID=Europe/Amsterdam:20260113T004900
-SUMMARY:Labha
+SUMMARY:L S:A C:A S:4.5 SS:3.5 CS:4.5
 DESCRIPTION:BaseScore: 4.5 (Chogh:2\, Tara:1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 3.5\nContinueScore: 4.5\nAbhijit: No\nTransit: Swati / Tula\nStart: Allowed\nContinue: Allowed\nTags: Kaal Ratri\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a17f5367b861fa47a6d9d46eac76b076f5c058d8@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260113T004900
 DTEND;TZID=Europe/Amsterdam:20260113T024800
-SUMMARY:Udvega
+SUMMARY:U S:A C:A S:1.5 SS:1.5 CS:1.5
 DESCRIPTION:BaseScore: 1.5 (Chogh:-1\, Tara:1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 1.5\nContinueScore: 1.5\nAbhijit: No\nTransit: Swati / Tula\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:5f5a5ecedb987c8febc92f26dc32a26d15517b13@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260113T084500
 DTEND;TZID=Europe/Amsterdam:20260113T094600
-SUMMARY:Roga
+SUMMARY:R S:A C:A S:1.5 SS:1.5 CS:1.5
 DESCRIPTION:BaseScore: 1.5 (Chogh:-2\, Tara:2\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 1.5\nContinueScore: 1.5\nAbhijit: No\nTransit: Vishakha / Tula\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:5862697c5ec72d3f246ccdd257cc737c29150a06@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260113T094600
 DTEND;TZID=Europe/Amsterdam:20260113T104700
-SUMMARY:Udvega
+SUMMARY:U S:A C:A S:2.5 SS:1.5 CS:2.5
 DESCRIPTION:BaseScore: 2.5 (Chogh:-1\, Tara:2\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 1.5\nContinueScore: 2.5\nAbhijit: No\nTransit: Vishakha / Tula\nStart: Allowed\nContinue: Allowed\nTags: Vaar Vela\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:98a4a04bf3f07586ad49821f299892e3dba388ac@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260113T104700
 DTEND;TZID=Europe/Amsterdam:20260113T114800
-SUMMARY:Chara
+SUMMARY:C S:A C:A S:4.5 SS:3.5 CS:4.5
 DESCRIPTION:BaseScore: 4.5 (Chogh:1\, Tara:2\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 3.5\nContinueScore: 4.5\nAbhijit: No\nTransit: Vishakha / Tula\nStart: Allowed\nContinue: Allowed\nTags: Yamaganda\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8f863518c265548d775f3fee0a3d56c4dcbcf86a@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260113T124900
 DTEND;TZID=Europe/Amsterdam:20260113T135000
-SUMMARY:Amrita
+SUMMARY:A S:A C:A S:6.5 SS:6.5 CS:7.5
 DESCRIPTION:BaseScore: 6.5 (Chogh:3\, Tara:2\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 6.5\nContinueScore: 7.5\nAbhijit: Yes\nTransit: Vishakha / Tula\nStart: Allowed\nContinue: Allowed\nTags: Abhijit Muhurat\, Gulikai Kalam\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:75e69ad4410aea86cca3651a4b15199711d53842@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260113T135000
 DTEND;TZID=Europe/Amsterdam:20260113T145200
-SUMMARY:Kala
+SUMMARY:K S:N C:A S:1.5 SS:0.5 CS:1.5
 DESCRIPTION:BaseScore: 1.5 (Chogh:-2\, Tara:2\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 0.5\nContinueScore: 1.5\nAbhijit: No\nTransit: Vishakha / Tula\nStart: Avoid\nContinue: Allowed\nTags: Kaal Vela\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:3573928d225cdb5addf2d20c188bb3c71a4a8968@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260113T145200
 DTEND;TZID=Europe/Amsterdam:20260113T155300
-SUMMARY:Shubha
+SUMMARY:S S:A C:A S:5.5 SS:4.5 CS:5.5
 DESCRIPTION:BaseScore: 5.5 (Chogh:2\, Tara:2\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 4.5\nContinueScore: 5.5\nAbhijit: No\nTransit: Vishakha / Tula\nStart: Allowed\nContinue: Allowed\nTags: Rahu Kalam\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:c08dfbdd9dbce8876b2b4e2b77cf0ab4b34f6f5e@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260113T155300
 DTEND;TZID=Europe/Amsterdam:20260113T165400
-SUMMARY:Roga
+SUMMARY:R S:A C:A S:1.5 SS:1.5 CS:1.5
 DESCRIPTION:BaseScore: 1.5 (Chogh:-2\, Tara:2\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 1.5\nContinueScore: 1.5\nAbhijit: No\nTransit: Vishakha / Tula\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a8fa60d45e91afcc309dfc325fcfe355abbbd105@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260113T165400
 DTEND;TZID=Europe/Amsterdam:20260113T185300
-SUMMARY:Kala
+SUMMARY:K S:A C:A S:1.5 SS:1.5 CS:1.5
 DESCRIPTION:BaseScore: 1.5 (Chogh:-2\, Tara:2\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 1.5\nContinueScore: 1.5\nAbhijit: No\nTransit: Vishakha / Tula\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:c45db221067884ce5a4c9f9dd730726522cb7f7f@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260113T185300
 DTEND;TZID=Europe/Amsterdam:20260113T205100
-SUMMARY:Labha
+SUMMARY:L S:A C:A S:5.5 SS:4.5 CS:5.5
 DESCRIPTION:BaseScore: 5.5 (Chogh:2\, Tara:2\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 4.5\nContinueScore: 5.5\nAbhijit: No\nTransit: Vishakha / Tula\nStart: Allowed\nContinue: Allowed\nTags: Kaal Ratri\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6e2b7f32ece809a6bf9d64831e9563f122184bd7@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260114T044700
 DTEND;TZID=Europe/Amsterdam:20260114T064500
-SUMMARY:Roga
+SUMMARY:R S:A C:A S:1.5 SS:1.5 CS:1.5
 DESCRIPTION:BaseScore: 1.5 (Chogh:-2\, Tara:2\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 1.5\nContinueScore: 1.5\nAbhijit: No\nTransit: Vishakha / Tula\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:0351a614f9af219002107c026bcf041f09363c66@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260114T064500
 DTEND;TZID=Europe/Amsterdam:20260114T084400
-SUMMARY:Kala
+SUMMARY:K S:A C:A S:1.5 SS:1.5 CS:1.5
 DESCRIPTION:BaseScore: 1.5 (Chogh:-2\, Tara:2\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 1.5\nContinueScore: 1.5\nAbhijit: No\nTransit: Vishakha / Tula\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:cb87a4d2d00d68ab9edca906900886886dd4e344@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260114T094500
 DTEND;TZID=Europe/Amsterdam:20260114T104700
-SUMMARY:Amrita
+SUMMARY:A S:A C:A S:3.5 SS:2.5 CS:3.5
 DESCRIPTION:BaseScore: 3.5 (Chogh:3\, Tara:-1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 2.5\nContinueScore: 3.5\nAbhijit: No\nTransit: Anuradha / Vrishchika\nStart: Allowed\nContinue: Allowed\nTags: Yamaganda\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:275501b239e57014b6620bbf22e7123938133e15@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260114T104700
 DTEND;TZID=Europe/Amsterdam:20260114T114800
-SUMMARY:Kala
+SUMMARY:K S:N C:A S:-1.5 SS:-2.5 CS:-1.5
 DESCRIPTION:BaseScore: -1.5 (Chogh:-2\, Tara:-1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -2.5\nContinueScore: -1.5\nAbhijit: No\nTransit: Anuradha / Vrishchika\nStart: Avoid\nContinue: Allowed\nTags: Kaal Vela\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f33f7b0cd41bbe49ff541a11b175059cce3cf9e2@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260114T114800
 DTEND;TZID=Europe/Amsterdam:20260114T125000
-SUMMARY:Shubha
+SUMMARY:S S:A C:A S:2.5 SS:1.5 CS:2.5
 DESCRIPTION:BaseScore: 2.5 (Chogh:2\, Tara:-1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 1.5\nContinueScore: 2.5\nAbhijit: No\nTransit: Anuradha / Vrishchika\nStart: Allowed\nContinue: Allowed\nTags: Gulikai Kalam\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:3919afe64048016447473272aa7bb25c93f1670b@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260114T125000
 DTEND;TZID=Europe/Amsterdam:20260114T135100
-SUMMARY:Roga
+SUMMARY:R S:N C:A S:-1.5 SS:-3.5 CS:-1.5
 DESCRIPTION:BaseScore: -1.5 (Chogh:-2\, Tara:-1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -3.5\nContinueScore: -1.5\nAbhijit: No\nTransit: Anuradha / Vrishchika\nStart: Avoid\nContinue: Allowed\nTags: Vaar Vela\, Rahu Kalam\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6603b0b2f3cd61193dabcf418605d128236f0b36@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260114T135100
 DTEND;TZID=Europe/Amsterdam:20260114T145200
-SUMMARY:Udvega
+SUMMARY:U S:A C:A S:-0.5 SS:-0.5 CS:-0.5
 DESCRIPTION:BaseScore: -0.5 (Chogh:-1\, Tara:-1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -0.5\nContinueScore: -0.5\nAbhijit: No\nTransit: Anuradha / Vrishchika\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:c62f44852bd691d9793ddfaaebf7225f199840c7@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260114T145200
 DTEND;TZID=Europe/Amsterdam:20260114T155400
-SUMMARY:Chara
+SUMMARY:C S:A C:A S:1.5 SS:1.5 CS:1.5
 DESCRIPTION:BaseScore: 1.5 (Chogh:1\, Tara:-1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 1.5\nContinueScore: 1.5\nAbhijit: No\nTransit: Anuradha / Vrishchika\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:1ea4e771a6a66e381a852f5a16c46cbe2405c840@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260114T165500
 DTEND;TZID=Europe/Amsterdam:20260114T185400
-SUMMARY:Udvega
+SUMMARY:U S:A C:A S:-0.5 SS:-0.5 CS:-0.5
 DESCRIPTION:BaseScore: -0.5 (Chogh:-1\, Tara:-1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -0.5\nContinueScore: -0.5\nAbhijit: No\nTransit: Anuradha / Vrishchika\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d590f112636e5a87084e7ba1ba8f9b4363237fac@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260114T225100
 DTEND;TZID=Europe/Amsterdam:20260115T004900
-SUMMARY:Chara
+SUMMARY:C S:A C:A S:1.5 SS:1.5 CS:1.5
 DESCRIPTION:BaseScore: 1.5 (Chogh:1\, Tara:-1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 1.5\nContinueScore: 1.5\nAbhijit: No\nTransit: Anuradha / Vrishchika\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:42bca990747b20cef6706d59b03828a4979b9df0@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260115T004900
 DTEND;TZID=Europe/Amsterdam:20260115T024800
-SUMMARY:Roga
+SUMMARY:R S:A C:A S:-1.5 SS:-1.5 CS:-1.5
 DESCRIPTION:BaseScore: -1.5 (Chogh:-2\, Tara:-1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -1.5\nContinueScore: -1.5\nAbhijit: No\nTransit: Anuradha / Vrishchika\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:986f3eedae9a12f998ca17a1913fad923ea88952@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260115T024800
 DTEND;TZID=Europe/Amsterdam:20260115T044600
-SUMMARY:Kala
+SUMMARY:K S:A C:A S:-1.5 SS:-1.5 CS:-1.5
 DESCRIPTION:BaseScore: -1.5 (Chogh:-2\, Tara:-1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -1.5\nContinueScore: -1.5\nAbhijit: No\nTransit: Anuradha / Vrishchika\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2f6d8f5eb9aac761c1fd0e5cb2d0dceedb8d18bd@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260115T044600
 DTEND;TZID=Europe/Amsterdam:20260115T064500
-SUMMARY:Labha
+SUMMARY:L S:A C:A S:2.5 SS:1.5 CS:2.5
 DESCRIPTION:BaseScore: 2.5 (Chogh:2\, Tara:-1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 1.5\nContinueScore: 2.5\nAbhijit: No\nTransit: Anuradha / Vrishchika\nStart: Allowed\nContinue: Allowed\nTags: Kaal Ratri\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:496e7f1ca883a02826888ab1b7715d2a9b445d8f@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260115T064500
 DTEND;TZID=Europe/Amsterdam:20260115T084300
-SUMMARY:Udvega
+SUMMARY:U S:A C:A S:-0.5 SS:-0.5 CS:-0.5
 DESCRIPTION:BaseScore: -0.5 (Chogh:-1\, Tara:-1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -0.5\nContinueScore: -0.5\nAbhijit: No\nTransit: Anuradha / Vrishchika\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a64908716cb2347d31e7526b90aa664836af3b5b@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260115T084300
 DTEND;TZID=Europe/Amsterdam:20260115T094500
-SUMMARY:Shubha
+SUMMARY:S S:A C:A S:5.5 SS:4.5 CS:5.5
 DESCRIPTION:BaseScore: 5.5 (Chogh:2\, Tara:2\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 4.5\nContinueScore: 5.5\nAbhijit: No\nTransit: Jyeshtha / Vrishchika\nStart: Allowed\nContinue: Allowed\nTags: Yamaganda\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:88a35ee0ebc3254edb5c41d609da8b918e80e2df@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260115T094500
 DTEND;TZID=Europe/Amsterdam:20260115T104700
-SUMMARY:Roga
+SUMMARY:R S:A C:A S:1.5 SS:1.5 CS:1.5
 DESCRIPTION:BaseScore: 1.5 (Chogh:-2\, Tara:2\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 1.5\nContinueScore: 1.5\nAbhijit: No\nTransit: Jyeshtha / Vrishchika\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:5b1654bd7c5450690750e8940b5e89ed56346b28@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260115T104700
 DTEND;TZID=Europe/Amsterdam:20260115T114800
-SUMMARY:Udvega
+SUMMARY:U S:A C:A S:2.5 SS:1.5 CS:2.5
 DESCRIPTION:BaseScore: 2.5 (Chogh:-1\, Tara:2\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 1.5\nContinueScore: 2.5\nAbhijit: No\nTransit: Jyeshtha / Vrishchika\nStart: Allowed\nContinue: Allowed\nTags: Gulikai Kalam\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6a37fb3b5b7bbdfc4bf098ec6d16740a8d477733@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260115T135200
 DTEND;TZID=Europe/Amsterdam:20260115T145300
-SUMMARY:Amrita
+SUMMARY:A S:A C:A S:6.5 SS:5.5 CS:6.5
 DESCRIPTION:BaseScore: 6.5 (Chogh:3\, Tara:2\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 5.5\nContinueScore: 6.5\nAbhijit: No\nTransit: Jyeshtha / Vrishchika\nStart: Allowed\nContinue: Allowed\nTags: Rahu Kalam\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8ce780134fb409da3a8eaf0f78fcb6a65278194f@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260115T145300
 DTEND;TZID=Europe/Amsterdam:20260115T155500
-SUMMARY:Kala
+SUMMARY:K S:N C:A S:1.5 SS:0.5 CS:1.5
 DESCRIPTION:BaseScore: 1.5 (Chogh:-2\, Tara:2\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 0.5\nContinueScore: 1.5\nAbhijit: No\nTransit: Jyeshtha / Vrishchika\nStart: Avoid\nContinue: Allowed\nTags: Kaal Vela\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e0dde96903bdb40cd48eff70322851329fa14291@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260115T155500
 DTEND;TZID=Europe/Amsterdam:20260115T165700
-SUMMARY:Shubha
+SUMMARY:S S:A C:A S:5.5 SS:4.5 CS:5.5
 DESCRIPTION:BaseScore: 5.5 (Chogh:2\, Tara:2\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 4.5\nContinueScore: 5.5\nAbhijit: No\nTransit: Jyeshtha / Vrishchika\nStart: Allowed\nContinue: Allowed\nTags: Vaar Vela\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:87af0a829712b045840687d1e97b3285c5faf49d@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260115T205300
 DTEND;TZID=Europe/Amsterdam:20260115T225100
-SUMMARY:Roga
+SUMMARY:R S:A C:A S:1.5 SS:1.5 CS:1.5
 DESCRIPTION:BaseScore: 1.5 (Chogh:-2\, Tara:2\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 1.5\nContinueScore: 1.5\nAbhijit: No\nTransit: Jyeshtha / Vrishchika\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:89c152065e99c97f52f87a1c6a3335e31baccaec@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260115T225100
 DTEND;TZID=Europe/Amsterdam:20260116T005000
-SUMMARY:Kala
+SUMMARY:K S:A C:A S:1.5 SS:1.5 CS:1.5
 DESCRIPTION:BaseScore: 1.5 (Chogh:-2\, Tara:2\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 1.5\nContinueScore: 1.5\nAbhijit: No\nTransit: Jyeshtha / Vrishchika\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:959309acf13fe2624978d9c951507bb707181f40@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260116T005000
 DTEND;TZID=Europe/Amsterdam:20260116T024800
-SUMMARY:Labha
+SUMMARY:L S:A C:A S:5.5 SS:4.5 CS:5.5
 DESCRIPTION:BaseScore: 5.5 (Chogh:2\, Tara:2\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 4.5\nContinueScore: 5.5\nAbhijit: No\nTransit: Jyeshtha / Vrishchika\nStart: Allowed\nContinue: Allowed\nTags: Kaal Ratri\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:c11c6833dc6c881dcf49d4b4e6cf339a85f36bba@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260116T094400
 DTEND;TZID=Europe/Amsterdam:20260116T104600
-SUMMARY:Labha
+SUMMARY:L S:A C:A S:3.5 SS:2.5 CS:3.5
 DESCRIPTION:BaseScore: 3.5 (Chogh:2\, Tara:-1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 2.5\nContinueScore: 3.5\nAbhijit: No\nTransit: Mula / Dhanu\nStart: Allowed\nContinue: Allowed\nTags: Gulikai Kalam\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6b64a17f490e6995081036fa36d7c567f588199c@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260116T104600
 DTEND;TZID=Europe/Amsterdam:20260116T114800
-SUMMARY:Amrita
+SUMMARY:A S:A C:A S:4.5 SS:3.5 CS:4.5
 DESCRIPTION:BaseScore: 4.5 (Chogh:3\, Tara:-1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 3.5\nContinueScore: 4.5\nAbhijit: No\nTransit: Mula / Dhanu\nStart: Allowed\nContinue: Allowed\nTags: Vaar Vela\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:9121cf5fcc59b7771f9676fe0bad69b90dc35e6c@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260116T114800
 DTEND;TZID=Europe/Amsterdam:20260116T125000
-SUMMARY:Kala
+SUMMARY:K S:N C:A S:-0.5 SS:-1.5 CS:0.5
 DESCRIPTION:BaseScore: -0.5 (Chogh:-2\, Tara:-1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -1.5\nContinueScore: 0.5\nAbhijit: Yes\nTransit: Mula / Dhanu\nStart: Avoid\nContinue: Allowed\nTags: Kaal Vela\, Abhijit Muhurat\, Rahu Kalam\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:77399a7d540e12d83db94545f35f185930955357@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260116T135200
 DTEND;TZID=Europe/Amsterdam:20260116T145400
-SUMMARY:Roga
+SUMMARY:R S:A C:A S:-0.5 SS:-0.5 CS:-0.5
 DESCRIPTION:BaseScore: -0.5 (Chogh:-2\, Tara:-1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -0.5\nContinueScore: -0.5\nAbhijit: No\nTransit: Mula / Dhanu\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:5f72c6e7bc58c8a7766827c5695475b52ea28d71@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260116T145400
 DTEND;TZID=Europe/Amsterdam:20260116T155600
-SUMMARY:Udvega
+SUMMARY:U S:N C:A S:0.5 SS:-0.5 CS:0.5
 DESCRIPTION:BaseScore: 0.5 (Chogh:-1\, Tara:-1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -0.5\nContinueScore: 0.5\nAbhijit: No\nTransit: Mula / Dhanu\nStart: Avoid\nContinue: Allowed\nTags: Yamaganda\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b1748b15da83fbce956046f147cbf0d557b0a384@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260116T165900
 DTEND;TZID=Europe/Amsterdam:20260116T185600
-SUMMARY:Roga
+SUMMARY:R S:A C:A S:-0.5 SS:-0.5 CS:-0.5
 DESCRIPTION:BaseScore: -0.5 (Chogh:-2\, Tara:-1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -0.5\nContinueScore: -0.5\nAbhijit: No\nTransit: Mula / Dhanu\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2fd49df0770d005bd5a35051e84ad23816646448@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260116T185600
 DTEND;TZID=Europe/Amsterdam:20260116T205400
-SUMMARY:Kala
+SUMMARY:K S:A C:A S:-0.5 SS:-0.5 CS:-0.5
 DESCRIPTION:BaseScore: -0.5 (Chogh:-2\, Tara:-1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -0.5\nContinueScore: -0.5\nAbhijit: No\nTransit: Mula / Dhanu\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:46928c59d54aa9c546dfded34258dcd4a9b4ff78@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260116T205400
 DTEND;TZID=Europe/Amsterdam:20260116T225200
-SUMMARY:Labha
+SUMMARY:L S:A C:A S:3.5 SS:2.5 CS:3.5
 DESCRIPTION:BaseScore: 3.5 (Chogh:2\, Tara:-1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 2.5\nContinueScore: 3.5\nAbhijit: No\nTransit: Mula / Dhanu\nStart: Allowed\nContinue: Allowed\nTags: Kaal Ratri\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:22cb35631f4c397a92f7949c1c4d7492537138b8@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260116T225200
 DTEND;TZID=Europe/Amsterdam:20260117T005000
-SUMMARY:Udvega
+SUMMARY:U S:A C:A S:0.5 SS:0.5 CS:0.5
 DESCRIPTION:BaseScore: 0.5 (Chogh:-1\, Tara:-1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 0.5\nContinueScore: 0.5\nAbhijit: No\nTransit: Mula / Dhanu\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:cea8d9ecdbabfa89c07b9b592cafd1036eb10f14@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260117T064300
 DTEND;TZID=Europe/Amsterdam:20260117T084100
-SUMMARY:Roga
+SUMMARY:R S:A C:A S:-0.5 SS:-0.5 CS:-0.5
 DESCRIPTION:BaseScore: -0.5 (Chogh:-2\, Tara:-1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -0.5\nContinueScore: -0.5\nAbhijit: No\nTransit: Mula / Dhanu\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f13c4a1e16af282537d078da7c3712573d29d13f@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260117T084100
 DTEND;TZID=Europe/Amsterdam:20260117T094400
-SUMMARY:Kala
+SUMMARY:K S:N C:A S:1.5 SS:-0.5 CS:1.5
 DESCRIPTION:BaseScore: 1.5 (Chogh:-2\, Tara:1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -0.5\nContinueScore: 1.5\nAbhijit: No\nTransit: Purva Ashadha / Dhanu\nStart: Avoid\nContinue: Allowed\nTags: Kaal Vela\, Gulikai Kalam\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:7f8ad042110d9f54cdea545ac2db156b3778939c@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260117T104600
 DTEND;TZID=Europe/Amsterdam:20260117T114800
-SUMMARY:Roga
+SUMMARY:R S:N C:A S:1.5 SS:0.5 CS:1.5
 DESCRIPTION:BaseScore: 1.5 (Chogh:-2\, Tara:1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 0.5\nContinueScore: 1.5\nAbhijit: No\nTransit: Purva Ashadha / Dhanu\nStart: Avoid\nContinue: Allowed\nTags: Rahu Kalam\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:5a1f86869fca687b37d8f1fca15ea8a262a7058f@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260117T135300
 DTEND;TZID=Europe/Amsterdam:20260117T145500
-SUMMARY:Labha
+SUMMARY:L S:A C:A S:5.5 SS:3.5 CS:5.5
 DESCRIPTION:BaseScore: 5.5 (Chogh:2\, Tara:1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 3.5\nContinueScore: 5.5\nAbhijit: No\nTransit: Purva Ashadha / Dhanu\nStart: Allowed\nContinue: Allowed\nTags: Vaar Vela\, Yamaganda\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:3a5ef0b937cf69ebee1019f5ffbb47163cb06a60@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260117T155800
 DTEND;TZID=Europe/Amsterdam:20260117T170000
-SUMMARY:Kala
+SUMMARY:K S:N C:A S:1.5 SS:0.5 CS:1.5
 DESCRIPTION:BaseScore: 1.5 (Chogh:-2\, Tara:1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 0.5\nContinueScore: 1.5\nAbhijit: No\nTransit: Purva Ashadha / Dhanu\nStart: Avoid\nContinue: Allowed\nTags: Kaal Vela\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:febd80d94d6de82d3b1299e5f3f1848bd1110963@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260117T170000
 DTEND;TZID=Europe/Amsterdam:20260117T185800
-SUMMARY:Labha
+SUMMARY:L S:A C:A S:5.5 SS:4.5 CS:5.5
 DESCRIPTION:BaseScore: 5.5 (Chogh:2\, Tara:1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 4.5\nContinueScore: 5.5\nAbhijit: No\nTransit: Purva Ashadha / Dhanu\nStart: Allowed\nContinue: Allowed\nTags: Kaal Ratri\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:08fe66abb851465046123b732ff2d65c8cec31b5@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260118T024800
 DTEND;TZID=Europe/Amsterdam:20260118T044500
-SUMMARY:Roga
+SUMMARY:R S:A C:A S:1.5 SS:1.5 CS:1.5
 DESCRIPTION:BaseScore: 1.5 (Chogh:-2\, Tara:1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 1.5\nContinueScore: 1.5\nAbhijit: No\nTransit: Purva Ashadha / Dhanu\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:dc3800bd72f5d5dc429ae2b606cc4d608c58ca91@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260118T044500
 DTEND;TZID=Europe/Amsterdam:20260118T064300
-SUMMARY:Kala
+SUMMARY:K S:A C:A S:1.5 SS:1.5 CS:1.5
 DESCRIPTION:BaseScore: 1.5 (Chogh:-2\, Tara:1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 1.5\nContinueScore: 1.5\nAbhijit: No\nTransit: Purva Ashadha / Dhanu\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:69fdb5e5257c1e06719ea214a14471a86a8c732e@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260118T064300
 DTEND;TZID=Europe/Amsterdam:20260118T084000
-SUMMARY:Labha
+SUMMARY:L S:A C:A S:5.5 SS:4.5 CS:5.5
 DESCRIPTION:BaseScore: 5.5 (Chogh:2\, Tara:1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 4.5\nContinueScore: 5.5\nAbhijit: No\nTransit: Purva Ashadha / Dhanu\nStart: Allowed\nContinue: Allowed\nTags: Kaal Ratri\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:23ac45b3eee68894efc0a3bac28194617a63dbe6@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260118T084000
 DTEND;TZID=Europe/Amsterdam:20260118T094300
-SUMMARY:Udvega
+SUMMARY:U S:A C:A S:0.5 SS:0.5 CS:0.5
 DESCRIPTION:BaseScore: 0.5 (Chogh:-1\, Tara:-1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 0.5\nContinueScore: 0.5\nAbhijit: No\nTransit: Uttara Ashadha / Dhanu\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:5296a0a8b4d6c5f7a4b830120fa51be1d2405195@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260118T114800
 DTEND;TZID=Europe/Amsterdam:20260118T125100
-SUMMARY:Amrita
+SUMMARY:A S:A C:A S:4.5 SS:4.5 CS:5.5
 DESCRIPTION:BaseScore: 4.5 (Chogh:3\, Tara:-1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 4.5\nContinueScore: 5.5\nAbhijit: Yes\nTransit: Uttara Ashadha / Dhanu\nStart: Allowed\nContinue: Allowed\nTags: Vaar Vela\, Abhijit Muhurat\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2388a8c0c6d2b4460f7bfa67326320d2a3def5d9@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260118T125100
 DTEND;TZID=Europe/Amsterdam:20260118T135400
-SUMMARY:Kala
+SUMMARY:K S:N C:A S:-0.5 SS:-1.5 CS:0.5
 DESCRIPTION:BaseScore: -0.5 (Chogh:-2\, Tara:-1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -1.5\nContinueScore: 0.5\nAbhijit: Yes\nTransit: Uttara Ashadha / Dhanu\nStart: Avoid\nContinue: Allowed\nTags: Kaal Vela\, Abhijit Muhurat\, Yamaganda\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8d6daaa76d4058abc2fe135dd1065875d35b8d79@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260118T145600
 DTEND;TZID=Europe/Amsterdam:20260118T155900
-SUMMARY:Roga
+SUMMARY:R S:N C:A S:-0.5 SS:-1.5 CS:-0.5
 DESCRIPTION:BaseScore: -0.5 (Chogh:-2\, Tara:-1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -1.5\nContinueScore: -0.5\nAbhijit: No\nTransit: Uttara Ashadha / Dhanu\nStart: Avoid\nContinue: Allowed\nTags: Gulikai Kalam\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:25181b3a55caef34d04f6592f693d6fa46961de6@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260118T155900
 DTEND;TZID=Europe/Amsterdam:20260118T170200
-SUMMARY:Udvega
+SUMMARY:U S:N C:A S:0.5 SS:-0.5 CS:0.5
 DESCRIPTION:BaseScore: 0.5 (Chogh:-1\, Tara:-1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -0.5\nContinueScore: 0.5\nAbhijit: No\nTransit: Uttara Ashadha / Dhanu\nStart: Avoid\nContinue: Allowed\nTags: Rahu Kalam\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:76389bb54ba888521605855f047ba1ae7cfd1f54@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260118T225300
 DTEND;TZID=Europe/Amsterdam:20260119T005100
-SUMMARY:Roga
+SUMMARY:R S:A C:A S:-0.5 SS:-0.5 CS:-0.5
 DESCRIPTION:BaseScore: -0.5 (Chogh:-2\, Tara:-1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -0.5\nContinueScore: -0.5\nAbhijit: No\nTransit: Uttara Ashadha / Dhanu\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:35ebacebb5a06ad87d4e0239db735984257d774e@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260119T005100
 DTEND;TZID=Europe/Amsterdam:20260119T024800
-SUMMARY:Kala
+SUMMARY:K S:A C:A S:-0.5 SS:-0.5 CS:-0.5
 DESCRIPTION:BaseScore: -0.5 (Chogh:-2\, Tara:-1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -0.5\nContinueScore: -0.5\nAbhijit: No\nTransit: Uttara Ashadha / Dhanu\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2858a222a6dc87afeff70bfdb5bc2d5c78b1df2a@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260119T024800
 DTEND;TZID=Europe/Amsterdam:20260119T044500
-SUMMARY:Labha
+SUMMARY:L S:A C:A S:3.5 SS:2.5 CS:3.5
 DESCRIPTION:BaseScore: 3.5 (Chogh:2\, Tara:-1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 2.5\nContinueScore: 3.5\nAbhijit: No\nTransit: Uttara Ashadha / Dhanu\nStart: Allowed\nContinue: Allowed\nTags: Kaal Ratri\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:367107b18e0c75b54ab41599a48346be8cd5f92c@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260119T044500
 DTEND;TZID=Europe/Amsterdam:20260119T064200
-SUMMARY:Udvega
+SUMMARY:U S:A C:A S:0.5 SS:0.5 CS:0.5
 DESCRIPTION:BaseScore: 0.5 (Chogh:-1\, Tara:-1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 0.5\nContinueScore: 0.5\nAbhijit: No\nTransit: Uttara Ashadha / Dhanu\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:1d557100cad267f7aa45f43c604767ab58658eeb@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260119T094200
 DTEND;TZID=Europe/Amsterdam:20260119T104500
-SUMMARY:Kala
+SUMMARY:K S:N C:A S:2.5 SS:0.5 CS:2.5
 DESCRIPTION:BaseScore: 2.5 (Chogh:-2\, Tara:2\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 0.5\nContinueScore: 2.5\nAbhijit: No\nTransit: Shravana / Makara\nStart: Avoid\nContinue: Allowed\nTags: Kaal Vela\, Rahu Kalam\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:aa3f6eb229312ade4edd7bf22ee5a845ea7af6fd@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260119T114800
 DTEND;TZID=Europe/Amsterdam:20260119T125100
-SUMMARY:Roga
+SUMMARY:R S:A C:A S:2.5 SS:2.5 CS:3.5
 DESCRIPTION:BaseScore: 2.5 (Chogh:-2\, Tara:2\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 2.5\nContinueScore: 3.5\nAbhijit: Yes\nTransit: Shravana / Makara\nStart: Allowed\nContinue: Allowed\nTags: Abhijit Muhurat\, Yamaganda\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f931f5f89de5d2eb64a72186397ab2485a2f2fec@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260119T135400
 DTEND;TZID=Europe/Amsterdam:20260119T145700
-SUMMARY:Chara
+SUMMARY:C S:A C:A S:5.5 SS:4.5 CS:5.5
 DESCRIPTION:BaseScore: 5.5 (Chogh:1\, Tara:2\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 4.5\nContinueScore: 5.5\nAbhijit: No\nTransit: Shravana / Makara\nStart: Allowed\nContinue: Allowed\nTags: Gulikai Kalam\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:9df13cdc22af785844b8d443ca248c269187407e@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260119T145700
 DTEND;TZID=Europe/Amsterdam:20260119T160000
-SUMMARY:Labha
+SUMMARY:L S:A C:A S:6.5 SS:5.5 CS:6.5
 DESCRIPTION:BaseScore: 6.5 (Chogh:2\, Tara:2\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 5.5\nContinueScore: 6.5\nAbhijit: No\nTransit: Shravana / Makara\nStart: Allowed\nContinue: Allowed\nTags: Vaar Vela\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a7cc1fe7874ef8ca02718f533ea355f6a114e3d9@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260119T225400
 DTEND;TZID=Europe/Amsterdam:20260120T005100
-SUMMARY:Labha
+SUMMARY:L S:A C:A S:6.5 SS:5.5 CS:6.5
 DESCRIPTION:BaseScore: 6.5 (Chogh:2\, Tara:2\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 5.5\nContinueScore: 6.5\nAbhijit: No\nTransit: Shravana / Makara\nStart: Allowed\nContinue: Allowed\nTags: Kaal Ratri\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:5782ad1496edd47eed2452c8b40a63d202613084@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260120T083800
 DTEND;TZID=Europe/Amsterdam:20260120T094200
-SUMMARY:Roga
+SUMMARY:R S:A C:A S:-1.5 SS:-1.5 CS:-1.5
 DESCRIPTION:BaseScore: -1.5 (Chogh:-2\, Tara:-2\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -1.5\nContinueScore: -1.5\nAbhijit: No\nTransit: Dhanishtha / Makara\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:bb62901f3888c72948b2386f21c2fc92ea4fecd3@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260120T094200
 DTEND;TZID=Europe/Amsterdam:20260120T104500
-SUMMARY:Udvega
+SUMMARY:U S:N C:A S:-0.5 SS:-1.5 CS:-0.5
 DESCRIPTION:BaseScore: -0.5 (Chogh:-1\, Tara:-2\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -1.5\nContinueScore: -0.5\nAbhijit: No\nTransit: Dhanishtha / Makara\nStart: Avoid\nContinue: Allowed\nTags: Vaar Vela\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8cbedbce416867bb19ddf0299503567c9e558810@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260120T104500
 DTEND;TZID=Europe/Amsterdam:20260120T114800
-SUMMARY:Chara
+SUMMARY:C S:N C:A S:1.5 SS:0.5 CS:1.5
 DESCRIPTION:BaseScore: 1.5 (Chogh:1\, Tara:-2\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 0.5\nContinueScore: 1.5\nAbhijit: No\nTransit: Dhanishtha / Makara\nStart: Avoid\nContinue: Allowed\nTags: Yamaganda\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d828eb6f272900416af4dff0a192c842b369db0a@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260120T125200
 DTEND;TZID=Europe/Amsterdam:20260120T135500
-SUMMARY:Amrita
+SUMMARY:A S:A C:A S:3.5 SS:3.5 CS:4.5
 DESCRIPTION:BaseScore: 3.5 (Chogh:3\, Tara:-2\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 3.5\nContinueScore: 4.5\nAbhijit: Yes\nTransit: Dhanishtha / Makara\nStart: Allowed\nContinue: Allowed\nTags: Abhijit Muhurat\, Gulikai Kalam\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:1845634aaec6cbc8e95731a6518f548b49f3ab17@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260120T135500
 DTEND;TZID=Europe/Amsterdam:20260120T145800
-SUMMARY:Kala
+SUMMARY:K S:N C:A S:-1.5 SS:-2.5 CS:-1.5
 DESCRIPTION:BaseScore: -1.5 (Chogh:-2\, Tara:-2\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -2.5\nContinueScore: -1.5\nAbhijit: No\nTransit: Dhanishtha / Makara\nStart: Avoid\nContinue: Allowed\nTags: Kaal Vela\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:714ef2c1653b6348490a71ff7294b6925d7b6ab9@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260120T145800
 DTEND;TZID=Europe/Amsterdam:20260120T160200
-SUMMARY:Shubha
+SUMMARY:S S:A C:A S:2.5 SS:1.5 CS:2.5
 DESCRIPTION:BaseScore: 2.5 (Chogh:2\, Tara:-2\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 1.5\nContinueScore: 2.5\nAbhijit: No\nTransit: Dhanishtha / Makara\nStart: Allowed\nContinue: Allowed\nTags: Rahu Kalam\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:7ef26d01e9541ce0fe8580c71ea893bc5ef39683@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260120T160200
 DTEND;TZID=Europe/Amsterdam:20260120T170500
-SUMMARY:Roga
+SUMMARY:R S:A C:A S:-1.5 SS:-1.5 CS:-1.5
 DESCRIPTION:BaseScore: -1.5 (Chogh:-2\, Tara:-2\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -1.5\nContinueScore: -1.5\nAbhijit: No\nTransit: Dhanishtha / Makara\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:5b0f91ef406f998c45af22423aad8da175f73ff0@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260120T170500
 DTEND;TZID=Europe/Amsterdam:20260120T190200
-SUMMARY:Kala
+SUMMARY:K S:A C:A S:-1.5 SS:-1.5 CS:-1.5
 DESCRIPTION:BaseScore: -1.5 (Chogh:-2\, Tara:-2\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -1.5\nContinueScore: -1.5\nAbhijit: No\nTransit: Dhanishtha / Makara\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f8cd374bb94b698d6aaf1d7a87abb74774ba8446@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260120T190200
 DTEND;TZID=Europe/Amsterdam:20260120T205800
-SUMMARY:Labha
+SUMMARY:L S:A C:A S:2.5 SS:1.5 CS:2.5
 DESCRIPTION:BaseScore: 2.5 (Chogh:2\, Tara:-2\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 1.5\nContinueScore: 2.5\nAbhijit: No\nTransit: Dhanishtha / Makara\nStart: Allowed\nContinue: Allowed\nTags: Kaal Ratri\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b40fbb014aaba73e39ca0a2eaff20783d3ad0c04@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260120T205800
 DTEND;TZID=Europe/Amsterdam:20260120T225500
-SUMMARY:Udvega
+SUMMARY:U S:A C:A S:-0.5 SS:-0.5 CS:-0.5
 DESCRIPTION:BaseScore: -0.5 (Chogh:-1\, Tara:-2\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -0.5\nContinueScore: -0.5\nAbhijit: No\nTransit: Dhanishtha / Makara\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ea665dec89ac71acc7b53c168433077ce35a1945@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260121T024800
 DTEND;TZID=Europe/Amsterdam:20260121T044400
-SUMMARY:Chara
+SUMMARY:C S:A C:A S:1.5 SS:1.5 CS:1.5
 DESCRIPTION:BaseScore: 1.5 (Chogh:1\, Tara:-2\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 1.5\nContinueScore: 1.5\nAbhijit: No\nTransit: Dhanishtha / Makara\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:9c1d459626596499ed7b15a3ce89a571a533a44a@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260121T044400
 DTEND;TZID=Europe/Amsterdam:20260121T064100
-SUMMARY:Roga
+SUMMARY:R S:A C:A S:-1.5 SS:-1.5 CS:-1.5
 DESCRIPTION:BaseScore: -1.5 (Chogh:-2\, Tara:-2\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -1.5\nContinueScore: -1.5\nAbhijit: No\nTransit: Dhanishtha / Makara\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:1150f8026f3e59a5f3608c768f3397bb5896329b@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260121T064100
 DTEND;TZID=Europe/Amsterdam:20260121T083700
-SUMMARY:Kala
+SUMMARY:K S:A C:A S:-1.5 SS:-1.5 CS:-1.5
 DESCRIPTION:BaseScore: -1.5 (Chogh:-2\, Tara:-2\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -1.5\nContinueScore: -1.5\nAbhijit: No\nTransit: Dhanishtha / Makara\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e275c813487eb446af4b0efc73896ab095c08552@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260121T083700
 DTEND;TZID=Europe/Amsterdam:20260121T094100
-SUMMARY:Labha
+SUMMARY:L S:A C:A S:0.5 SS:0.5 CS:0.5
 DESCRIPTION:BaseScore: 0.5 (Chogh:2\, Tara:-2\, Chandra:-1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 0.5\nContinueScore: 0.5\nAbhijit: No\nTransit: Dhanishtha / Kumbha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:00d19f332057507ed4d8fccdb5d18e6761be929b@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260121T094100
 DTEND;TZID=Europe/Amsterdam:20260121T104500
-SUMMARY:Amrita
+SUMMARY:A S:N C:A S:1.5 SS:0.5 CS:1.5
 DESCRIPTION:BaseScore: 1.5 (Chogh:3\, Tara:-2\, Chandra:-1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 0.5\nContinueScore: 1.5\nAbhijit: No\nTransit: Dhanishtha / Kumbha\nStart: Avoid\nContinue: Allowed\nTags: Yamaganda\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:c48209dcb6bbe2bc6c8b2241a12ec060d4fecb0c@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260121T114800
 DTEND;TZID=Europe/Amsterdam:20260121T125200
-SUMMARY:Shubha
+SUMMARY:S S:N C:A S:0.5 SS:-0.5 CS:0.5
 DESCRIPTION:BaseScore: 0.5 (Chogh:2\, Tara:-2\, Chandra:-1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -0.5\nContinueScore: 0.5\nAbhijit: No\nTransit: Dhanishtha / Kumbha\nStart: Avoid\nContinue: Allowed\nTags: Gulikai Kalam\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:52d981eaee9791e9d05a36aa83f6a68e677725f8@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260121T135600
 DTEND;TZID=Europe/Amsterdam:20260121T145900
-SUMMARY:Udvega
+SUMMARY:U S:A C:A S:-2.5 SS:-2.5 CS:-2.5
 DESCRIPTION:BaseScore: -2.5 (Chogh:-1\, Tara:-2\, Chandra:-1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -2.5\nContinueScore: -2.5\nAbhijit: No\nTransit: Dhanishtha / Kumbha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:fa0952ab2774bbb8f32625884fe0e87ba21b15a6@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260121T145900
 DTEND;TZID=Europe/Amsterdam:20260121T160300
-SUMMARY:Chara
+SUMMARY:C S:A C:A S:-0.5 SS:-0.5 CS:-0.5
 DESCRIPTION:BaseScore: -0.5 (Chogh:1\, Tara:-2\, Chandra:-1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -0.5\nContinueScore: -0.5\nAbhijit: No\nTransit: Dhanishtha / Kumbha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:083bf203acc7978bc1f83cc333eac8667946a4b8@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260121T160300
 DTEND;TZID=Europe/Amsterdam:20260121T170700
-SUMMARY:Labha
+SUMMARY:L S:A C:A S:0.5 SS:0.5 CS:0.5
 DESCRIPTION:BaseScore: 0.5 (Chogh:2\, Tara:-2\, Chandra:-1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 0.5\nContinueScore: 0.5\nAbhijit: No\nTransit: Dhanishtha / Kumbha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d5a89b0893a11a675df4995cc018eb67fedbb256@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260121T170700
 DTEND;TZID=Europe/Amsterdam:20260121T190300
-SUMMARY:Udvega
+SUMMARY:U S:A C:A S:-2.5 SS:-2.5 CS:-2.5
 DESCRIPTION:BaseScore: -2.5 (Chogh:-1\, Tara:-2\, Chandra:-1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -2.5\nContinueScore: -2.5\nAbhijit: No\nTransit: Dhanishtha / Kumbha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:13c55ad1c1bbc3540b6c39406bf97c485fa5ec2b@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260121T190300
 DTEND;TZID=Europe/Amsterdam:20260121T205900
-SUMMARY:Shubha
+SUMMARY:S S:A C:A S:0.5 SS:0.5 CS:0.5
 DESCRIPTION:BaseScore: 0.5 (Chogh:2\, Tara:-2\, Chandra:-1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 0.5\nContinueScore: 0.5\nAbhijit: No\nTransit: Dhanishtha / Kumbha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:4d6d406bb04c0367580bb68ea104573f2242c9bf@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260121T205900
 DTEND;TZID=Europe/Amsterdam:20260121T225500
-SUMMARY:Amrita
+SUMMARY:A S:A C:A S:1.5 SS:1.5 CS:1.5
 DESCRIPTION:BaseScore: 1.5 (Chogh:3\, Tara:-2\, Chandra:-1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 1.5\nContinueScore: 1.5\nAbhijit: No\nTransit: Dhanishtha / Kumbha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f4f6424de3add6009549854127b5d02ed83c25a9@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260121T225500
 DTEND;TZID=Europe/Amsterdam:20260122T005100
-SUMMARY:Chara
+SUMMARY:C S:A C:A S:-0.5 SS:-0.5 CS:-0.5
 DESCRIPTION:BaseScore: -0.5 (Chogh:1\, Tara:-2\, Chandra:-1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -0.5\nContinueScore: -0.5\nAbhijit: No\nTransit: Dhanishtha / Kumbha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6f96b4d73e7b9d5b9b9bd82a53fd41071fe8d8cc@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260122T044400
 DTEND;TZID=Europe/Amsterdam:20260122T064000
-SUMMARY:Labha
+SUMMARY:L S:N C:A S:0.5 SS:-0.5 CS:0.5
 DESCRIPTION:BaseScore: 0.5 (Chogh:2\, Tara:-2\, Chandra:-1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -0.5\nContinueScore: 0.5\nAbhijit: No\nTransit: Dhanishtha / Kumbha\nStart: Avoid\nContinue: Allowed\nTags: Kaal Ratri\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:40869478fb7eedf2cad3ece0f1a80061084091d2@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260122T064000
 DTEND;TZID=Europe/Amsterdam:20260122T083600
-SUMMARY:Udvega
+SUMMARY:U S:A C:A S:-2.5 SS:-2.5 CS:-2.5
 DESCRIPTION:BaseScore: -2.5 (Chogh:-1\, Tara:-2\, Chandra:-1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -2.5\nContinueScore: -2.5\nAbhijit: No\nTransit: Dhanishtha / Kumbha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f48d973fabd2ab367f844f8fc94a1882a8182480@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260122T083600
 DTEND;TZID=Europe/Amsterdam:20260122T094000
-SUMMARY:Shubha
+SUMMARY:S S:A C:A S:3.5 SS:2.5 CS:3.5
 DESCRIPTION:BaseScore: 3.5 (Chogh:2\, Tara:1\, Chandra:-1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 2.5\nContinueScore: 3.5\nAbhijit: No\nTransit: Shatabhisha / Kumbha\nStart: Allowed\nContinue: Allowed\nTags: Yamaganda\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:48c682e3eb013d898568c0d2799fe0f27c331f5b@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260122T094000
 DTEND;TZID=Europe/Amsterdam:20260122T104400
-SUMMARY:Roga
+SUMMARY:R S:A C:A S:-0.5 SS:-0.5 CS:-0.5
 DESCRIPTION:BaseScore: -0.5 (Chogh:-2\, Tara:1\, Chandra:-1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -0.5\nContinueScore: -0.5\nAbhijit: No\nTransit: Shatabhisha / Kumbha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:562762ac28cea3ff446a0e7c92dd19b8e0879176@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260122T104400
 DTEND;TZID=Europe/Amsterdam:20260122T114800
-SUMMARY:Udvega
+SUMMARY:U S:N C:A S:0.5 SS:-0.5 CS:0.5
 DESCRIPTION:BaseScore: 0.5 (Chogh:-1\, Tara:1\, Chandra:-1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -0.5\nContinueScore: 0.5\nAbhijit: No\nTransit: Shatabhisha / Kumbha\nStart: Avoid\nContinue: Allowed\nTags: Gulikai Kalam\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b09ba135e8fa9b6135b8faf0c01d37c6e322ba71@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260122T135600
 DTEND;TZID=Europe/Amsterdam:20260122T150100
-SUMMARY:Amrita
+SUMMARY:A S:A C:A S:4.5 SS:3.5 CS:4.5
 DESCRIPTION:BaseScore: 4.5 (Chogh:3\, Tara:1\, Chandra:-1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 3.5\nContinueScore: 4.5\nAbhijit: No\nTransit: Shatabhisha / Kumbha\nStart: Allowed\nContinue: Allowed\nTags: Rahu Kalam\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:288be2d00a3e889b9bfb94d2bbd39360a51a5c4d@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260122T150100
 DTEND;TZID=Europe/Amsterdam:20260122T160500
-SUMMARY:Kala
+SUMMARY:K S:N C:A S:-0.5 SS:-1.5 CS:-0.5
 DESCRIPTION:BaseScore: -0.5 (Chogh:-2\, Tara:1\, Chandra:-1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -1.5\nContinueScore: -0.5\nAbhijit: No\nTransit: Shatabhisha / Kumbha\nStart: Avoid\nContinue: Allowed\nTags: Kaal Vela\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:66f664a0c7de60813e465ba6d781d8f82992b61a@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260122T160500
 DTEND;TZID=Europe/Amsterdam:20260122T170900
-SUMMARY:Shubha
+SUMMARY:S S:A C:A S:3.5 SS:2.5 CS:3.5
 DESCRIPTION:BaseScore: 3.5 (Chogh:2\, Tara:1\, Chandra:-1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 2.5\nContinueScore: 3.5\nAbhijit: No\nTransit: Shatabhisha / Kumbha\nStart: Allowed\nContinue: Allowed\nTags: Vaar Vela\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:86dbe17018b51ccda3b949e0f3c49e7b3d825f3f@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260122T210000
 DTEND;TZID=Europe/Amsterdam:20260122T225600
-SUMMARY:Roga
+SUMMARY:R S:A C:A S:-0.5 SS:-0.5 CS:-0.5
 DESCRIPTION:BaseScore: -0.5 (Chogh:-2\, Tara:1\, Chandra:-1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -0.5\nContinueScore: -0.5\nAbhijit: No\nTransit: Shatabhisha / Kumbha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:93383bffd6cf025e904bbc3a4ce94c8148efbebf@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260122T225600
 DTEND;TZID=Europe/Amsterdam:20260123T005200
-SUMMARY:Kala
+SUMMARY:K S:A C:A S:-0.5 SS:-0.5 CS:-0.5
 DESCRIPTION:BaseScore: -0.5 (Chogh:-2\, Tara:1\, Chandra:-1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -0.5\nContinueScore: -0.5\nAbhijit: No\nTransit: Shatabhisha / Kumbha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:0e06212bd765cac09ee5059c59a10d2c0894558d@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260123T005200
 DTEND;TZID=Europe/Amsterdam:20260123T024700
-SUMMARY:Labha
+SUMMARY:L S:A C:A S:3.5 SS:2.5 CS:3.5
 DESCRIPTION:BaseScore: 3.5 (Chogh:2\, Tara:1\, Chandra:-1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 2.5\nContinueScore: 3.5\nAbhijit: No\nTransit: Shatabhisha / Kumbha\nStart: Allowed\nContinue: Allowed\nTags: Kaal Ratri\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:9c2b615c9f47a675a75ca70aac3c23ecb4e34b8b@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260123T024700
 DTEND;TZID=Europe/Amsterdam:20260123T044300
-SUMMARY:Udvega
+SUMMARY:U S:A C:A S:0.5 SS:0.5 CS:0.5
 DESCRIPTION:BaseScore: 0.5 (Chogh:-1\, Tara:1\, Chandra:-1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 0.5\nContinueScore: 0.5\nAbhijit: No\nTransit: Shatabhisha / Kumbha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:5f3b498b8bfefca2f8a823c8cf00977617782075@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260123T093900
 DTEND;TZID=Europe/Amsterdam:20260123T104400
-SUMMARY:Labha
+SUMMARY:L S:A C:A S:5.5 SS:4.5 CS:5.5
 DESCRIPTION:BaseScore: 5.5 (Chogh:2\, Tara:2\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 4.5\nContinueScore: 5.5\nAbhijit: No\nTransit: Purva Bhadrapada / Meena\nStart: Allowed\nContinue: Allowed\nTags: Gulikai Kalam\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:acf951e7bc7c389f84127e1fc37743943796b384@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260123T104400
 DTEND;TZID=Europe/Amsterdam:20260123T114800
-SUMMARY:Amrita
+SUMMARY:A S:A C:A S:6.5 SS:5.5 CS:6.5
 DESCRIPTION:BaseScore: 6.5 (Chogh:3\, Tara:2\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 5.5\nContinueScore: 6.5\nAbhijit: No\nTransit: Purva Bhadrapada / Meena\nStart: Allowed\nContinue: Allowed\nTags: Vaar Vela\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:80ea41613071a55fa0c2fca432afea197ac21df7@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260123T114800
 DTEND;TZID=Europe/Amsterdam:20260123T125300
-SUMMARY:Kala
+SUMMARY:K S:N C:A S:1.5 SS:0.5 CS:2.5
 DESCRIPTION:BaseScore: 1.5 (Chogh:-2\, Tara:2\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 0.5\nContinueScore: 2.5\nAbhijit: Yes\nTransit: Purva Bhadrapada / Meena\nStart: Avoid\nContinue: Allowed\nTags: Kaal Vela\, Abhijit Muhurat\, Rahu Kalam\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:16270e51c116d99b20dfc9babf9b20ec11352459@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260123T135700
 DTEND;TZID=Europe/Amsterdam:20260123T150200
-SUMMARY:Roga
+SUMMARY:R S:A C:A S:1.5 SS:1.5 CS:1.5
 DESCRIPTION:BaseScore: 1.5 (Chogh:-2\, Tara:2\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 1.5\nContinueScore: 1.5\nAbhijit: No\nTransit: Purva Bhadrapada / Meena\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:5c5550c7b9beed8cc7ba8bc426324f7a05e127af@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260123T150200
 DTEND;TZID=Europe/Amsterdam:20260123T160600
-SUMMARY:Udvega
+SUMMARY:U S:A C:A S:2.5 SS:1.5 CS:2.5
 DESCRIPTION:BaseScore: 2.5 (Chogh:-1\, Tara:2\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 1.5\nContinueScore: 2.5\nAbhijit: No\nTransit: Purva Bhadrapada / Meena\nStart: Allowed\nContinue: Allowed\nTags: Yamaganda\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:876015cd32d9d68bd45dbd3557006c95ded73d2c@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260123T171000
 DTEND;TZID=Europe/Amsterdam:20260123T190600
-SUMMARY:Roga
+SUMMARY:R S:A C:A S:1.5 SS:1.5 CS:1.5
 DESCRIPTION:BaseScore: 1.5 (Chogh:-2\, Tara:2\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 1.5\nContinueScore: 1.5\nAbhijit: No\nTransit: Purva Bhadrapada / Meena\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:45e10aee01d00f05b6654615f0ea042b5d166233@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260123T190600
 DTEND;TZID=Europe/Amsterdam:20260123T210100
-SUMMARY:Kala
+SUMMARY:K S:A C:A S:1.5 SS:1.5 CS:1.5
 DESCRIPTION:BaseScore: 1.5 (Chogh:-2\, Tara:2\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 1.5\nContinueScore: 1.5\nAbhijit: No\nTransit: Purva Bhadrapada / Meena\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:4a4c97f849094d98a4bfb63052b4f3799ef5dd84@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260123T210100
 DTEND;TZID=Europe/Amsterdam:20260123T225700
-SUMMARY:Labha
+SUMMARY:L S:A C:A S:5.5 SS:4.5 CS:5.5
 DESCRIPTION:BaseScore: 5.5 (Chogh:2\, Tara:2\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 4.5\nContinueScore: 5.5\nAbhijit: No\nTransit: Purva Bhadrapada / Meena\nStart: Allowed\nContinue: Allowed\nTags: Kaal Ratri\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ce78588570bfe31cbddb3dbfbebfd99ad9f8cb1f@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260124T063800
 DTEND;TZID=Europe/Amsterdam:20260124T083300
-SUMMARY:Roga
+SUMMARY:R S:A C:A S:1.5 SS:1.5 CS:1.5
 DESCRIPTION:BaseScore: 1.5 (Chogh:-2\, Tara:2\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 1.5\nContinueScore: 1.5\nAbhijit: No\nTransit: Purva Bhadrapada / Meena\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b6fe17ec6cb34b27f7e7411d793634d1420932ab@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260124T083300
 DTEND;TZID=Europe/Amsterdam:20260124T093800
-SUMMARY:Kala
+SUMMARY:K S:N C:A S:-1.5 SS:-3.5 CS:-1.5
 DESCRIPTION:BaseScore: -1.5 (Chogh:-2\, Tara:-1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -3.5\nContinueScore: -1.5\nAbhijit: No\nTransit: Uttara Bhadrapada / Meena\nStart: Avoid\nContinue: Allowed\nTags: Kaal Vela\, Gulikai Kalam\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:9363e8b20df80d34f53684b46a8e7788b9bbe981@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260124T104300
 DTEND;TZID=Europe/Amsterdam:20260124T114800
-SUMMARY:Roga
+SUMMARY:R S:N C:A S:-1.5 SS:-2.5 CS:-1.5
 DESCRIPTION:BaseScore: -1.5 (Chogh:-2\, Tara:-1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -2.5\nContinueScore: -1.5\nAbhijit: No\nTransit: Uttara Bhadrapada / Meena\nStart: Avoid\nContinue: Allowed\nTags: Rahu Kalam\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:620a5a818321dd5b4f0805d4061671e84e257aa3@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260124T114800
 DTEND;TZID=Europe/Amsterdam:20260124T125300
-SUMMARY:Udvega
+SUMMARY:U S:A C:A S:-0.5 SS:0.5 CS:0.5
 DESCRIPTION:BaseScore: -0.5 (Chogh:-1\, Tara:-1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 0.5\nContinueScore: 0.5\nAbhijit: Yes\nTransit: Uttara Bhadrapada / Meena\nStart: Allowed\nContinue: Allowed\nTags: Abhijit Muhurat\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:dd7a6d528d25374cf9afcda514ef7da58e3f671b@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260124T135800
 DTEND;TZID=Europe/Amsterdam:20260124T150300
-SUMMARY:Labha
+SUMMARY:L S:N C:A S:2.5 SS:0.5 CS:2.5
 DESCRIPTION:BaseScore: 2.5 (Chogh:2\, Tara:-1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 0.5\nContinueScore: 2.5\nAbhijit: No\nTransit: Uttara Bhadrapada / Meena\nStart: Avoid\nContinue: Allowed\nTags: Vaar Vela\, Yamaganda\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:cb540f6c62bba091619e2698fce7d090077e3a0d@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260124T160700
 DTEND;TZID=Europe/Amsterdam:20260124T171200
-SUMMARY:Kala
+SUMMARY:K S:N C:A S:-1.5 SS:-2.5 CS:-1.5
 DESCRIPTION:BaseScore: -1.5 (Chogh:-2\, Tara:-1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -2.5\nContinueScore: -1.5\nAbhijit: No\nTransit: Uttara Bhadrapada / Meena\nStart: Avoid\nContinue: Allowed\nTags: Kaal Vela\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:db2b30da1f3bd34e98547bdbc6bca4db40b16d0c@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260124T171200
 DTEND;TZID=Europe/Amsterdam:20260124T190700
-SUMMARY:Labha
+SUMMARY:L S:A C:A S:2.5 SS:1.5 CS:2.5
 DESCRIPTION:BaseScore: 2.5 (Chogh:2\, Tara:-1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 1.5\nContinueScore: 2.5\nAbhijit: No\nTransit: Uttara Bhadrapada / Meena\nStart: Allowed\nContinue: Allowed\nTags: Kaal Ratri\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:dd39ef43730206a6a47bd1f80831e98e5676af35@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260124T190700
 DTEND;TZID=Europe/Amsterdam:20260124T210200
-SUMMARY:Udvega
+SUMMARY:U S:A C:A S:-0.5 SS:-0.5 CS:-0.5
 DESCRIPTION:BaseScore: -0.5 (Chogh:-1\, Tara:-1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -0.5\nContinueScore: -0.5\nAbhijit: No\nTransit: Uttara Bhadrapada / Meena\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:869c7a8c82ed86ca239b3f76546ffa18aac5d14b@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260125T005200
 DTEND;TZID=Europe/Amsterdam:20260125T024700
-SUMMARY:Chara
+SUMMARY:C S:A C:A S:1.5 SS:1.5 CS:1.5
 DESCRIPTION:BaseScore: 1.5 (Chogh:1\, Tara:-1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 1.5\nContinueScore: 1.5\nAbhijit: No\nTransit: Uttara Bhadrapada / Meena\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:9618d83e31a12c44ada279df8a2e689e774c9e3f@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260125T024700
 DTEND;TZID=Europe/Amsterdam:20260125T044200
-SUMMARY:Roga
+SUMMARY:R S:A C:A S:-1.5 SS:-1.5 CS:-1.5
 DESCRIPTION:BaseScore: -1.5 (Chogh:-2\, Tara:-1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -1.5\nContinueScore: -1.5\nAbhijit: No\nTransit: Uttara Bhadrapada / Meena\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:c2b73696cca8b58f1fd741d42a1a3a030edaf96d@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260125T044200
 DTEND;TZID=Europe/Amsterdam:20260125T063700
-SUMMARY:Kala
+SUMMARY:K S:A C:A S:-1.5 SS:-1.5 CS:-1.5
 DESCRIPTION:BaseScore: -1.5 (Chogh:-2\, Tara:-1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -1.5\nContinueScore: -1.5\nAbhijit: No\nTransit: Uttara Bhadrapada / Meena\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2eb9f96f49b4e7ce00da8c3352adf72f65eb6d8f@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260125T063700
 DTEND;TZID=Europe/Amsterdam:20260125T083200
-SUMMARY:Labha
+SUMMARY:L S:A C:A S:2.5 SS:1.5 CS:2.5
 DESCRIPTION:BaseScore: 2.5 (Chogh:2\, Tara:-1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 1.5\nContinueScore: 2.5\nAbhijit: No\nTransit: Uttara Bhadrapada / Meena\nStart: Allowed\nContinue: Allowed\nTags: Kaal Ratri\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a32a8fdc6a2723a5c54ceaf6a8336c649be775ca@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260125T114800
 DTEND;TZID=Europe/Amsterdam:20260125T125300
-SUMMARY:Amrita
+SUMMARY:A S:A C:A S:6.5 SS:6.5 CS:7.5
 DESCRIPTION:BaseScore: 6.5 (Chogh:3\, Tara:2\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 6.5\nContinueScore: 7.5\nAbhijit: Yes\nTransit: Revati / Meena\nStart: Allowed\nContinue: Allowed\nTags: Vaar Vela\, Abhijit Muhurat\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a3579b33e1e2164abd615339d3936a0d44e669d7@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260125T125300
 DTEND;TZID=Europe/Amsterdam:20260125T135800
-SUMMARY:Kala
+SUMMARY:K S:N C:A S:1.5 SS:0.5 CS:2.5
 DESCRIPTION:BaseScore: 1.5 (Chogh:-2\, Tara:2\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 0.5\nContinueScore: 2.5\nAbhijit: Yes\nTransit: Revati / Meena\nStart: Avoid\nContinue: Allowed\nTags: Kaal Vela\, Abhijit Muhurat\, Yamaganda\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:4cb826e1f1213c22495fe9ac7e2c33a97c708314@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260125T150400
 DTEND;TZID=Europe/Amsterdam:20260125T160900
-SUMMARY:Roga
+SUMMARY:R S:N C:A S:1.5 SS:0.5 CS:1.5
 DESCRIPTION:BaseScore: 1.5 (Chogh:-2\, Tara:2\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 0.5\nContinueScore: 1.5\nAbhijit: No\nTransit: Revati / Meena\nStart: Avoid\nContinue: Allowed\nTags: Gulikai Kalam\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:72e54db432dce721cbe5d8ea84c9714483e87a2c@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260125T160900
 DTEND;TZID=Europe/Amsterdam:20260125T171400
-SUMMARY:Udvega
+SUMMARY:U S:A C:A S:2.5 SS:1.5 CS:2.5
 DESCRIPTION:BaseScore: 2.5 (Chogh:-1\, Tara:2\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 1.5\nContinueScore: 2.5\nAbhijit: No\nTransit: Revati / Meena\nStart: Allowed\nContinue: Allowed\nTags: Rahu Kalam\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:7699cf18ffb2c00be346f5b81b96481c4c3dc531@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260125T225800
 DTEND;TZID=Europe/Amsterdam:20260126T005200
-SUMMARY:Roga
+SUMMARY:R S:A C:A S:1.5 SS:1.5 CS:1.5
 DESCRIPTION:BaseScore: 1.5 (Chogh:-2\, Tara:2\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 1.5\nContinueScore: 1.5\nAbhijit: No\nTransit: Revati / Meena\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:4493c7326157be57fbd4ca6a741b42ac4b4d3755@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260126T005200
 DTEND;TZID=Europe/Amsterdam:20260126T024700
-SUMMARY:Kala
+SUMMARY:K S:A C:A S:1.5 SS:1.5 CS:1.5
 DESCRIPTION:BaseScore: 1.5 (Chogh:-2\, Tara:2\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 1.5\nContinueScore: 1.5\nAbhijit: No\nTransit: Revati / Meena\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:c499ae9aaa7e22cf5b1bd62d5485c28d0e693aee@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260126T024700
 DTEND;TZID=Europe/Amsterdam:20260126T044200
-SUMMARY:Labha
+SUMMARY:L S:A C:A S:5.5 SS:4.5 CS:5.5
 DESCRIPTION:BaseScore: 5.5 (Chogh:2\, Tara:2\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 4.5\nContinueScore: 5.5\nAbhijit: No\nTransit: Revati / Meena\nStart: Allowed\nContinue: Allowed\nTags: Kaal Ratri\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:017c3b2a46a92bc9b9e6072ebd0178f335658c9c@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260126T093600
 DTEND;TZID=Europe/Amsterdam:20260126T104200
-SUMMARY:Kala
+SUMMARY:K S:N C:A S:1.5 SS:-0.5 CS:1.5
 DESCRIPTION:BaseScore: 1.5 (Chogh:-2\, Tara:1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -0.5\nContinueScore: 1.5\nAbhijit: No\nTransit: Bharani / Mesha\nStart: Avoid\nContinue: Allowed\nTags: Kaal Vela\, Rahu Kalam\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:39f4b8d3f610213999277381f1ad60d70e1d6657@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260126T114800
 DTEND;TZID=Europe/Amsterdam:20260126T125300
-SUMMARY:Roga
+SUMMARY:R S:A C:A S:1.5 SS:1.5 CS:2.5
 DESCRIPTION:BaseScore: 1.5 (Chogh:-2\, Tara:1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 1.5\nContinueScore: 2.5\nAbhijit: Yes\nTransit: Bharani / Mesha\nStart: Allowed\nContinue: Allowed\nTags: Abhijit Muhurat\, Yamaganda\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:010aa2e9cb5fd039f33a008c205a72749a50d3e6@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260126T135900
 DTEND;TZID=Europe/Amsterdam:20260126T150500
-SUMMARY:Chara
+SUMMARY:C S:A C:A S:4.5 SS:3.5 CS:4.5
 DESCRIPTION:BaseScore: 4.5 (Chogh:1\, Tara:1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 3.5\nContinueScore: 4.5\nAbhijit: No\nTransit: Bharani / Mesha\nStart: Allowed\nContinue: Allowed\nTags: Gulikai Kalam\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:9f1fa05e833d96359e55abfd04661ef89d3073a0@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260126T150500
 DTEND;TZID=Europe/Amsterdam:20260126T161000
-SUMMARY:Labha
+SUMMARY:L S:A C:A S:5.5 SS:4.5 CS:5.5
 DESCRIPTION:BaseScore: 5.5 (Chogh:2\, Tara:1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 4.5\nContinueScore: 5.5\nAbhijit: No\nTransit: Bharani / Mesha\nStart: Allowed\nContinue: Allowed\nTags: Vaar Vela\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:740d5878dea6113e6f6324f19d6bf3f62b638e89@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260126T191000
 DTEND;TZID=Europe/Amsterdam:20260126T210400
-SUMMARY:Roga
+SUMMARY:R S:A C:A S:1.5 SS:1.5 CS:1.5
 DESCRIPTION:BaseScore: 1.5 (Chogh:-2\, Tara:1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 1.5\nContinueScore: 1.5\nAbhijit: No\nTransit: Bharani / Mesha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b60646670d85b493542da27a44c65f576660a657@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260126T210400
 DTEND;TZID=Europe/Amsterdam:20260126T225800
-SUMMARY:Kala
+SUMMARY:K S:A C:A S:1.5 SS:1.5 CS:1.5
 DESCRIPTION:BaseScore: 1.5 (Chogh:-2\, Tara:1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 1.5\nContinueScore: 1.5\nAbhijit: No\nTransit: Bharani / Mesha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a530110a4d90901043f61dcd450f295fc042e976@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260126T225800
 DTEND;TZID=Europe/Amsterdam:20260127T005300
-SUMMARY:Labha
+SUMMARY:L S:A C:A S:5.5 SS:4.5 CS:5.5
 DESCRIPTION:BaseScore: 5.5 (Chogh:2\, Tara:1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 4.5\nContinueScore: 5.5\nAbhijit: No\nTransit: Bharani / Mesha\nStart: Allowed\nContinue: Allowed\nTags: Kaal Ratri\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d414990337c4d8abf2f2b20319dc63b8c89959bd@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260127T082900
 DTEND;TZID=Europe/Amsterdam:20260127T093500
-SUMMARY:Roga
+SUMMARY:R S:A C:A S:-0.5 SS:-0.5 CS:-0.5
 DESCRIPTION:BaseScore: -0.5 (Chogh:-2\, Tara:-1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -0.5\nContinueScore: -0.5\nAbhijit: No\nTransit: Krittika / Mesha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:9352b3cf82de4b5f3c51974a7d51c5d35ec1f90d@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260127T093500
 DTEND;TZID=Europe/Amsterdam:20260127T104100
-SUMMARY:Udvega
+SUMMARY:U S:N C:A S:0.5 SS:-0.5 CS:0.5
 DESCRIPTION:BaseScore: 0.5 (Chogh:-1\, Tara:-1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -0.5\nContinueScore: 0.5\nAbhijit: No\nTransit: Krittika / Mesha\nStart: Avoid\nContinue: Allowed\nTags: Vaar Vela\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d1869e394313ab644587753a5c41f938ded8ea26@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260127T104100
 DTEND;TZID=Europe/Amsterdam:20260127T114700
-SUMMARY:Chara
+SUMMARY:C S:A C:A S:2.5 SS:1.5 CS:2.5
 DESCRIPTION:BaseScore: 2.5 (Chogh:1\, Tara:-1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 1.5\nContinueScore: 2.5\nAbhijit: No\nTransit: Krittika / Mesha\nStart: Allowed\nContinue: Allowed\nTags: Yamaganda\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:9de32b4d99978592f55ff7d1fd06c141aa0c2439@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260127T125300
 DTEND;TZID=Europe/Amsterdam:20260127T140000
-SUMMARY:Amrita
+SUMMARY:A S:A C:A S:4.5 SS:4.5 CS:5.5
 DESCRIPTION:BaseScore: 4.5 (Chogh:3\, Tara:-1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 4.5\nContinueScore: 5.5\nAbhijit: Yes\nTransit: Krittika / Mesha\nStart: Allowed\nContinue: Allowed\nTags: Abhijit Muhurat\, Gulikai Kalam\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:385ad866d8fbed14d68046890b597ba386914262@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260127T140000
 DTEND;TZID=Europe/Amsterdam:20260127T150600
-SUMMARY:Kala
+SUMMARY:K S:N C:A S:-0.5 SS:-1.5 CS:-0.5
 DESCRIPTION:BaseScore: -0.5 (Chogh:-2\, Tara:-1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -1.5\nContinueScore: -0.5\nAbhijit: No\nTransit: Krittika / Mesha\nStart: Avoid\nContinue: Allowed\nTags: Kaal Vela\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:1628adf43394cc5996539865af34706ca16e64d9@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260127T150600
 DTEND;TZID=Europe/Amsterdam:20260127T161200
-SUMMARY:Shubha
+SUMMARY:S S:A C:A S:3.5 SS:2.5 CS:3.5
 DESCRIPTION:BaseScore: 3.5 (Chogh:2\, Tara:-1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 2.5\nContinueScore: 3.5\nAbhijit: No\nTransit: Krittika / Mesha\nStart: Allowed\nContinue: Allowed\nTags: Rahu Kalam\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a203d604968874451d3f3abe73932fa277f6749c@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260127T161200
 DTEND;TZID=Europe/Amsterdam:20260127T171800
-SUMMARY:Roga
+SUMMARY:R S:A C:A S:-0.5 SS:-0.5 CS:-0.5
 DESCRIPTION:BaseScore: -0.5 (Chogh:-2\, Tara:-1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -0.5\nContinueScore: -0.5\nAbhijit: No\nTransit: Krittika / Mesha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:0f1d1c9bc285ea87ddcc435c7852cd7cb9024d2e@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260127T171800
 DTEND;TZID=Europe/Amsterdam:20260127T191100
-SUMMARY:Kala
+SUMMARY:K S:A C:A S:-0.5 SS:-0.5 CS:-0.5
 DESCRIPTION:BaseScore: -0.5 (Chogh:-2\, Tara:-1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -0.5\nContinueScore: -0.5\nAbhijit: No\nTransit: Krittika / Mesha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6cc4f5de0f1e3158b989ccfbd3c6d9f82914060e@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260127T191100
 DTEND;TZID=Europe/Amsterdam:20260127T210500
-SUMMARY:Labha
+SUMMARY:L S:A C:A S:3.5 SS:2.5 CS:3.5
 DESCRIPTION:BaseScore: 3.5 (Chogh:2\, Tara:-1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 2.5\nContinueScore: 3.5\nAbhijit: No\nTransit: Krittika / Mesha\nStart: Allowed\nContinue: Allowed\nTags: Kaal Ratri\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:57a78db477897a80456840a6face90ceea29b362@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260127T210500
 DTEND;TZID=Europe/Amsterdam:20260127T225900
-SUMMARY:Udvega
+SUMMARY:U S:A C:A S:0.5 SS:0.5 CS:0.5
 DESCRIPTION:BaseScore: 0.5 (Chogh:-1\, Tara:-1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 0.5\nContinueScore: 0.5\nAbhijit: No\nTransit: Krittika / Mesha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:5eed54699941e7586fe6de52934354bed4ed3a47@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260128T044000
 DTEND;TZID=Europe/Amsterdam:20260128T063400
-SUMMARY:Roga
+SUMMARY:R S:A C:A S:-0.5 SS:-0.5 CS:-0.5
 DESCRIPTION:BaseScore: -0.5 (Chogh:-2\, Tara:-1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -0.5\nContinueScore: -0.5\nAbhijit: No\nTransit: Krittika / Mesha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:567fc42d842d4e9471fc1c84f71c230b454b2a47@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260128T063400
 DTEND;TZID=Europe/Amsterdam:20260128T082800
-SUMMARY:Kala
+SUMMARY:K S:A C:A S:-0.5 SS:-0.5 CS:-0.5
 DESCRIPTION:BaseScore: -0.5 (Chogh:-2\, Tara:-1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -0.5\nContinueScore: -0.5\nAbhijit: No\nTransit: Krittika / Mesha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:be69408f7c6ebfd15261b7e38d95dc7d4a21c7ec@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260128T093400
 DTEND;TZID=Europe/Amsterdam:20260128T104100
-SUMMARY:Amrita
+SUMMARY:A S:A C:A S:7.5 SS:6.5 CS:7.5
 DESCRIPTION:BaseScore: 7.5 (Chogh:3\, Tara:2\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 6.5\nContinueScore: 7.5\nAbhijit: No\nTransit: Rohini / Vrishabha\nStart: Allowed\nContinue: Allowed\nTags: Yamaganda\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:34b6852c5d78ecff505963985f410460692e08d3@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260128T104100
 DTEND;TZID=Europe/Amsterdam:20260128T114700
-SUMMARY:Kala
+SUMMARY:K S:A C:A S:2.5 SS:1.5 CS:2.5
 DESCRIPTION:BaseScore: 2.5 (Chogh:-2\, Tara:2\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 1.5\nContinueScore: 2.5\nAbhijit: No\nTransit: Rohini / Vrishabha\nStart: Allowed\nContinue: Allowed\nTags: Kaal Vela\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:894996415d75d7ef43149fb25402a458a3f20157@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260128T114700
 DTEND;TZID=Europe/Amsterdam:20260128T125400
-SUMMARY:Shubha
+SUMMARY:S S:A C:A S:6.5 SS:5.5 CS:6.5
 DESCRIPTION:BaseScore: 6.5 (Chogh:2\, Tara:2\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 5.5\nContinueScore: 6.5\nAbhijit: No\nTransit: Rohini / Vrishabha\nStart: Allowed\nContinue: Allowed\nTags: Gulikai Kalam\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d05ad3950d878ff1d92a02d2ff982c0d279cbfd2@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260128T125400
 DTEND;TZID=Europe/Amsterdam:20260128T140000
-SUMMARY:Roga
+SUMMARY:R S:N C:A S:2.5 SS:0.5 CS:2.5
 DESCRIPTION:BaseScore: 2.5 (Chogh:-2\, Tara:2\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 0.5\nContinueScore: 2.5\nAbhijit: No\nTransit: Rohini / Vrishabha\nStart: Avoid\nContinue: Allowed\nTags: Vaar Vela\, Rahu Kalam\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:9657bd65cc72c141dd63e7947b21fc062e9eca75@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260129T044000
 DTEND;TZID=Europe/Amsterdam:20260129T063300
-SUMMARY:Labha
+SUMMARY:L S:A C:A S:6.5 SS:5.5 CS:6.5
 DESCRIPTION:BaseScore: 6.5 (Chogh:2\, Tara:2\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 5.5\nContinueScore: 6.5\nAbhijit: No\nTransit: Rohini / Vrishabha\nStart: Allowed\nContinue: Allowed\nTags: Kaal Ratri\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:73ef07610d18f7331be832771f0a44e3a17481ce@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260129T082600
 DTEND;TZID=Europe/Amsterdam:20260129T093300
-SUMMARY:Shubha
+SUMMARY:S S:A C:A S:2.5 SS:1.5 CS:2.5
 DESCRIPTION:BaseScore: 2.5 (Chogh:2\, Tara:-2\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 1.5\nContinueScore: 2.5\nAbhijit: No\nTransit: Mrigashira / Vrishabha\nStart: Allowed\nContinue: Allowed\nTags: Yamaganda\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:74a4a40d711b9f56e95bd308925c3cf148b7d1da@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260129T093300
 DTEND;TZID=Europe/Amsterdam:20260129T104000
-SUMMARY:Roga
+SUMMARY:R S:A C:A S:-1.5 SS:-1.5 CS:-1.5
 DESCRIPTION:BaseScore: -1.5 (Chogh:-2\, Tara:-2\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -1.5\nContinueScore: -1.5\nAbhijit: No\nTransit: Mrigashira / Vrishabha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a74d8a2fc65b6403d60ef3f90ab79cee8e3fd366@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260129T104000
 DTEND;TZID=Europe/Amsterdam:20260129T114700
-SUMMARY:Udvega
+SUMMARY:U S:N C:A S:-0.5 SS:-1.5 CS:-0.5
 DESCRIPTION:BaseScore: -0.5 (Chogh:-1\, Tara:-2\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -1.5\nContinueScore: -0.5\nAbhijit: No\nTransit: Mrigashira / Vrishabha\nStart: Avoid\nContinue: Allowed\nTags: Gulikai Kalam\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ea794b106a475ac04dedd7ff0a70679afe8a9bb9@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260129T140100
 DTEND;TZID=Europe/Amsterdam:20260129T150800
-SUMMARY:Amrita
+SUMMARY:A S:A C:A S:3.5 SS:2.5 CS:3.5
 DESCRIPTION:BaseScore: 3.5 (Chogh:3\, Tara:-2\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 2.5\nContinueScore: 3.5\nAbhijit: No\nTransit: Mrigashira / Vrishabha\nStart: Allowed\nContinue: Allowed\nTags: Rahu Kalam\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a4a4801e7304fc24574d1b4b17363def8d5df3d4@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260129T150800
 DTEND;TZID=Europe/Amsterdam:20260129T161500
-SUMMARY:Kala
+SUMMARY:K S:N C:A S:-1.5 SS:-2.5 CS:-1.5
 DESCRIPTION:BaseScore: -1.5 (Chogh:-2\, Tara:-2\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -2.5\nContinueScore: -1.5\nAbhijit: No\nTransit: Mrigashira / Vrishabha\nStart: Avoid\nContinue: Allowed\nTags: Kaal Vela\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6171c8ff92b94449728f8b7109b2743aad807993@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260129T161500
 DTEND;TZID=Europe/Amsterdam:20260129T172100
-SUMMARY:Shubha
+SUMMARY:S S:A C:A S:2.5 SS:1.5 CS:2.5
 DESCRIPTION:BaseScore: 2.5 (Chogh:2\, Tara:-2\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 1.5\nContinueScore: 2.5\nAbhijit: No\nTransit: Mrigashira / Vrishabha\nStart: Allowed\nContinue: Allowed\nTags: Vaar Vela\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:33722ed86cb0d76acfc29665df91bc3d14e3f4df@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260129T191400
 DTEND;TZID=Europe/Amsterdam:20260129T210700
-SUMMARY:Chara
+SUMMARY:C S:A C:A S:1.5 SS:1.5 CS:1.5
 DESCRIPTION:BaseScore: 1.5 (Chogh:1\, Tara:-2\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 1.5\nContinueScore: 1.5\nAbhijit: No\nTransit: Mrigashira / Vrishabha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e00d570a7f75e117de0552a9ce1bdc8ed782dd2b@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260129T210700
 DTEND;TZID=Europe/Amsterdam:20260129T230000
-SUMMARY:Roga
+SUMMARY:R S:A C:A S:-1.5 SS:-1.5 CS:-1.5
 DESCRIPTION:BaseScore: -1.5 (Chogh:-2\, Tara:-2\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -1.5\nContinueScore: -1.5\nAbhijit: No\nTransit: Mrigashira / Vrishabha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a6b895fb2339ba837a02e0173d22f10595c17435@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260129T230000
 DTEND;TZID=Europe/Amsterdam:20260130T005300
-SUMMARY:Kala
+SUMMARY:K S:A C:A S:-1.5 SS:-1.5 CS:-1.5
 DESCRIPTION:BaseScore: -1.5 (Chogh:-2\, Tara:-2\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -1.5\nContinueScore: -1.5\nAbhijit: No\nTransit: Mrigashira / Vrishabha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d0b3168dd3659a4403926ec847641248864e1842@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260130T005300
 DTEND;TZID=Europe/Amsterdam:20260130T024600
-SUMMARY:Labha
+SUMMARY:L S:A C:A S:2.5 SS:1.5 CS:2.5
 DESCRIPTION:BaseScore: 2.5 (Chogh:2\, Tara:-2\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 1.5\nContinueScore: 2.5\nAbhijit: No\nTransit: Mrigashira / Vrishabha\nStart: Allowed\nContinue: Allowed\nTags: Kaal Ratri\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:024d316a3963c445964716746c34c0a05d524888@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260130T024600
 DTEND;TZID=Europe/Amsterdam:20260130T043900
-SUMMARY:Udvega
+SUMMARY:U S:A C:A S:-0.5 SS:-0.5 CS:-0.5
 DESCRIPTION:BaseScore: -0.5 (Chogh:-1\, Tara:-2\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -0.5\nContinueScore: -0.5\nAbhijit: No\nTransit: Mrigashira / Vrishabha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:bfb4b3d3aace9da1c542971adfb700838276e499@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260130T093200
 DTEND;TZID=Europe/Amsterdam:20260130T103900
-SUMMARY:Labha
+SUMMARY:L S:A C:A S:4.5 SS:3.5 CS:4.5
 DESCRIPTION:BaseScore: 4.5 (Chogh:2\, Tara:1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 3.5\nContinueScore: 4.5\nAbhijit: No\nTransit: Ardra / Mithuna\nStart: Allowed\nContinue: Allowed\nTags: Gulikai Kalam\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:80079ef4b8a3ab0791ae071a6fba6743f102b0b5@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260130T103900
 DTEND;TZID=Europe/Amsterdam:20260130T114700
-SUMMARY:Amrita
+SUMMARY:A S:A C:A S:5.5 SS:4.5 CS:5.5
 DESCRIPTION:BaseScore: 5.5 (Chogh:3\, Tara:1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 4.5\nContinueScore: 5.5\nAbhijit: No\nTransit: Ardra / Mithuna\nStart: Allowed\nContinue: Allowed\nTags: Vaar Vela\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8155458c1dc42b6d8fdc2ec46c2af09009c07db3@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260130T114700
 DTEND;TZID=Europe/Amsterdam:20260130T125400
-SUMMARY:Kala
+SUMMARY:K S:N C:A S:0.5 SS:-0.5 CS:1.5
 DESCRIPTION:BaseScore: 0.5 (Chogh:-2\, Tara:1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -0.5\nContinueScore: 1.5\nAbhijit: Yes\nTransit: Ardra / Mithuna\nStart: Avoid\nContinue: Allowed\nTags: Kaal Vela\, Abhijit Muhurat\, Rahu Kalam\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:c3aa5fa9892159a854a47ac2502740088ff09b59@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260130T140100
 DTEND;TZID=Europe/Amsterdam:20260130T150900
-SUMMARY:Roga
+SUMMARY:R S:A C:A S:0.5 SS:0.5 CS:0.5
 DESCRIPTION:BaseScore: 0.5 (Chogh:-2\, Tara:1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 0.5\nContinueScore: 0.5\nAbhijit: No\nTransit: Ardra / Mithuna\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:44ab3cb46cbeae0b6d241ff00baf4ca35bbbdd70@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260130T150900
 DTEND;TZID=Europe/Amsterdam:20260130T161600
-SUMMARY:Udvega
+SUMMARY:U S:N C:A S:1.5 SS:0.5 CS:1.5
 DESCRIPTION:BaseScore: 1.5 (Chogh:-1\, Tara:1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 0.5\nContinueScore: 1.5\nAbhijit: No\nTransit: Ardra / Mithuna\nStart: Avoid\nContinue: Allowed\nTags: Yamaganda\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:aa6a681c4fd2dec0b0bce5b539e0e297989a91d1@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260130T172300
 DTEND;TZID=Europe/Amsterdam:20260130T191600
-SUMMARY:Roga
+SUMMARY:R S:A C:A S:0.5 SS:0.5 CS:0.5
 DESCRIPTION:BaseScore: 0.5 (Chogh:-2\, Tara:1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 0.5\nContinueScore: 0.5\nAbhijit: No\nTransit: Ardra / Mithuna\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:5bfce0bcc8d3d5f150246b80986df3d7c9192ac3@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260130T191600
 DTEND;TZID=Europe/Amsterdam:20260130T210800
-SUMMARY:Kala
+SUMMARY:K S:A C:A S:0.5 SS:0.5 CS:0.5
 DESCRIPTION:BaseScore: 0.5 (Chogh:-2\, Tara:1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 0.5\nContinueScore: 0.5\nAbhijit: No\nTransit: Ardra / Mithuna\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f1b04ece9330c8ccebd1f2ff8bb1198355e84c4a@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260130T210800
 DTEND;TZID=Europe/Amsterdam:20260130T230100
-SUMMARY:Labha
+SUMMARY:L S:A C:A S:4.5 SS:3.5 CS:4.5
 DESCRIPTION:BaseScore: 4.5 (Chogh:2\, Tara:1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 3.5\nContinueScore: 4.5\nAbhijit: No\nTransit: Ardra / Mithuna\nStart: Allowed\nContinue: Allowed\nTags: Kaal Ratri\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e427024ddd2561ef4b6d6b66c08cd81ec88ed934@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260130T230100
 DTEND;TZID=Europe/Amsterdam:20260131T005300
-SUMMARY:Udvega
+SUMMARY:U S:A C:A S:1.5 SS:1.5 CS:1.5
 DESCRIPTION:BaseScore: 1.5 (Chogh:-1\, Tara:1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 1.5\nContinueScore: 1.5\nAbhijit: No\nTransit: Ardra / Mithuna\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:809cbb0ee65dde7d3a8903a1bec825d0ae70ef19@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260131T063100
 DTEND;TZID=Europe/Amsterdam:20260131T082300
-SUMMARY:Roga
+SUMMARY:R S:A C:A S:0.5 SS:0.5 CS:0.5
 DESCRIPTION:BaseScore: 0.5 (Chogh:-2\, Tara:1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 0.5\nContinueScore: 0.5\nAbhijit: No\nTransit: Ardra / Mithuna\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:3252e9d387ebd440e5ec66df8b3a0faa89829268@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260131T082300
 DTEND;TZID=Europe/Amsterdam:20260131T093100
-SUMMARY:Kala
+SUMMARY:K S:N C:A S:1.5 SS:-0.5 CS:1.5
 DESCRIPTION:BaseScore: 1.5 (Chogh:-2\, Tara:2\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -0.5\nContinueScore: 1.5\nAbhijit: No\nTransit: Punarvasu / Mithuna\nStart: Avoid\nContinue: Allowed\nTags: Kaal Vela\, Gulikai Kalam\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:982458abd4921dcd786b1edbe081369059770ee9@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260131T103900
 DTEND;TZID=Europe/Amsterdam:20260131T114600
-SUMMARY:Roga
+SUMMARY:R S:N C:A S:1.5 SS:0.5 CS:1.5
 DESCRIPTION:BaseScore: 1.5 (Chogh:-2\, Tara:2\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 0.5\nContinueScore: 1.5\nAbhijit: No\nTransit: Punarvasu / Mithuna\nStart: Avoid\nContinue: Allowed\nTags: Rahu Kalam\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b64a06de1d86d3984e7539e204c281e7cb8fb4e2@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260131T140200
 DTEND;TZID=Europe/Amsterdam:20260131T151000
-SUMMARY:Labha
+SUMMARY:L S:A C:A S:5.5 SS:3.5 CS:5.5
 DESCRIPTION:BaseScore: 5.5 (Chogh:2\, Tara:2\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 3.5\nContinueScore: 5.5\nAbhijit: No\nTransit: Punarvasu / Mithuna\nStart: Allowed\nContinue: Allowed\nTags: Vaar Vela\, Yamaganda\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:c62038f250ebf047d5b9b7c71b8f27617edbcb23@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260131T161700
 DTEND;TZID=Europe/Amsterdam:20260131T172500
-SUMMARY:Kala
+SUMMARY:K S:N C:A S:1.5 SS:0.5 CS:1.5
 DESCRIPTION:BaseScore: 1.5 (Chogh:-2\, Tara:2\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 0.5\nContinueScore: 1.5\nAbhijit: No\nTransit: Punarvasu / Mithuna\nStart: Avoid\nContinue: Allowed\nTags: Kaal Vela\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:1d1f72e67df9e6f042f76ed6ede3bf04e71a9728@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260131T172500
 DTEND;TZID=Europe/Amsterdam:20260131T191700
-SUMMARY:Labha
+SUMMARY:L S:A C:A S:5.5 SS:4.5 CS:5.5
 DESCRIPTION:BaseScore: 5.5 (Chogh:2\, Tara:2\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 4.5\nContinueScore: 5.5\nAbhijit: No\nTransit: Punarvasu / Mithuna\nStart: Allowed\nContinue: Allowed\nTags: Kaal Ratri\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:edfff1e6dbcef9738d84988d8460cab6535bd58f@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260201T024500
 DTEND;TZID=Europe/Amsterdam:20260201T043800
-SUMMARY:Roga
+SUMMARY:R S:A C:A S:1.5 SS:1.5 CS:1.5
 DESCRIPTION:BaseScore: 1.5 (Chogh:-2\, Tara:2\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 1.5\nContinueScore: 1.5\nAbhijit: No\nTransit: Punarvasu / Mithuna\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:0bea6dc49951b987e896c332562990f6e6173730@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260201T043800
 DTEND;TZID=Europe/Amsterdam:20260201T063000
-SUMMARY:Kala
+SUMMARY:K S:A C:A S:1.5 SS:1.5 CS:1.5
 DESCRIPTION:BaseScore: 1.5 (Chogh:-2\, Tara:2\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 1.5\nContinueScore: 1.5\nAbhijit: No\nTransit: Punarvasu / Mithuna\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:4927a7572e47c6b26f3e18d67984d64b5c287277@muhurat-ams
-DTSTAMP:20260102T133316
+DTSTAMP:20260102T134646
 DTSTART;TZID=Europe/Amsterdam:20260201T063000
 DTEND;TZID=Europe/Amsterdam:20260201T082200
-SUMMARY:Labha
+SUMMARY:L S:A C:A S:5.5 SS:4.5 CS:5.5
 DESCRIPTION:BaseScore: 5.5 (Chogh:2\, Tara:2\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 4.5\nContinueScore: 5.5\nAbhijit: No\nTransit: Punarvasu / Mithuna\nStart: Allowed\nContinue: Allowed\nTags: Kaal Ratri\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
