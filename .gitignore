@@ -6,3 +6,8 @@
 *.html
 *.cpython
 __pycache__/calendar.cpython-312.pyc
+*.pdf
+*.yaml
+*.json
+*.txt
+*.ignore

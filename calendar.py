@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Amsterdam Choghadiya + Kaal overlap + personal scoring -> 3 ICS calendars (GOOD / NEUTRAL / AVOID)
+Amsterdam Choghadiya + Kaal/Abhijit overlap + personal scoring -> 3 ICS calendars (GOOD / NEUTRAL / AVOID)
 
 Key constraints satisfied:
 - Uses Drik pages for Amsterdam (geoname-id=2759794).
@@ -25,7 +25,7 @@ import re
 import time
 from dataclasses import dataclass
 from datetime import date, datetime, timedelta
-from typing import Dict, Iterable, List, Optional, Tuple
+from typing import Any, Dict, Iterable, List, Optional, Tuple
 
 _this_dir = os.path.dirname(os.path.abspath(__file__))
 for _p in ("", _this_dir):
@@ -54,10 +54,7 @@ USER_AGENT = "Mozilla/5.0 (compatible; MuhuratCalendarBot/1.0)"
 CACHE_DIR = ".drik_cache"
 REQUEST_SLEEP_SECONDS = 0.4  # be polite
 DOTENV_PATH = ".env"
-
-# Natal config (your kundli from earlier in this thread)
-JANMA_NAKSHATRA = "Pushya"
-JANMA_RASHI = "Karka"  # Cancer
+KUNDALI_PROFILE_PATH = os.path.join(_this_dir, "kundali_profile.yaml")
 
 # Toggle personalization. If False, uses only Choghadiya label + Kaal/vela rules.
 USE_PERSONAL_SCORE = True
@@ -65,8 +62,8 @@ USE_PERSONAL_SCORE = True
 # Strict Kaal overlap for STARTS
 START_BLOCKING_KAALS = {"Rahu Kalam", "Yamaganda", "Gulikai Kalam"}
 
-# Vela tags treated as hard-avoid (both start and continue)
-VELA_HARD_AVOID = {"Vaar Vela", "Kaal Vela", "Kaal Ratri"}
+# Vela tags that cap GOOD and add start risk penalty
+VELA_TAGS = {"Vaar Vela", "Kaal Vela", "Kaal Ratri"}
 
 GITHUB_REMOTE_SUBSTR = "github.com/devraghu/mahurat"
 SKIP_GITHUB_PUBLISH_ENV = "MAHURAT_SKIP_GITHUB_PUBLISH"
@@ -102,7 +99,7 @@ CHOGH_POINTS = {
 
 # Tara Bala points by tara group number (1..9)
 # 1 Janma, 2 Sampat, 3 Vipat, 4 Kshema, 5 Pratyari, 6 Sadhaka, 7 Naidhana, 8 Mitra, 9 Ati Mitra
-TARA_POINTS = {1: -2, 2: 2, 3: -2, 4: 1, 5: -1, 6: 2, 7: -3, 8: 1, 9: 2}
+TARA_POINTS = {1: -1, 2: 2, 3: -1, 4: 1, 5: -1, 6: 2, 7: -2, 8: 1, 9: 2}
 
 # Chandra Bala supportive houses from natal Moon sign
 CHANDRA_SUPPORT = {1, 3, 6, 7, 10, 11}
@@ -119,6 +116,19 @@ class Window:
     end: datetime
 
 @dataclass(frozen=True)
+class DashaPeriod:
+    md: str
+    start: date
+    end: date
+    ad_ranges: Tuple[Tuple[str, date, date], ...]
+
+@dataclass(frozen=True)
+class KundaliProfile:
+    janma_nakshatra: str
+    janma_rashi: str
+    dasha_periods: Tuple[DashaPeriod, ...]
+
+@dataclass(frozen=True)
 class TimelineEntry:
     name: str
     start: datetime
@@ -132,9 +142,12 @@ class ChoghadiyaBlock:
     end: datetime
     vela_tag: Optional[str]
     overlap_kaals: Tuple[str, ...]
+    has_abhijit: bool
     transit_nakshatra: str
     transit_rashi: str
-    score: int
+    base_score: float
+    start_score: float
+    continue_score: float
     score_breakdown: str
     start_allowed: bool
     continue_allowed: bool
@@ -306,6 +319,248 @@ def load_dotenv(path: str) -> Dict[str, str]:
 
 
 # ----------------------------
+# Kundali profile (YAML)
+# ----------------------------
+
+def _strip_yaml_comment(line: str) -> str:
+    out = []
+    in_single = False
+    in_double = False
+    for ch in line:
+        if ch == "'" and not in_double:
+            in_single = not in_single
+        elif ch == '"' and not in_single:
+            in_double = not in_double
+        elif ch == "#" and not in_single and not in_double:
+            break
+        out.append(ch)
+    return "".join(out).rstrip()
+
+def _find_unquoted_colon(text: str) -> int:
+    in_single = False
+    in_double = False
+    for i, ch in enumerate(text):
+        if ch == "'" and not in_double:
+            in_single = not in_single
+        elif ch == '"' and not in_single:
+            in_double = not in_double
+        elif ch == ":" and not in_single and not in_double:
+            return i
+    return -1
+
+def _split_yaml_key_val(text: str) -> Tuple[str, Optional[str]]:
+    idx = _find_unquoted_colon(text)
+    if idx == -1:
+        raise ValueError(f"Invalid YAML mapping line: {text!r}")
+    key = text[:idx].strip()
+    val = text[idx + 1 :].strip()
+    if not val:
+        return key, None
+    return key, val
+
+def _parse_yaml_scalar(val: str) -> Any:
+    if val == "[]":
+        return []
+    if val == "{}":
+        return {}
+    if val.startswith("{") and val.endswith("}"):
+        return _parse_inline_map(val)
+    if val.startswith("'") and val.endswith("'"):
+        return val[1:-1]
+    if val.startswith('"') and val.endswith('"'):
+        return val[1:-1]
+    low = val.lower()
+    if low == "true":
+        return True
+    if low == "false":
+        return False
+    return val
+
+def _split_inline_items(text: str) -> List[str]:
+    items: List[str] = []
+    buf: List[str] = []
+    in_single = False
+    in_double = False
+    for ch in text:
+        if ch == "'" and not in_double:
+            in_single = not in_single
+        elif ch == '"' and not in_single:
+            in_double = not in_double
+        if ch == "," and not in_single and not in_double:
+            items.append("".join(buf).strip())
+            buf = []
+            continue
+        buf.append(ch)
+    if buf:
+        items.append("".join(buf).strip())
+    return [i for i in items if i]
+
+def _parse_inline_map(text: str) -> Dict[str, Any]:
+    inner = text.strip()[1:-1].strip()
+    if not inner:
+        return {}
+    out: Dict[str, Any] = {}
+    for part in _split_inline_items(inner):
+        key, val = _split_yaml_key_val(part)
+        out[key] = _parse_yaml_scalar(val) if val is not None else None
+    return out
+
+def _next_non_empty(lines: List[str], start: int) -> Optional[Tuple[int, str]]:
+    for raw in lines[start:]:
+        clean = _strip_yaml_comment(raw)
+        if not clean.strip():
+            continue
+        indent = len(clean) - len(clean.lstrip(" "))
+        if indent % 2 != 0:
+            raise ValueError(f"Invalid indentation in YAML line: {raw!r}")
+        level = indent // 2
+        return level, clean.strip()
+    return None
+
+def parse_simple_yaml(text: str) -> Dict[str, Any]:
+    lines = text.splitlines()
+    root: Dict[str, Any] = {}
+    stack: List[Tuple[int, Any]] = [(-1, root)]
+
+    i = 0
+    while i < len(lines):
+        raw = lines[i]
+        clean = _strip_yaml_comment(raw)
+        if not clean.strip():
+            i += 1
+            continue
+        indent = len(clean) - len(clean.lstrip(" "))
+        if indent % 2 != 0:
+            raise ValueError(f"Invalid indentation in YAML line: {raw!r}")
+        level = indent // 2
+        text = clean.strip()
+
+        while stack and stack[-1][0] >= level:
+            stack.pop()
+        parent = stack[-1][1]
+
+        if text.startswith("- "):
+            if not isinstance(parent, list):
+                raise ValueError(f"List item found but parent is not a list: {text!r}")
+            item_text = text[2:].strip()
+            if item_text.startswith("{") and item_text.endswith("}"):
+                parent.append(_parse_inline_map(item_text))
+            elif _find_unquoted_colon(item_text) != -1:
+                key, val = _split_yaml_key_val(item_text)
+                item: Dict[str, Any] = {}
+                item[key] = _parse_yaml_scalar(val) if val is not None else None
+                parent.append(item)
+                stack.append((level, item))
+            else:
+                parent.append(_parse_yaml_scalar(item_text))
+            i += 1
+            continue
+
+        key, val = _split_yaml_key_val(text)
+        if isinstance(parent, list):
+            if parent and isinstance(parent[-1], dict):
+                parent = parent[-1]
+            else:
+                raise ValueError(f"Mapping line inside list without a dict item: {text!r}")
+
+        if val is None:
+            nxt = _next_non_empty(lines, i + 1)
+            if nxt and nxt[0] > level and nxt[1].startswith("- "):
+                container: Any = []
+            else:
+                container = {}
+            parent[key] = container
+            stack.append((level, container))
+        else:
+            parent[key] = _parse_yaml_scalar(val)
+        i += 1
+
+    return root
+
+def normalize_lord(name: str) -> str:
+    short = {
+        "VEN": "Venus",
+        "SUN": "Sun",
+        "MON": "Moon",
+        "MAR": "Mars",
+        "RAH": "Rahu",
+        "JUP": "Jupiter",
+        "SAT": "Saturn",
+        "KET": "Ketu",
+        "MER": "Mercury",
+    }
+    key = name.strip()
+    key_upper = key.upper()
+    if key_upper in short:
+        return short[key_upper]
+    return key.title()
+
+def normalize_nakshatra(name: str) -> str:
+    alias = {
+        "Pashyami": "Pushya",
+    }
+    return alias.get(name, name)
+
+def load_kundali_profile(path: str) -> KundaliProfile:
+    try:
+        with open(path, "r", encoding="utf-8") as f:
+            data = parse_simple_yaml(f.read())
+    except FileNotFoundError as exc:
+        raise FileNotFoundError(f"Missing kundali profile file: {path}") from exc
+
+    anchors = data.get("birth_anchors", {})
+    janma_nak = anchors.get("janma_nakshatra", {})
+    janma_nak_val = (
+        janma_nak.get("normalized_english")
+        or janma_nak.get("name_in_pdf")
+        or ""
+    )
+    janma_nak_val = normalize_nakshatra(janma_nak_val)
+    if not janma_nak_val:
+        raise ValueError("Janma nakshatra missing in kundali_profile.yaml")
+
+    janma_rashi = anchors.get("janma_rashi", {})
+    rashi_val = janma_rashi.get("sanskrit") or janma_rashi.get("english") or ""
+    if not rashi_val:
+        raise ValueError("Janma rashi missing in kundali_profile.yaml")
+
+    sign_map = data.get("sign_name_mapping", {})
+    if rashi_val in sign_map:
+        rashi_val = sign_map[rashi_val]
+
+    dasha_root = data.get("vimshottari_dasha_lahiri", {})
+    md_periods = dasha_root.get("mahadasha_periods", [])
+    dasha_periods: List[DashaPeriod] = []
+    for md in md_periods:
+        md_lord = normalize_lord(md.get("lord", ""))
+        md_start = date.fromisoformat(md.get("start"))
+        md_end = date.fromisoformat(md.get("end"))
+        ad_ranges: List[Tuple[str, date, date]] = []
+        ad_list = md.get("antardasha_periods", [])
+        if not isinstance(ad_list, list):
+            ad_list = []
+        for ad in ad_list:
+            if not isinstance(ad, dict):
+                continue
+            ad_lord = normalize_lord(ad.get("lord", ""))
+            ad_start = date.fromisoformat(ad.get("start"))
+            ad_end = date.fromisoformat(ad.get("end"))
+            ad_ranges.append((ad_lord, ad_start, ad_end))
+        dasha_periods.append(
+            DashaPeriod(md=md_lord, start=md_start, end=md_end, ad_ranges=tuple(ad_ranges))
+        )
+
+    if not dasha_periods:
+        raise ValueError("No dasha periods found in kundali_profile.yaml")
+
+    return KundaliProfile(
+        janma_nakshatra=janma_nak_val,
+        janma_rashi=rashi_val,
+        dasha_periods=tuple(dasha_periods),
+    )
+
+
+# ----------------------------
 # Drik parsing: Choghadiya blocks
 # ----------------------------
 
@@ -389,6 +644,40 @@ def parse_kaal_windows(base: date, refresh: bool = False) -> List[Window]:
         windows.append(Window(label, sdt, edt))
 
     return windows
+
+def parse_abhijit_window(base: date, refresh: bool = False) -> Optional[Window]:
+    """
+    From Day Panchang page, reads Abhijit Muhurat under 'Auspicious Timings'
+    """
+    html = fetch_html(DAY_PANCHANG_URL, {"geoname-id": str(GEONAME_ID), "date": ddmmyyyy(base)}, refresh=refresh)
+    soup = BeautifulSoup(html, "html.parser")
+
+    card = None
+    for c in soup.find_all("div", class_="dpTableCard"):
+        if c.find("div", class_="dpTableKey", string=lambda s: s and s.strip().startswith("Abhijit")):
+            card = c
+            break
+    if not card:
+        return None
+
+    values: Dict[str, str] = {}
+    for row in card.find_all("div", class_="dpTableRow"):
+        keys = row.find_all("div", class_="dpTableKey")
+        for key in keys:
+            label = key.get_text(" ", strip=True)
+            val = key.find_next_sibling("div", class_="dpTableValue")
+            if val:
+                values[label] = val.get_text(" ", strip=True)
+
+    for label, value_text in values.items():
+        if label.startswith("Abhijit"):
+            m = RANGE_SEARCH_RE.search(clean_time_token(value_text))
+            if not m:
+                raise ValueError(f"Could not parse time range for Abhijit: {value_text!r}")
+            sdt, edt, _ = parse_range(base, m.group(0))
+            return Window("Abhijit Muhurat", sdt, edt)
+
+    return None
 
 def parse_timeline_items_from_value(base: date, value_text: str, names: List[str]) -> List[Tuple[str, Optional[datetime]]]:
     text = clean_time_token(value_text)
@@ -506,6 +795,45 @@ def timeline_value_at(t: datetime, tl: List[TimelineEntry]) -> str:
 
 
 # ----------------------------
+# Dasha (Lahiri Vimshottari)
+# ----------------------------
+
+KUNDALI_PROFILE = load_kundali_profile(KUNDALI_PROFILE_PATH)
+
+DASHA_AD_BONUS = {
+    "Jupiter": 1.0,
+    "Mercury": 1.0,
+    "Venus": 1.0,
+    "Saturn": 0.5,
+    "Mars": 0.5,
+    "Rahu": 0.5,
+    "Ketu": 0.0,
+    "Sun": 0.0,
+    "Moon": 0.0,
+}
+
+def dasha_lords_for(d: date) -> Tuple[str, str]:
+    for period in KUNDALI_PROFILE.dasha_periods:
+        if period.start <= d < period.end:
+            md_lord = period.md
+            ad_lord = md_lord
+            for candidate, ad_start, ad_end in period.ad_ranges:
+                if ad_start <= d < ad_end:
+                    ad_lord = candidate
+                    break
+            return md_lord, ad_lord
+    raise ValueError(f"No dasha period found for date {d.isoformat()}")
+
+def dasha_objective_bonus(d: date) -> Tuple[float, str, str]:
+    md_lord, ad_lord = dasha_lords_for(d)
+    bonus = 0.0
+    if md_lord == "Venus":
+        bonus += 0.5
+    bonus += DASHA_AD_BONUS.get(ad_lord, 0.0)
+    return bonus, md_lord, ad_lord
+
+
+# ----------------------------
 # Scoring
 # ----------------------------
 
@@ -524,15 +852,27 @@ def chandra_points(janma_rashi: str, transit_rashi: str) -> int:
     if house in CHANDRA_SUPPORT:
         return 1
     if house == 8:
-        return -2
-    return -1
+        return -1
+    return 0
 
-def compute_personal_score(choghadiya_name: str, transit_nak: str, transit_rashi: str) -> Tuple[int, str]:
+def fmt_score(val: float) -> str:
+    return f"{val:g}"
+
+def compute_personal_score(
+    choghadiya_name: str,
+    transit_nak: str,
+    transit_rashi: str,
+    on_date: date,
+) -> Tuple[float, str]:
     c = CHOGH_POINTS.get(choghadiya_name, 0)
-    t = tara_points(JANMA_NAKSHATRA, transit_nak)
-    m = chandra_points(JANMA_RASHI, transit_rashi)
-    total = c + t + m
-    breakdown = f"Chogh:{c}, Tara:{t}, Chandra:{m}, Total:{total}"
+    t = tara_points(KUNDALI_PROFILE.janma_nakshatra, transit_nak)
+    m = chandra_points(KUNDALI_PROFILE.janma_rashi, transit_rashi)
+    dasha_bonus, md_lord, ad_lord = dasha_objective_bonus(on_date)
+    total = c + t + m + dasha_bonus
+    breakdown = (
+        f"Chogh:{c}, Tara:{t}, Chandra:{m}, "
+        f"Dasha:{fmt_score(dasha_bonus)} (MD:{md_lord} AD:{ad_lord})"
+    )
     return total, breakdown
 
 
@@ -544,60 +884,39 @@ def assign_bucket(
     chogh_name: str,
     vela_tag: Optional[str],
     overlap_kaals: Tuple[str, ...],
-    score: int
+    base_score: float,
+    start_score: float,
+    continue_score: float,
 ) -> Tuple[str, bool, bool]:
     """
     Returns (bucket, start_allowed, continue_allowed)
 
     Rules:
-    - Vela (Vaar/Kaal/Ratri) => avoid both start and continue
-    - Any overlap with Rahu/Yamaganda/Gulikai => start not allowed
-    - Continue can still be allowed if not vela and not inherently 'bad' choghadiya AND score isn't too negative
-    - Buckets:
-        GOOD:   start_allowed and score >= 3
-        NEUTRAL:
-            - not start_allowed and score >= 2   (continue ok; don't start)
-            - OR start_allowed and 0..2
-        AVOID: otherwise
+    - Kaals/Vela cap GOOD (no GOOD if any overlap)
+    - AVOID is rare: ContinueScore <= -3 OR stacked negativity in bad choghadiya + low BaseScore + Kaal/Vela
+    - GOOD: no Kaal/Vela and StartScore >= 2
+    - NEUTRAL: everything else
     """
-    is_vela = (vela_tag in VELA_HARD_AVOID)
+    has_vela = (vela_tag in VELA_TAGS)
     has_kaal = any(k in START_BLOCKING_KAALS for k in overlap_kaals)
-
-    # hard blocks
-    if is_vela:
-        return "AVOID", False, False
-
-    start_allowed = not has_kaal
-
-    # base "bad" choghadiya are generally avoid
     is_bad_chogh = chogh_name in {"Roga", "Kala", "Udvega"}
 
-    # continuation rule: allow continuations in kaal-overlap windows *if* not bad choghadiya and score not too low
-    continue_allowed = (not is_bad_chogh) and (score >= 0)
+    if continue_score <= -3:
+        return "AVOID", False, False
 
-    # If starts are allowed, continuation is also allowed unless bad
-    if start_allowed and not is_bad_chogh:
-        continue_allowed = True
-    if start_allowed and is_bad_chogh:
-        continue_allowed = False
+    if is_bad_chogh and base_score <= -2 and (has_kaal or has_vela):
+        return "AVOID", False, False
 
-    # Bucket
-    if start_allowed and score >= 3:
-        bucket = "GOOD"
-    elif ((not start_allowed) and score >= 2) or (start_allowed and 0 <= score <= 2):
-        bucket = "NEUTRAL"
+    if not has_kaal and not has_vela and start_score >= 2:
+        return "GOOD", True, True
+
+    # NEUTRAL
+    continue_allowed = True
+    if has_kaal or has_vela:
+        start_allowed = start_score >= 1
     else:
-        bucket = "AVOID"
-
-    # If we bucketed NEUTRAL but continuation isn't allowed, force AVOID
-    if bucket == "NEUTRAL" and not continue_allowed:
-        bucket = "AVOID"
-
-    # If we bucketed GOOD but it’s a bad choghadiya (shouldn't happen), force down
-    if bucket == "GOOD" and is_bad_chogh:
-        bucket = "NEUTRAL"
-
-    return bucket, start_allowed, continue_allowed
+        start_allowed = True
+    return "NEUTRAL", start_allowed, continue_allowed
 
 
 # ----------------------------
@@ -716,6 +1035,7 @@ def build_for_date(base: date, refresh: bool) -> List[ChoghadiyaBlock]:
     # Parse inputs
     raw_blocks = parse_choghadiya_blocks(base, refresh=refresh)
     kaals = parse_kaal_windows(base, refresh=refresh)
+    abhijit = parse_abhijit_window(base, refresh=refresh)
     nak_tl = parse_nakshatra_timeline(base, refresh=refresh)
     rashi_tl = parse_moonsign_timeline(base, refresh=refresh)
 
@@ -727,18 +1047,33 @@ def build_for_date(base: date, refresh: bool) -> List[ChoghadiyaBlock]:
         overlap = tuple(sorted({
             w.name for w in kaals if overlaps(start_dt, end_dt, w.start, w.end)
         }))
+        has_kaal = any(k in START_BLOCKING_KAALS for k in overlap)
+        has_vela = vela_tag in VELA_TAGS
+        has_abhijit = bool(abhijit) and overlaps(start_dt, end_dt, abhijit.start, abhijit.end)
+        abhijit_bonus = 1.0 if has_abhijit else 0.0
+        start_risk_penalty = (1.0 if has_kaal else 0.0) + (1.0 if has_vela else 0.0)
 
         transit_nak = timeline_value_at(start_dt, nak_tl)
         transit_rashi = timeline_value_at(start_dt, rashi_tl)
 
         if USE_PERSONAL_SCORE:
-            score, breakdown = compute_personal_score(name, transit_nak, transit_rashi)
+            base_score, breakdown = compute_personal_score(name, transit_nak, transit_rashi, start_dt.date())
         else:
             # Non-personal: treat choghadiya "good/neutral/bad" only
-            score = CHOGH_POINTS.get(name, 0)
-            breakdown = f"Chogh:{score} (no Tara/Chandra)"
+            base_score = float(CHOGH_POINTS.get(name, 0))
+            breakdown = f"Chogh:{fmt_score(base_score)} (no Tara/Chandra/Dasha)"
 
-        bucket, start_allowed, continue_allowed = assign_bucket(name, vela_tag, overlap, score)
+        start_score = base_score + abhijit_bonus - start_risk_penalty
+        continue_score = base_score + abhijit_bonus
+
+        bucket, start_allowed, continue_allowed = assign_bucket(
+            name,
+            vela_tag,
+            overlap,
+            base_score,
+            start_score,
+            continue_score,
+        )
 
         blocks.append(ChoghadiyaBlock(
             name=name,
@@ -747,9 +1082,12 @@ def build_for_date(base: date, refresh: bool) -> List[ChoghadiyaBlock]:
             end=end_dt,
             vela_tag=vela_tag,
             overlap_kaals=overlap,
+            has_abhijit=has_abhijit,
             transit_nakshatra=transit_nak,
             transit_rashi=transit_rashi,
-            score=score,
+            base_score=base_score,
+            start_score=start_score,
+            continue_score=continue_score,
             score_breakdown=breakdown,
             start_allowed=start_allowed,
             continue_allowed=continue_allowed,
@@ -757,6 +1095,22 @@ def build_for_date(base: date, refresh: bool) -> List[ChoghadiyaBlock]:
         ))
 
     return blocks
+
+def debug_print_date(base: date, refresh: bool) -> None:
+    blocks = build_for_date(base, refresh=refresh)
+    dasha_bonus, md_lord, ad_lord = dasha_objective_bonus(base)
+    print(f"Debug blocks for {base.isoformat()} (Europe/Amsterdam)")
+    print(f"Dasha: MD={md_lord} AD={ad_lord} Bonus={fmt_score(dasha_bonus)}")
+    for b in blocks:
+        has_kaal = any(k in START_BLOCKING_KAALS for k in b.overlap_kaals)
+        has_vela = b.vela_tag in VELA_TAGS
+        print(
+            f"{b.name} | {b.start.isoformat()} -> {b.end.isoformat()} | "
+            f"hasKaal={has_kaal} hasVela={has_vela} hasAbhijit={b.has_abhijit} | "
+            f"BaseScore={fmt_score(b.base_score)} StartScore={fmt_score(b.start_score)} "
+            f"ContinueScore={fmt_score(b.continue_score)} | "
+            f"bucket={b.bucket} StartAllowed={b.start_allowed} ContinueAllowed={b.continue_allowed}"
+        )
 
 def generate_calendars(start: date, days: int, outdir: str, refresh: bool) -> None:
     os.makedirs(outdir, exist_ok=True)
@@ -772,10 +1126,15 @@ def generate_calendars(start: date, days: int, outdir: str, refresh: bool) -> No
             tags = []
             if b.vela_tag:
                 tags.append(b.vela_tag)
+            if b.has_abhijit:
+                tags.append("Abhijit Muhurat")
             tags.extend(list(b.overlap_kaals))
 
             desc = "\n".join([
-                f"Score: {b.score} ({b.score_breakdown})" if USE_PERSONAL_SCORE else f"Score: {b.score}",
+                f"BaseScore: {fmt_score(b.base_score)} ({b.score_breakdown})" if USE_PERSONAL_SCORE else f"BaseScore: {fmt_score(b.base_score)}",
+                f"StartScore: {fmt_score(b.start_score)}",
+                f"ContinueScore: {fmt_score(b.continue_score)}",
+                f"Abhijit: {'Yes' if b.has_abhijit else 'No'}",
                 f"Transit: {b.transit_nakshatra} / {b.transit_rashi}",
                 f"Start: {'Allowed' if b.start_allowed else 'Avoid'}",
                 f"Continue: {'Allowed' if b.continue_allowed else 'Avoid'}",
@@ -816,11 +1175,16 @@ def parse_args() -> argparse.Namespace:
     p.add_argument("--days", type=int, default=30, help="Number of days to generate (default 30 to keep weekly cache warm)")
     p.add_argument("--outdir", type=str, default="out_ics", help="Output directory for .ics files")
     p.add_argument("--refresh", action="store_true", help="Ignore cache and refetch pages")
+    p.add_argument("--debug-date", type=str, default=None, help="Print all 16 blocks with scores/buckets for a date (YYYY-MM-DD) and exit")
     p.add_argument("--skip-publish", action="store_true", help="Do not commit/push generated files (for local debugging)")
     return p.parse_args()
 
 def main() -> None:
     args = parse_args()
+    if args.debug_date:
+        debug_d = date.fromisoformat(args.debug_date)
+        debug_print_date(debug_d, refresh=args.refresh)
+        return
     if args.start:
         start_d = date.fromisoformat(args.start)
     else:
