@@ -10,9 +10,5 @@ __pycache__/calendar.cpython-312.pyc
 *.yaml
 *.json
 *.txt
-<<<<<<< HEAD
-*.ignore
-=======
 *.ignore
 README.md
->>>>>>> bae6eed (gitignore)

@@ -671,6 +671,11 @@ def parse_abhijit_window(base: date, refresh: bool = False) -> Optional[Window]:
 
     for label, value_text in values.items():
         if label.startswith("Abhijit"):
+            if not value_text:
+                return None
+            cleaned = value_text.strip().lower()
+            if cleaned in {"none", "-", "not available", "n/a", "na"}:
+                return None
             m = RANGE_SEARCH_RE.search(clean_time_token(value_text))
             if not m:
                 raise ValueError(f"Could not parse time range for Abhijit: {value_text!r}")
