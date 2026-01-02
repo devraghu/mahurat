@@ -2,3 +2,7 @@
 *.env
 *.pyc
 *.dirk_cache
+*.md
+*.html
+*.cpython
+__pycache__/calendar.cpython-312.pyc

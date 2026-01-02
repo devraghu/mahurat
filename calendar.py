@@ -146,7 +146,7 @@ class ChoghadiyaBlock:
 # ----------------------------
 
 TIME12 = r"\d{1,2}:\d{2}\s[AP]M"
-DATE_SUFFIX = r"(?:,\s*(?P<mon>[A-Za-z]{3})\s+(?P<day>\d{2}))?"
+DATE_SUFFIX = r"(?:\s*,\s*(?P<mon>[A-Za-z]{3})\s+(?P<day>\d{2}))?"
 RANGE_RE = re.compile(
     rf"^(?P<start>{TIME12})\s+to\s+(?P<end>{TIME12}){DATE_SUFFIX}"
     rf"(?:\s+(?P<tag>Vaar Vela|Kaal Vela|Kaal Ratri))?$"
@@ -229,13 +229,21 @@ def parse_range(base: date, token: str) -> Tuple[datetime, datetime, Optional[st
     if not m:
         raise ValueError(f"Could not parse time range token: {token!r}")
 
-    start_dt = parse_time_on(base, m.group("start"))
+    start_t = datetime.strptime(m.group("start"), "%I:%M %p").time()
+    end_t = datetime.strptime(m.group("end"), "%I:%M %p").time()
 
     if m.group("mon") and m.group("day"):
         end_date = parse_month_day_suffix(base, m.group("mon"), m.group("day"))
     else:
         end_date = base
-    end_dt = parse_time_on(end_date, m.group("end"))
+
+    start_date = base
+    if end_date != base:
+        if start_t <= end_t and start_t.hour < 12:
+            start_date = end_date
+
+    start_dt = datetime(start_date.year, start_date.month, start_date.day, start_t.hour, start_t.minute, tzinfo=TZ)
+    end_dt = datetime(end_date.year, end_date.month, end_date.day, end_t.hour, end_t.minute, tzinfo=TZ)
 
     if end_dt <= start_dt:
         end_dt += timedelta(days=1)
@@ -387,7 +395,7 @@ def parse_timeline_items_from_value(base: date, value_text: str, names: List[str
     text = re.sub(r"\s+", " ", text).strip()
     names_alt = "|".join(re.escape(n) for n in names)
     upto_re = re.compile(
-        rf"(?P<name>{names_alt})\s+upto\s+(?P<time>{TIME12})(?:,\s*(?P<mon>[A-Za-z]{{3}})\s+(?P<day>\d{{2}}))?"
+        rf"(?P<name>{names_alt})\s+upto\s+(?P<time>{TIME12}){DATE_SUFFIX}"
     )
     full_re = re.compile(rf"(?P<name>{names_alt})\s+upto\s+Full\s+(?:Night|Day)")
     name_only_re = re.compile(rf"(?P<name>{names_alt})(?!\s+upto)")
