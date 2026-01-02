@@ -1135,6 +1135,15 @@ def generate_calendars(start: date, days: int, outdir: str, refresh: bool) -> No
                 tags.append("Abhijit Muhurat")
             tags.extend(list(b.overlap_kaals))
 
+            summary = " ".join([
+                b.name[:1].upper(),
+                f"S:{'A' if b.start_allowed else 'N'}",
+                f"C:{'A' if b.continue_allowed else 'N'}",
+                f"S:{fmt_score(b.base_score)}",
+                f"SS:{fmt_score(b.start_score)}",
+                f"CS:{fmt_score(b.continue_score)}",
+            ])
+
             desc = "\n".join([
                 f"BaseScore: {fmt_score(b.base_score)} ({b.score_breakdown})" if USE_PERSONAL_SCORE else f"BaseScore: {fmt_score(b.base_score)}",
                 f"StartScore: {fmt_score(b.start_score)}",
@@ -1154,7 +1163,7 @@ def generate_calendars(start: date, days: int, outdir: str, refresh: bool) -> No
                 "uid": uid,
                 "start": b.start,
                 "end": b.end,
-                "summary": b.name,  # minimal title
+                "summary": summary,
                 "description": desc,
             }
 
