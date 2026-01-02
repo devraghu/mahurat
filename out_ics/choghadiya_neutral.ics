@@ -6,24 +6,66 @@ METHOD:PUBLISH
 X-WR-CALNAME:Choghadiya NEUTRAL (Amsterdam)
 X-WR-TIMEZONE:Europe/Amsterdam
 BEGIN:VEVENT
+<<<<<<< HEAD
 UID:8e7a77eb75a2520f9cc2f7bec96d8763840b6b95@muhurat-ams
 DTSTAMP:20251231T201219
 DTSTART;TZID=Europe/Amsterdam:20251231T085100
 DTEND;TZID=Europe/Amsterdam:20251231T094900
-SUMMARY:Labha
-DESCRIPTION:Score: 2 (Chogh:2\, Tara:-1\, Chandra:1\, Total:2)\nTransit: Krittika / Vrishabha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+=======
+UID:e487a50720910819679eaf61d1473f49c61fcba8@muhurat-ams
+DTSTAMP:20260102T095515
+DTSTART;TZID=Europe/Amsterdam:20260222T090000
+DTEND;TZID=Europe/Amsterdam:20260222T101800
+SUMMARY:Chara
+DESCRIPTION:Score: 0 (Chogh:1\, Tara:-2\, Chandra:1\, Total:0)\nTransit: Ashwini / Mesha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:6980e85b029fed6d2029265db7907c978bdf49c8@muhurat-ams
+DTSTAMP:20260102T095515
+DTSTART;TZID=Europe/Amsterdam:20260222T101800
+DTEND;TZID=Europe/Amsterdam:20260222T113600
+>>>>>>> 56f045c (Update choghadiya calendars 2026-01-02)
+SUMMARY:Labha
+DESCRIPTION:Score: 1 (Chogh:2\, Tara:-2\, Chandra:1\, Total:1)\nTransit: Ashwini / Mesha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+<<<<<<< HEAD
 UID:ffc6dd63b5bcd965efea3c2ef8af55f98bc5422a@muhurat-ams
 DTSTAMP:20251231T201219
 DTSTART;TZID=Europe/Amsterdam:20251231T094900
 DTEND;TZID=Europe/Amsterdam:20251231T104700
-SUMMARY:Amrita
-DESCRIPTION:Score: 3 (Chogh:3\, Tara:-1\, Chandra:1\, Total:3)\nTransit: Krittika / Vrishabha\nStart: Avoid\nContinue: Allowed\nTags: Yamaganda\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+=======
+UID:b76df36b5a41f05a0af3cd2e607691cc634b2ba0@muhurat-ams
+DTSTAMP:20260102T095515
+DTSTART;TZID=Europe/Amsterdam:20260222T141200
+DTEND;TZID=Europe/Amsterdam:20260222T153000
+SUMMARY:Shubha
+DESCRIPTION:Score: 1 (Chogh:2\, Tara:-2\, Chandra:1\, Total:1)\nTransit: Ashwini / Mesha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:7e965209a8db758742ace418a8073a2d384b17cc@muhurat-ams
+DTSTAMP:20260102T095515
+DTSTART;TZID=Europe/Amsterdam:20260222T180700
+DTEND;TZID=Europe/Amsterdam:20260222T194800
+SUMMARY:Shubha
+DESCRIPTION:Score: 1 (Chogh:2\, Tara:-2\, Chandra:1\, Total:1)\nTransit: Ashwini / Mesha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:26f4a961ef8d29af3c6d8c3a1de1b2460574f8e9@muhurat-ams
+DTSTAMP:20260102T095515
+DTSTART;TZID=Europe/Amsterdam:20260222T194800
+DTEND;TZID=Europe/Amsterdam:20260222T213000
+>>>>>>> 56f045c (Update choghadiya calendars 2026-01-02)
+SUMMARY:Amrita
+DESCRIPTION:Score: 2 (Chogh:3\, Tara:-2\, Chandra:1\, Total:2)\nTransit: Ashwini / Mesha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+<<<<<<< HEAD
 UID:300cd31b7d3bb285c42ea8dc035f7dce8150db58@muhurat-ams
 DTSTAMP:20251231T201219
 DTSTART;TZID=Europe/Amsterdam:20251231T114500
@@ -795,6 +837,23 @@ DTSTART;TZID=Europe/Amsterdam:20260124T225700
 DTEND;TZID=Europe/Amsterdam:20260125T005200
 SUMMARY:Amrita
 DESCRIPTION:Score: 0 (Chogh:3\, Tara:-2\, Chandra:-1\, Total:0)\nTransit: Uttara Bhadrapada / Meena\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+=======
+UID:1fb1cd7f512497f345f719d17401209c42dad3ac@muhurat-ams
+DTSTAMP:20260102T095515
+DTSTART;TZID=Europe/Amsterdam:20260222T213000
+DTEND;TZID=Europe/Amsterdam:20260222T231200
+SUMMARY:Chara
+DESCRIPTION:Score: 0 (Chogh:1\, Tara:-2\, Chandra:1\, Total:0)\nTransit: Ashwini / Mesha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:881a5933caca81d46a68c9d442c917c9ae6aa99f@muhurat-ams
+DTSTAMP:20260102T095515
+DTSTART;TZID=Europe/Amsterdam:20260223T055800
+DTEND;TZID=Europe/Amsterdam:20260223T074000
+SUMMARY:Shubha
+DESCRIPTION:Score: 1 (Chogh:2\, Tara:-2\, Chandra:1\, Total:1)\nTransit: Ashwini / Mesha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+>>>>>>> 56f045c (Update choghadiya calendars 2026-01-02)
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT

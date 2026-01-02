@@ -5,6 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Choghadiya GOOD (Amsterdam)
 X-WR-TIMEZONE:Europe/Amsterdam
+<<<<<<< HEAD
 BEGIN:VEVENT
 UID:9dfb167d7024fe764a51b0769cf092c5693ad4f6@muhurat-ams
 DTSTAMP:20251231T201219
@@ -716,4 +717,6 @@ SUMMARY:Labha
 DESCRIPTION:Score: 5 (Chogh:2\, Tara:2\, Chandra:1\, Total:5)\nTransit: Rohini / Vrishabha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
+=======
+>>>>>>> 56f045c (Update choghadiya calendars 2026-01-02)
 END:VCALENDAR
