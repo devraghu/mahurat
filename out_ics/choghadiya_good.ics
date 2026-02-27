@@ -6,413 +6,8 @@ METHOD:PUBLISH
 X-WR-CALNAME:Choghadiya GOOD (Amsterdam)
 X-WR-TIMEZONE:Europe/Amsterdam
 BEGIN:VEVENT
-UID:c26b86329e67fbb93579722edd9250a3074adfb4@muhurat-ams
-DTSTAMP:20260220T080039
-DTSTART;TZID=Europe/Amsterdam:20260220T125500
-DTEND;TZID=Europe/Amsterdam:20260220T141200
-SUMMARY:S S:A C:A S:2.5 SS:3.5 CS:3.5
-DESCRIPTION:BaseScore: 2.5 (Chogh:2\, Tara:-1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 3.5\nContinueScore: 3.5\nAbhijit: Yes\nTransit: Uttara Bhadrapada / Meena\nStart: Allowed\nContinue: Allowed\nTags: Abhijit Muhurat\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:366107ae3f1ab002e476fcb498f381b4299c1a4f@muhurat-ams
-DTSTAMP:20260220T080039
-DTSTART;TZID=Europe/Amsterdam:20260221T005400
-DTEND;TZID=Europe/Amsterdam:20260221T023600
-SUMMARY:S S:A C:A S:2.5 SS:2.5 CS:2.5
-DESCRIPTION:BaseScore: 2.5 (Chogh:2\, Tara:-1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 2.5\nContinueScore: 2.5\nAbhijit: No\nTransit: Uttara Bhadrapada / Meena\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:86b2d1bc764ec9415e8ea682986bfa2c10a0ea59@muhurat-ams
-DTSTAMP:20260220T080039
-DTSTART;TZID=Europe/Amsterdam:20260221T023600
-DTEND;TZID=Europe/Amsterdam:20260221T041900
-SUMMARY:A S:A C:A S:3.5 SS:3.5 CS:3.5
-DESCRIPTION:BaseScore: 3.5 (Chogh:3\, Tara:-1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 3.5\nContinueScore: 3.5\nAbhijit: No\nTransit: Uttara Bhadrapada / Meena\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:a6e70cf7f492aecfaace07816edb2dcef4554219@muhurat-ams
-DTSTAMP:20260220T080039
-DTSTART;TZID=Europe/Amsterdam:20260221T090200
-DTEND;TZID=Europe/Amsterdam:20260221T101900
-SUMMARY:S S:A C:A S:5.5 SS:5.5 CS:5.5
-DESCRIPTION:BaseScore: 5.5 (Chogh:2\, Tara:2\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 5.5\nContinueScore: 5.5\nAbhijit: No\nTransit: Revati / Meena\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:71d2fe87c4d50066303ae010907c84c439c564b1@muhurat-ams
-DTSTAMP:20260220T080039
-DTSTART;TZID=Europe/Amsterdam:20260221T113700
-DTEND;TZID=Europe/Amsterdam:20260221T125400
-SUMMARY:U S:A C:A S:2.5 SS:3.5 CS:3.5
-DESCRIPTION:BaseScore: 2.5 (Chogh:-1\, Tara:2\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 3.5\nContinueScore: 3.5\nAbhijit: Yes\nTransit: Revati / Meena\nStart: Allowed\nContinue: Allowed\nTags: Abhijit Muhurat\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:2d5ed425b606302663ab27fdb624cb53da94af50@muhurat-ams
-DTSTAMP:20260220T080039
-DTSTART;TZID=Europe/Amsterdam:20260221T125400
-DTEND;TZID=Europe/Amsterdam:20260221T141200
-SUMMARY:C S:A C:A S:4.5 SS:5.5 CS:5.5
-DESCRIPTION:BaseScore: 4.5 (Chogh:1\, Tara:2\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 5.5\nContinueScore: 5.5\nAbhijit: Yes\nTransit: Revati / Meena\nStart: Allowed\nContinue: Allowed\nTags: Abhijit Muhurat\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:baf6932ef6c4b367dfcaec429deb16bf709ac745@muhurat-ams
-DTSTAMP:20260220T080039
-DTSTART;TZID=Europe/Amsterdam:20260221T153000
-DTEND;TZID=Europe/Amsterdam:20260221T164700
-SUMMARY:A S:A C:A S:6.5 SS:6.5 CS:6.5
-DESCRIPTION:BaseScore: 6.5 (Chogh:3\, Tara:2\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 6.5\nContinueScore: 6.5\nAbhijit: No\nTransit: Revati / Meena\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:dff3c2f24175bb1fade3a0433b7a57ae08363fdf@muhurat-ams
-DTSTAMP:20260220T080039
-DTSTART;TZID=Europe/Amsterdam:20260221T194700
-DTEND;TZID=Europe/Amsterdam:20260221T212900
-SUMMARY:U S:A C:A S:2.5 SS:2.5 CS:2.5
-DESCRIPTION:BaseScore: 2.5 (Chogh:-1\, Tara:2\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 2.5\nContinueScore: 2.5\nAbhijit: No\nTransit: Revati / Meena\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:7dbf67fa25da3d071aee75c9030c10fc17c49b9c@muhurat-ams
-DTSTAMP:20260220T080039
-DTSTART;TZID=Europe/Amsterdam:20260221T212900
-DTEND;TZID=Europe/Amsterdam:20260221T231100
-SUMMARY:S S:A C:A S:5.5 SS:5.5 CS:5.5
-DESCRIPTION:BaseScore: 5.5 (Chogh:2\, Tara:2\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 5.5\nContinueScore: 5.5\nAbhijit: No\nTransit: Revati / Meena\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:190439cfd44604b3bf8c58c7b13e439a83c44a6a@muhurat-ams
-DTSTAMP:20260220T080039
-DTSTART;TZID=Europe/Amsterdam:20260221T231100
-DTEND;TZID=Europe/Amsterdam:20260222T005300
-SUMMARY:A S:A C:A S:6.5 SS:6.5 CS:6.5
-DESCRIPTION:BaseScore: 6.5 (Chogh:3\, Tara:2\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 6.5\nContinueScore: 6.5\nAbhijit: No\nTransit: Revati / Meena\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:df4d275e2046c429f1d586616be28cbc36a04112@muhurat-ams
-DTSTAMP:20260220T080039
-DTSTART;TZID=Europe/Amsterdam:20260222T005300
-DTEND;TZID=Europe/Amsterdam:20260222T023600
-SUMMARY:C S:A C:A S:4.5 SS:4.5 CS:4.5
-DESCRIPTION:BaseScore: 4.5 (Chogh:1\, Tara:2\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 4.5\nContinueScore: 4.5\nAbhijit: No\nTransit: Revati / Meena\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:946e8bcd391395af03ed08431b5d36f7a9c5909e@muhurat-ams
-DTSTAMP:20260220T080039
-DTSTART;TZID=Europe/Amsterdam:20260222T090000
-DTEND;TZID=Europe/Amsterdam:20260222T101800
-SUMMARY:C S:A C:A S:2.5 SS:2.5 CS:2.5
-DESCRIPTION:BaseScore: 2.5 (Chogh:1\, Tara:-1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 2.5\nContinueScore: 2.5\nAbhijit: No\nTransit: Ashwini / Mesha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:f5e69cf4290d02528b1becfa130c297f9b864969@muhurat-ams
-DTSTAMP:20260220T080039
-DTSTART;TZID=Europe/Amsterdam:20260222T101800
-DTEND;TZID=Europe/Amsterdam:20260222T113600
-SUMMARY:L S:A C:A S:3.5 SS:3.5 CS:3.5
-DESCRIPTION:BaseScore: 3.5 (Chogh:2\, Tara:-1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 3.5\nContinueScore: 3.5\nAbhijit: No\nTransit: Ashwini / Mesha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:901c71affa0a2f0b38f52a748db4757e1b00a737@muhurat-ams
-DTSTAMP:20260220T080039
-DTSTART;TZID=Europe/Amsterdam:20260222T141200
-DTEND;TZID=Europe/Amsterdam:20260222T153000
-SUMMARY:S S:A C:A S:3.5 SS:3.5 CS:3.5
-DESCRIPTION:BaseScore: 3.5 (Chogh:2\, Tara:-1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 3.5\nContinueScore: 3.5\nAbhijit: No\nTransit: Ashwini / Mesha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:c919687d11cb60634515fae964526e7635f1472f@muhurat-ams
-DTSTAMP:20260220T080039
-DTSTART;TZID=Europe/Amsterdam:20260222T180700
-DTEND;TZID=Europe/Amsterdam:20260222T194800
-SUMMARY:S S:A C:A S:3.5 SS:3.5 CS:3.5
-DESCRIPTION:BaseScore: 3.5 (Chogh:2\, Tara:-1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 3.5\nContinueScore: 3.5\nAbhijit: No\nTransit: Ashwini / Mesha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:7519f1390be5671edd44504e2b5cbd63dc2e8532@muhurat-ams
-DTSTAMP:20260220T080039
-DTSTART;TZID=Europe/Amsterdam:20260222T194800
-DTEND;TZID=Europe/Amsterdam:20260222T213000
-SUMMARY:A S:A C:A S:4.5 SS:4.5 CS:4.5
-DESCRIPTION:BaseScore: 4.5 (Chogh:3\, Tara:-1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 4.5\nContinueScore: 4.5\nAbhijit: No\nTransit: Ashwini / Mesha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:83fc81ca1caac51f88a8609bbca13f04e772c63b@muhurat-ams
-DTSTAMP:20260220T080039
-DTSTART;TZID=Europe/Amsterdam:20260222T213000
-DTEND;TZID=Europe/Amsterdam:20260222T231200
-SUMMARY:C S:A C:A S:2.5 SS:2.5 CS:2.5
-DESCRIPTION:BaseScore: 2.5 (Chogh:1\, Tara:-1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 2.5\nContinueScore: 2.5\nAbhijit: No\nTransit: Ashwini / Mesha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:8ef41beff1dd097a9b935b139dfce4daf9768f61@muhurat-ams
-DTSTAMP:20260220T080039
-DTSTART;TZID=Europe/Amsterdam:20260223T055800
-DTEND;TZID=Europe/Amsterdam:20260223T074000
-SUMMARY:S S:A C:A S:3.5 SS:3.5 CS:3.5
-DESCRIPTION:BaseScore: 3.5 (Chogh:2\, Tara:-1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 3.5\nContinueScore: 3.5\nAbhijit: No\nTransit: Ashwini / Mesha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:bc9ba887613ce330655e9e7222d4749fa420f243@muhurat-ams
-DTSTAMP:20260220T080039
-DTSTART;TZID=Europe/Amsterdam:20260223T074000
-DTEND;TZID=Europe/Amsterdam:20260223T085900
-SUMMARY:A S:A C:A S:6.5 SS:6.5 CS:6.5
-DESCRIPTION:BaseScore: 6.5 (Chogh:3\, Tara:1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 6.5\nContinueScore: 6.5\nAbhijit: No\nTransit: Bharani / Mesha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:bc66cfe565bb4ea1f8c4bee9349d30240bd60b2a@muhurat-ams
-DTSTAMP:20260220T080039
-DTSTART;TZID=Europe/Amsterdam:20260223T101700
-DTEND;TZID=Europe/Amsterdam:20260223T113600
-SUMMARY:S S:A C:A S:5.5 SS:5.5 CS:5.5
-DESCRIPTION:BaseScore: 5.5 (Chogh:2\, Tara:1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 5.5\nContinueScore: 5.5\nAbhijit: No\nTransit: Bharani / Mesha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:523b2b55511f288a0025ac6b555d671908f4028e@muhurat-ams
-DTSTAMP:20260220T080039
-DTSTART;TZID=Europe/Amsterdam:20260223T125400
-DTEND;TZID=Europe/Amsterdam:20260223T141300
-SUMMARY:U S:A C:A S:2.5 SS:3.5 CS:3.5
-DESCRIPTION:BaseScore: 2.5 (Chogh:-1\, Tara:1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 3.5\nContinueScore: 3.5\nAbhijit: Yes\nTransit: Bharani / Mesha\nStart: Allowed\nContinue: Allowed\nTags: Abhijit Muhurat\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:db4e6eebbcefc8915454abd336753dfa44982d6e@muhurat-ams
-DTSTAMP:20260220T080039
-DTSTART;TZID=Europe/Amsterdam:20260223T165000
-DTEND;TZID=Europe/Amsterdam:20260223T180800
-SUMMARY:A S:A C:A S:6.5 SS:6.5 CS:6.5
-DESCRIPTION:BaseScore: 6.5 (Chogh:3\, Tara:1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 6.5\nContinueScore: 6.5\nAbhijit: No\nTransit: Bharani / Mesha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:d70c3a55e1d32a1f6c8a62035358dbda3e538e5a@muhurat-ams
-DTSTAMP:20260220T080039
-DTSTART;TZID=Europe/Amsterdam:20260223T180800
-DTEND;TZID=Europe/Amsterdam:20260223T195000
-SUMMARY:C S:A C:A S:4.5 SS:4.5 CS:4.5
-DESCRIPTION:BaseScore: 4.5 (Chogh:1\, Tara:1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 4.5\nContinueScore: 4.5\nAbhijit: No\nTransit: Bharani / Mesha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:3e14d7fe0fb0c4b1386dd7f0ab5f0e7bf6256d5c@muhurat-ams
-DTSTAMP:20260220T080039
-DTSTART;TZID=Europe/Amsterdam:20260224T005300
-DTEND;TZID=Europe/Amsterdam:20260224T023400
-SUMMARY:U S:A C:A S:2.5 SS:2.5 CS:2.5
-DESCRIPTION:BaseScore: 2.5 (Chogh:-1\, Tara:1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 2.5\nContinueScore: 2.5\nAbhijit: No\nTransit: Bharani / Mesha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:10aebdaecb08d5a40652cd3e0fc6bef48ff2a21f@muhurat-ams
-DTSTAMP:20260220T080039
-DTSTART;TZID=Europe/Amsterdam:20260224T023400
-DTEND;TZID=Europe/Amsterdam:20260224T041500
-SUMMARY:S S:A C:A S:5.5 SS:5.5 CS:5.5
-DESCRIPTION:BaseScore: 5.5 (Chogh:2\, Tara:1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 5.5\nContinueScore: 5.5\nAbhijit: No\nTransit: Bharani / Mesha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:2ed124df5a239c95511b02cd4cbc347b63c3eb71@muhurat-ams
-DTSTAMP:20260220T080039
-DTSTART;TZID=Europe/Amsterdam:20260224T041500
-DTEND;TZID=Europe/Amsterdam:20260224T055700
-SUMMARY:A S:A C:A S:6.5 SS:6.5 CS:6.5
-DESCRIPTION:BaseScore: 6.5 (Chogh:3\, Tara:1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 6.5\nContinueScore: 6.5\nAbhijit: No\nTransit: Bharani / Mesha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:e0f4666af9c8a0054645fbf093591d4f953e5a15@muhurat-ams
-DTSTAMP:20260220T080039
-DTSTART;TZID=Europe/Amsterdam:20260224T055700
-DTEND;TZID=Europe/Amsterdam:20260224T073800
-SUMMARY:C S:A C:A S:4.5 SS:4.5 CS:4.5
-DESCRIPTION:BaseScore: 4.5 (Chogh:1\, Tara:1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 4.5\nContinueScore: 4.5\nAbhijit: No\nTransit: Bharani / Mesha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:9dca13cf3ca7aa17050c442e376023d0443c2f69@muhurat-ams
-DTSTAMP:20260220T080039
-DTSTART;TZID=Europe/Amsterdam:20260224T113500
-DTEND;TZID=Europe/Amsterdam:20260224T125400
-SUMMARY:L S:A C:A S:3.5 SS:4.5 CS:4.5
-DESCRIPTION:BaseScore: 3.5 (Chogh:2\, Tara:-1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 4.5\nContinueScore: 4.5\nAbhijit: Yes\nTransit: Krittika / Vrishabha\nStart: Allowed\nContinue: Allowed\nTags: Abhijit Muhurat\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:52ff9775a0bce94626d7326fe5a25048d5bdc7a3@muhurat-ams
-DTSTAMP:20260220T080039
-DTSTART;TZID=Europe/Amsterdam:20260224T231200
-DTEND;TZID=Europe/Amsterdam:20260225T005300
-SUMMARY:S S:A C:A S:3.5 SS:3.5 CS:3.5
-DESCRIPTION:BaseScore: 3.5 (Chogh:2\, Tara:-1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 3.5\nContinueScore: 3.5\nAbhijit: No\nTransit: Krittika / Vrishabha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:f8c9c74463d6ee55b741b3d5563e2400022fd559@muhurat-ams
-DTSTAMP:20260220T080039
-DTSTART;TZID=Europe/Amsterdam:20260225T005300
-DTEND;TZID=Europe/Amsterdam:20260225T023400
-SUMMARY:A S:A C:A S:4.5 SS:4.5 CS:4.5
-DESCRIPTION:BaseScore: 4.5 (Chogh:3\, Tara:-1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 4.5\nContinueScore: 4.5\nAbhijit: No\nTransit: Krittika / Vrishabha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:4a472a2217fbb22e207e88e6fbe2bec19b8d42c1@muhurat-ams
-DTSTAMP:20260220T080039
-DTSTART;TZID=Europe/Amsterdam:20260225T023400
-DTEND;TZID=Europe/Amsterdam:20260225T041400
-SUMMARY:C S:A C:A S:2.5 SS:2.5 CS:2.5
-DESCRIPTION:BaseScore: 2.5 (Chogh:1\, Tara:-1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 2.5\nContinueScore: 2.5\nAbhijit: No\nTransit: Krittika / Vrishabha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:2e119719dda0818e826e3e20db5a37442e746ca7@muhurat-ams
-DTSTAMP:20260220T080039
-DTSTART;TZID=Europe/Amsterdam:20260225T073600
-DTEND;TZID=Europe/Amsterdam:20260225T085500
-SUMMARY:L S:A C:A S:6.5 SS:6.5 CS:6.5
-DESCRIPTION:BaseScore: 6.5 (Chogh:2\, Tara:2\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 6.5\nContinueScore: 6.5\nAbhijit: No\nTransit: Rohini / Vrishabha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:ed17aac63360317ad95fda1b887220d2a404889b@muhurat-ams
-DTSTAMP:20260220T080039
-DTSTART;TZID=Europe/Amsterdam:20260225T141300
-DTEND;TZID=Europe/Amsterdam:20260225T153300
-SUMMARY:U S:A C:A S:3.5 SS:3.5 CS:3.5
-DESCRIPTION:BaseScore: 3.5 (Chogh:-1\, Tara:2\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 3.5\nContinueScore: 3.5\nAbhijit: No\nTransit: Rohini / Vrishabha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:6534697f476152dd1130eb1efbf27a16dcd837f1@muhurat-ams
-DTSTAMP:20260220T080039
-DTSTART;TZID=Europe/Amsterdam:20260225T153300
-DTEND;TZID=Europe/Amsterdam:20260225T165300
-SUMMARY:C S:A C:A S:5.5 SS:5.5 CS:5.5
-DESCRIPTION:BaseScore: 5.5 (Chogh:1\, Tara:2\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 5.5\nContinueScore: 5.5\nAbhijit: No\nTransit: Rohini / Vrishabha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:c1c662e5ab49c6bfcb0ae12291bf652ee9e13918@muhurat-ams
-DTSTAMP:20260220T080039
-DTSTART;TZID=Europe/Amsterdam:20260225T165300
-DTEND;TZID=Europe/Amsterdam:20260225T181200
-SUMMARY:L S:A C:A S:6.5 SS:6.5 CS:6.5
-DESCRIPTION:BaseScore: 6.5 (Chogh:2\, Tara:2\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 6.5\nContinueScore: 6.5\nAbhijit: No\nTransit: Rohini / Vrishabha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:7ffbe36089e702fdfb871fca5613b03eba6bffeb@muhurat-ams
-DTSTAMP:20260220T080039
-DTSTART;TZID=Europe/Amsterdam:20260225T181200
-DTEND;TZID=Europe/Amsterdam:20260225T195200
-SUMMARY:U S:A C:A S:3.5 SS:3.5 CS:3.5
-DESCRIPTION:BaseScore: 3.5 (Chogh:-1\, Tara:2\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 3.5\nContinueScore: 3.5\nAbhijit: No\nTransit: Rohini / Vrishabha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:2f8d01a9b3e0633a0387d15ac939e6a4b8757e54@muhurat-ams
-DTSTAMP:20260220T080039
-DTSTART;TZID=Europe/Amsterdam:20260225T195200
-DTEND;TZID=Europe/Amsterdam:20260225T213300
-SUMMARY:S S:A C:A S:6.5 SS:6.5 CS:6.5
-DESCRIPTION:BaseScore: 6.5 (Chogh:2\, Tara:2\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 6.5\nContinueScore: 6.5\nAbhijit: No\nTransit: Rohini / Vrishabha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:8cbf91b34609bcfdd47a8dedbb67e96b2cccce4a@muhurat-ams
-DTSTAMP:20260220T080039
-DTSTART;TZID=Europe/Amsterdam:20260225T213300
-DTEND;TZID=Europe/Amsterdam:20260225T231300
-SUMMARY:A S:A C:A S:7.5 SS:7.5 CS:7.5
-DESCRIPTION:BaseScore: 7.5 (Chogh:3\, Tara:2\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 7.5\nContinueScore: 7.5\nAbhijit: No\nTransit: Rohini / Vrishabha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:9b543e6f71174054e003622349e881a57ddd16eb@muhurat-ams
-DTSTAMP:20260220T080039
-DTSTART;TZID=Europe/Amsterdam:20260225T231300
-DTEND;TZID=Europe/Amsterdam:20260226T005300
-SUMMARY:C S:A C:A S:5.5 SS:5.5 CS:5.5
-DESCRIPTION:BaseScore: 5.5 (Chogh:1\, Tara:2\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 5.5\nContinueScore: 5.5\nAbhijit: No\nTransit: Rohini / Vrishabha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:5079596f14fa7825eac4bba6a14f24a08f99dc07@muhurat-ams
-DTSTAMP:20260220T080039
-DTSTART;TZID=Europe/Amsterdam:20260226T005300
-DTEND;TZID=Europe/Amsterdam:20260226T023300
-SUMMARY:R S:A C:A S:2.5 SS:2.5 CS:2.5
-DESCRIPTION:BaseScore: 2.5 (Chogh:-2\, Tara:2\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 2.5\nContinueScore: 2.5\nAbhijit: No\nTransit: Rohini / Vrishabha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:c68b420588e96c5820a3b04aa1bf8fd86a7989e1@muhurat-ams
-DTSTAMP:20260220T080039
-DTSTART;TZID=Europe/Amsterdam:20260226T023300
-DTEND;TZID=Europe/Amsterdam:20260226T041300
-SUMMARY:K S:A C:A S:2.5 SS:2.5 CS:2.5
-DESCRIPTION:BaseScore: 2.5 (Chogh:-2\, Tara:2\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 2.5\nContinueScore: 2.5\nAbhijit: No\nTransit: Rohini / Vrishabha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:112a12ad68091915a9817146c0df4aedad352e94@muhurat-ams
-DTSTAMP:20260220T080039
-DTSTART;TZID=Europe/Amsterdam:20260226T055300
-DTEND;TZID=Europe/Amsterdam:20260226T073300
-SUMMARY:U S:A C:A S:3.5 SS:3.5 CS:3.5
-DESCRIPTION:BaseScore: 3.5 (Chogh:-1\, Tara:2\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 3.5\nContinueScore: 3.5\nAbhijit: No\nTransit: Rohini / Vrishabha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:c0844770deeefc4b558122da18eceb38d42e9265@muhurat-ams
-DTSTAMP:20260220T080039
-DTSTART;TZID=Europe/Amsterdam:20260226T125400
-DTEND;TZID=Europe/Amsterdam:20260226T141400
-SUMMARY:L S:A C:A S:1.5 SS:2.5 CS:2.5
-DESCRIPTION:BaseScore: 1.5 (Chogh:2\, Tara:-2\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 2.5\nContinueScore: 2.5\nAbhijit: Yes\nTransit: Mrigashira / Mithuna\nStart: Allowed\nContinue: Allowed\nTags: Abhijit Muhurat\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:8b9928058646f763ab9132b6911c3f0300c543b9@muhurat-ams
-DTSTAMP:20260220T080039
-DTSTART;TZID=Europe/Amsterdam:20260226T181400
-DTEND;TZID=Europe/Amsterdam:20260226T195400
-SUMMARY:A S:A C:A S:2.5 SS:2.5 CS:2.5
-DESCRIPTION:BaseScore: 2.5 (Chogh:3\, Tara:-2\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 2.5\nContinueScore: 2.5\nAbhijit: No\nTransit: Mrigashira / Mithuna\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:5b13ae7a4a97574326d40dea31f4e53b8d4fa941@muhurat-ams
-DTSTAMP:20260220T080039
-DTSTART;TZID=Europe/Amsterdam:20260227T055200
-DTEND;TZID=Europe/Amsterdam:20260227T073100
-SUMMARY:A S:A C:A S:2.5 SS:2.5 CS:2.5
-DESCRIPTION:BaseScore: 2.5 (Chogh:3\, Tara:-2\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 2.5\nContinueScore: 2.5\nAbhijit: No\nTransit: Mrigashira / Mithuna\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:61d1af660522529aca4b1d59d0cd4dc2e1c682c7@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260227T073100
 DTEND;TZID=Europe/Amsterdam:20260227T085200
 SUMMARY:C S:A C:A S:4.5 SS:4.5 CS:4.5
@@ -421,7 +16,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ffcc71b5ce896ead1512468c6fe9a5df12977cff@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260227T125400
 DTEND;TZID=Europe/Amsterdam:20260227T141400
 SUMMARY:S S:A C:A S:5.5 SS:6.5 CS:6.5
@@ -430,7 +25,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:4ca85fd9312de7d4c307ceb491987a5550e30518@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260227T165500
 DTEND;TZID=Europe/Amsterdam:20260227T181600
 SUMMARY:C S:A C:A S:4.5 SS:4.5 CS:4.5
@@ -439,7 +34,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:77320c3b5cc699362087533dc42bfa0d16d8659b@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260227T231300
 DTEND;TZID=Europe/Amsterdam:20260228T005200
 SUMMARY:U S:A C:A S:2.5 SS:2.5 CS:2.5
@@ -448,7 +43,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e63b690802ce4b1d32ed747b8792b9760b84122c@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260228T005200
 DTEND;TZID=Europe/Amsterdam:20260228T023200
 SUMMARY:S S:A C:A S:5.5 SS:5.5 CS:5.5
@@ -457,7 +52,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f29a410b167c9ea09736011fc2e93cd2d90104bf@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260228T023200
 DTEND;TZID=Europe/Amsterdam:20260228T041100
 SUMMARY:A S:A C:A S:6.5 SS:6.5 CS:6.5
@@ -466,7 +61,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:956b45310c4f808cccf18b409430d6b42bcd0e87@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260228T041100
 DTEND;TZID=Europe/Amsterdam:20260228T055000
 SUMMARY:C S:A C:A S:4.5 SS:4.5 CS:4.5
@@ -475,7 +70,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:7287c0743319f2f3656e2fe8db6f9d5d8f98d169@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260228T085000
 DTEND;TZID=Europe/Amsterdam:20260228T101100
 SUMMARY:S S:A C:A S:3.5 SS:3.5 CS:3.5
@@ -484,7 +79,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2f70f3342b69864c574c21e8847f8fea491020c4@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260228T125300
 DTEND;TZID=Europe/Amsterdam:20260228T141400
 SUMMARY:C S:A C:A S:2.5 SS:3.5 CS:3.5
@@ -493,7 +88,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:4dd81ece2f36381006aa03be8ce0ddffc6764f21@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260228T153600
 DTEND;TZID=Europe/Amsterdam:20260228T165700
 SUMMARY:A S:A C:A S:4.5 SS:4.5 CS:4.5
@@ -502,7 +97,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:7f4f887b5e2bdb61297f8d99c83c7489e237c59a@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260228T213500
 DTEND;TZID=Europe/Amsterdam:20260228T231400
 SUMMARY:S S:A C:A S:3.5 SS:3.5 CS:3.5
@@ -511,7 +106,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:15a43145f0543ba76525f6d774ab674f350c9a16@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260228T231400
 DTEND;TZID=Europe/Amsterdam:20260301T005200
 SUMMARY:A S:A C:A S:4.5 SS:4.5 CS:4.5
@@ -520,7 +115,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:fac7346a0fadd71d255216c1be9a5113db730db8@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260301T005200
 DTEND;TZID=Europe/Amsterdam:20260301T023100
 SUMMARY:C S:A C:A S:2.5 SS:2.5 CS:2.5
@@ -529,7 +124,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6fd726f666aaa9ca6c7f8637ab263fb7a5af132d@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260301T072700
 DTEND;TZID=Europe/Amsterdam:20260301T084800
 SUMMARY:U S:A C:A S:3.5 SS:3.5 CS:3.5
@@ -538,7 +133,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:7f89261031a59bf152342580083f69ff186f338f@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260301T084800
 DTEND;TZID=Europe/Amsterdam:20260301T101000
 SUMMARY:C S:A C:A S:5.5 SS:5.5 CS:5.5
@@ -547,7 +142,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ec52ddb0c51c17ce8ae774d0ec37bdcdf5de07bc@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260301T101000
 DTEND;TZID=Europe/Amsterdam:20260301T113200
 SUMMARY:L S:A C:A S:6.5 SS:6.5 CS:6.5
@@ -556,7 +151,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:595e06c035e30c8b765b92bb792b75d6c2aa0349@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260301T141500
 DTEND;TZID=Europe/Amsterdam:20260301T153600
 SUMMARY:S S:A C:A S:6.5 SS:6.5 CS:6.5
@@ -565,7 +160,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:94e90bc426c6f29e87575f71b713cb681fe52b48@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260301T182000
 DTEND;TZID=Europe/Amsterdam:20260301T195800
 SUMMARY:S S:A C:A S:6.5 SS:6.5 CS:6.5
@@ -574,7 +169,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6dbbddab90e027072d834f3a53ca13516799ca85@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260301T195800
 DTEND;TZID=Europe/Amsterdam:20260301T213600
 SUMMARY:A S:A C:A S:7.5 SS:7.5 CS:7.5
@@ -583,7 +178,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:524ed7f9f6abe04a96af5cab035ab5351a9b3993@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260301T213600
 DTEND;TZID=Europe/Amsterdam:20260301T231400
 SUMMARY:C S:A C:A S:5.5 SS:5.5 CS:5.5
@@ -592,7 +187,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:410c7e9b5f6e223898b0dece993f035dbaded01c@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260301T231400
 DTEND;TZID=Europe/Amsterdam:20260302T005200
 SUMMARY:R S:A C:A S:2.5 SS:2.5 CS:2.5
@@ -601,7 +196,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e5fd1d82ae23a095e50587c3757586785aee20f5@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260302T005200
 DTEND;TZID=Europe/Amsterdam:20260302T023000
 SUMMARY:K S:A C:A S:2.5 SS:2.5 CS:2.5
@@ -610,7 +205,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:da91c952ee0a258f1233bb55cb19125b07955381@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260302T040800
 DTEND;TZID=Europe/Amsterdam:20260302T054700
 SUMMARY:U S:A C:A S:3.5 SS:3.5 CS:3.5
@@ -619,7 +214,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:927bd50492d781bfd6382cda9ec2a1bb56e91b25@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260302T054700
 DTEND;TZID=Europe/Amsterdam:20260302T072500
 SUMMARY:S S:A C:A S:6.5 SS:6.5 CS:6.5
@@ -628,7 +223,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:7c87ffed1c655cff22e7f11d3c24ddcb43633107@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260302T072500
 DTEND;TZID=Europe/Amsterdam:20260302T084700
 SUMMARY:A S:A C:A S:3.5 SS:3.5 CS:3.5
@@ -637,7 +232,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:27b63aa48e616163882e48b04e60b32e8d3221ff@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260302T100900
 DTEND;TZID=Europe/Amsterdam:20260302T113100
 SUMMARY:S S:A C:A S:2.5 SS:2.5 CS:2.5
@@ -646,7 +241,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:df2b3021b2aeda6945533cb632c334cff428a5ff@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260302T165900
 DTEND;TZID=Europe/Amsterdam:20260302T182100
 SUMMARY:A S:A C:A S:3.5 SS:3.5 CS:3.5
@@ -655,7 +250,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6c50f0a5d5a9289befbbad349ffc34fe51916707@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260303T023000
 DTEND;TZID=Europe/Amsterdam:20260303T040700
 SUMMARY:S S:A C:A S:2.5 SS:2.5 CS:2.5
@@ -664,7 +259,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:85a89d99796d66e0c61194d529b9c22d205b6043@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260303T040700
 DTEND;TZID=Europe/Amsterdam:20260303T054500
 SUMMARY:A S:A C:A S:3.5 SS:3.5 CS:3.5
@@ -673,7 +268,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:1d70a9b9d7ea223084e320d93ef7525d724c05dc@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260303T113000
 DTEND;TZID=Europe/Amsterdam:20260303T125300
 SUMMARY:L S:A C:A S:4.5 SS:5.5 CS:5.5
@@ -682,7 +277,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2ecba8e31448ce449f0a4489166f82936b2cef90@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260303T231500
 DTEND;TZID=Europe/Amsterdam:20260304T005200
 SUMMARY:S S:A C:A S:4.5 SS:4.5 CS:4.5
@@ -691,7 +286,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:40d06dd281fb93a8d50db9cbc467c7fcbad5145d@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260304T005200
 DTEND;TZID=Europe/Amsterdam:20260304T022900
 SUMMARY:A S:A C:A S:5.5 SS:5.5 CS:5.5
@@ -700,7 +295,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f07d60d8b47f1a19f0a7a3ba2c5c3ecfd1ac0f68@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260304T022900
 DTEND;TZID=Europe/Amsterdam:20260304T040600
 SUMMARY:C S:A C:A S:3.5 SS:3.5 CS:3.5
@@ -709,7 +304,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f8a4f1129dab9b7ea6e36f7d11930ad794eb937a@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260304T072000
 DTEND;TZID=Europe/Amsterdam:20260304T084300
 SUMMARY:L S:A C:A S:2.5 SS:2.5 CS:2.5
@@ -718,7 +313,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:0451641530a5cd516781db96b4c219baf2c72df5@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260304T170200
 DTEND;TZID=Europe/Amsterdam:20260304T182500
 SUMMARY:L S:A C:A S:2.5 SS:2.5 CS:2.5
@@ -727,7 +322,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:561fb6de1b1c4a1afcf0b2b5e0924e6a7f4f31a2@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260304T200200
 DTEND;TZID=Europe/Amsterdam:20260304T213800
 SUMMARY:S S:A C:A S:2.5 SS:2.5 CS:2.5
@@ -736,7 +331,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:9297ece45f30422413f53399afec0f6df5c8209c@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260304T213800
 DTEND;TZID=Europe/Amsterdam:20260304T231500
 SUMMARY:A S:A C:A S:3.5 SS:3.5 CS:3.5
@@ -745,7 +340,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b09270066deb9f80ccdca26d5ac2131979d9945c@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260305T084200
 DTEND;TZID=Europe/Amsterdam:20260305T100500
 SUMMARY:R S:A C:A S:2.5 SS:2.5 CS:2.5
@@ -754,7 +349,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:97ad972b2ac8d46463f0cece341941f2703b9023@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260305T112900
 DTEND;TZID=Europe/Amsterdam:20260305T125200
 SUMMARY:C S:A C:A S:5.5 SS:6.5 CS:6.5
@@ -763,7 +358,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d4248c139556b037e521f5c94c47edf4d20de3a6@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260305T125200
 DTEND;TZID=Europe/Amsterdam:20260305T141600
 SUMMARY:L S:A C:A S:6.5 SS:7.5 CS:7.5
@@ -772,7 +367,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f68c9c90c7e6d03ba3f41ea9a040c7fe9f75d3f2@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260305T182700
 DTEND;TZID=Europe/Amsterdam:20260305T200300
 SUMMARY:A S:A C:A S:7.5 SS:7.5 CS:7.5
@@ -781,7 +376,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:25e1d7bb7cefe814ebffcbcae87d6641f714fc25@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260305T200300
 DTEND;TZID=Europe/Amsterdam:20260305T213900
 SUMMARY:C S:A C:A S:5.5 SS:5.5 CS:5.5
@@ -790,7 +385,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:928e41dc13ac1fa8dcf1763eb9c684114721a0ed@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260305T213900
 DTEND;TZID=Europe/Amsterdam:20260305T231500
 SUMMARY:R S:A C:A S:2.5 SS:2.5 CS:2.5
@@ -799,7 +394,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8153d242d03321d9d7caf16a31ea2c9f8d304bde@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260305T231500
 DTEND;TZID=Europe/Amsterdam:20260306T005100
 SUMMARY:K S:A C:A S:2.5 SS:2.5 CS:2.5
@@ -808,7 +403,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ff655e3f6ba6adcf6e41dd1ff244766bf623dbd3@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260306T022700
 DTEND;TZID=Europe/Amsterdam:20260306T040300
 SUMMARY:U S:A C:A S:3.5 SS:3.5 CS:3.5
@@ -817,7 +412,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ed3cb98607e2a8e0fd04ea9182aba444951cc87f@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260306T040300
 DTEND;TZID=Europe/Amsterdam:20260306T054000
 SUMMARY:S S:A C:A S:6.5 SS:6.5 CS:6.5
@@ -826,7 +421,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:9683f2101bfd6904b63a2dae975c9d3714151e94@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260306T054000
 DTEND;TZID=Europe/Amsterdam:20260306T071600
 SUMMARY:A S:A C:A S:7.5 SS:7.5 CS:7.5
@@ -835,7 +430,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ad9f74b8df1ba2fea6b25e81db90a99f3389cdf7@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260306T125200
 DTEND;TZID=Europe/Amsterdam:20260306T141600
 SUMMARY:S S:A C:A S:2.5 SS:3.5 CS:3.5
@@ -844,7 +439,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8143d1228697982e2e38802bbf32274c270a93f3@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260307T005100
 DTEND;TZID=Europe/Amsterdam:20260307T022700
 SUMMARY:S S:A C:A S:2.5 SS:2.5 CS:2.5
@@ -853,7 +448,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:43112cce27cbe2bc08e2bb00b0c0ef48747792d2@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260307T022700
 DTEND;TZID=Europe/Amsterdam:20260307T040200
 SUMMARY:A S:A C:A S:3.5 SS:3.5 CS:3.5
@@ -862,7 +457,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a579ebaa2c3dda817e4c67e3efd3e9f7bf00576e@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260307T083800
 DTEND;TZID=Europe/Amsterdam:20260307T100300
 SUMMARY:S S:A C:A S:4.5 SS:4.5 CS:4.5
@@ -871,7 +466,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:cb8e125dc55acd00bee647364bb74a8f57d9e075@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260307T112700
 DTEND;TZID=Europe/Amsterdam:20260307T125200
 SUMMARY:U S:A C:A S:1.5 SS:2.5 CS:2.5
@@ -880,7 +475,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:02daa0642a2864a1e7a4b3c170fe39588fc19881@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260307T125200
 DTEND;TZID=Europe/Amsterdam:20260307T141700
 SUMMARY:C S:A C:A S:3.5 SS:4.5 CS:4.5
@@ -889,7 +484,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:38f2a20cc43fea3ef9b80c0efa8bf727b438a69e@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260307T154100
 DTEND;TZID=Europe/Amsterdam:20260307T170600
 SUMMARY:A S:A C:A S:5.5 SS:5.5 CS:5.5
@@ -898,7 +493,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:fa4c34fafbd34b213a73f03cf7a8d7b7385a2dfc@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260307T214100
 DTEND;TZID=Europe/Amsterdam:20260307T231600
 SUMMARY:S S:A C:A S:4.5 SS:4.5 CS:4.5
@@ -907,7 +502,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:efe4ef7e5bdc0c1d184aff37f9d97c1bbd3cd426@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260307T231600
 DTEND;TZID=Europe/Amsterdam:20260308T005100
 SUMMARY:A S:A C:A S:5.5 SS:5.5 CS:5.5
@@ -916,7 +511,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:81378f1e352d1e8051121247d6009e8d4431e3cd@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260308T005100
 DTEND;TZID=Europe/Amsterdam:20260308T022600
 SUMMARY:C S:A C:A S:3.5 SS:3.5 CS:3.5
@@ -925,7 +520,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:45e58a07cf7a576000495d845f0a0eb0055bafd3@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260308T083600
 DTEND;TZID=Europe/Amsterdam:20260308T100100
 SUMMARY:C S:A C:A S:3.5 SS:3.5 CS:3.5
@@ -934,7 +529,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a667e6ce0e910a332f5fd95076f0d9c97f00c228@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260308T100100
 DTEND;TZID=Europe/Amsterdam:20260308T112700
 SUMMARY:L S:A C:A S:4.5 SS:4.5 CS:4.5
@@ -943,7 +538,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:af2c88ff8b6753c734489edfa6607c96450d74bd@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260308T141700
 DTEND;TZID=Europe/Amsterdam:20260308T154200
 SUMMARY:S S:A C:A S:4.5 SS:4.5 CS:4.5
@@ -952,7 +547,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d27fa9a9921b0216fe455dffb1085f23f64c293a@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260308T183200
 DTEND;TZID=Europe/Amsterdam:20260308T200700
 SUMMARY:S S:A C:A S:4.5 SS:4.5 CS:4.5
@@ -961,7 +556,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:25e352a1bf4ba6b237cd68523b90f8c6a8e7ea4e@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260308T200700
 DTEND;TZID=Europe/Amsterdam:20260308T214100
 SUMMARY:A S:A C:A S:5.5 SS:5.5 CS:5.5
@@ -970,7 +565,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:05d9f9ce9d5ff4d11ca431f48fa8f6da106d095d@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260308T214100
 DTEND;TZID=Europe/Amsterdam:20260308T231600
 SUMMARY:C S:A C:A S:3.5 SS:3.5 CS:3.5
@@ -979,7 +574,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:99340a1b494636b8b05acc81153b628572bbada3@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260309T053400
 DTEND;TZID=Europe/Amsterdam:20260309T070900
 SUMMARY:S S:A C:A S:4.5 SS:4.5 CS:4.5
@@ -988,7 +583,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:bf0136c13347420713a20cc585d80d6e014a66e7@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260309T070900
 DTEND;TZID=Europe/Amsterdam:20260309T083400
 SUMMARY:A S:A C:A S:6.5 SS:6.5 CS:6.5
@@ -997,7 +592,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:beef9fa953e2a49f2a04dbcf8ad64dda3b43d887@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260309T100000
 DTEND;TZID=Europe/Amsterdam:20260309T112600
 SUMMARY:S S:A C:A S:5.5 SS:5.5 CS:5.5
@@ -1006,7 +601,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:513284ec777601451dd53492820e5d3b74a60dcf@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260309T125100
 DTEND;TZID=Europe/Amsterdam:20260309T141700
 SUMMARY:U S:A C:A S:2.5 SS:3.5 CS:3.5
@@ -1015,7 +610,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:84009e86546e6a275c0957ac0ced27e9a77c3bf6@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260309T170800
 DTEND;TZID=Europe/Amsterdam:20260309T183400
 SUMMARY:A S:A C:A S:6.5 SS:6.5 CS:6.5
@@ -1024,7 +619,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f8505cc8cca5eff892ea09053125d00bc61e51ee@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260309T183400
 DTEND;TZID=Europe/Amsterdam:20260309T200800
 SUMMARY:C S:A C:A S:4.5 SS:4.5 CS:4.5
@@ -1033,7 +628,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:4849b21d881630f1ebb6808e642b7c64b11f63dc@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260310T005000
 DTEND;TZID=Europe/Amsterdam:20260310T022400
 SUMMARY:U S:A C:A S:2.5 SS:2.5 CS:2.5
@@ -1042,7 +637,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:3c1129d60407df04ee0f163684c9f4bc2123df61@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260310T022400
 DTEND;TZID=Europe/Amsterdam:20260310T035800
 SUMMARY:S S:A C:A S:5.5 SS:5.5 CS:5.5
@@ -1051,7 +646,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:951a1f6820673063cd982e49b54b81811fe3b50e@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260310T035800
 DTEND;TZID=Europe/Amsterdam:20260310T053200
 SUMMARY:A S:A C:A S:6.5 SS:6.5 CS:6.5
@@ -1060,7 +655,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d371b3e7a586f96b4647a4b8832c068571cd2098@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260310T053200
 DTEND;TZID=Europe/Amsterdam:20260310T070700
 SUMMARY:C S:A C:A S:4.5 SS:4.5 CS:4.5
@@ -1069,7 +664,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:afd1d0903602f78ca6fdd02686e7cff7e3a04a9f@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260310T112500
 DTEND;TZID=Europe/Amsterdam:20260310T125100
 SUMMARY:L S:A C:A S:2.5 SS:3.5 CS:3.5
@@ -1078,7 +673,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:843aaf130c40a7a74517692fb0778113bde07fa3@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260310T231600
 DTEND;TZID=Europe/Amsterdam:20260311T005000
 SUMMARY:S S:A C:A S:2.5 SS:2.5 CS:2.5
@@ -1087,7 +682,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:c049f18a478350e64b453737e6b3bbb1a6f1c348@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260311T005000
 DTEND;TZID=Europe/Amsterdam:20260311T022400
 SUMMARY:A S:A C:A S:3.5 SS:3.5 CS:3.5
@@ -1096,7 +691,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8eb066f083adbc70a380fc9827a8b508e7a013bc@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260311T070400
 DTEND;TZID=Europe/Amsterdam:20260311T083100
 SUMMARY:L S:A C:A S:5.5 SS:5.5 CS:5.5
@@ -1105,7 +700,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8eadf33c8021dd9853aa8d0562586565a977e2b4@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260311T141800
 DTEND;TZID=Europe/Amsterdam:20260311T154400
 SUMMARY:U S:A C:A S:2.5 SS:2.5 CS:2.5
@@ -1114,7 +709,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:fb1e1955bee27203500385982c8a15b70d6e93a1@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260311T154400
 DTEND;TZID=Europe/Amsterdam:20260311T171100
 SUMMARY:C S:A C:A S:4.5 SS:4.5 CS:4.5
@@ -1123,7 +718,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a47ecfa391cff68b7a66a9c5ee19b26d4f65abdc@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260311T171100
 DTEND;TZID=Europe/Amsterdam:20260311T183800
 SUMMARY:L S:A C:A S:5.5 SS:5.5 CS:5.5
@@ -1132,7 +727,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f150b9e8675c9969600009918a2b41b8d5571094@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260311T183800
 DTEND;TZID=Europe/Amsterdam:20260311T201100
 SUMMARY:U S:A C:A S:2.5 SS:2.5 CS:2.5
@@ -1141,7 +736,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:109f1cdb27ea11793ab9a7f4e90943f020362cea@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260311T201100
 DTEND;TZID=Europe/Amsterdam:20260311T214400
 SUMMARY:S S:A C:A S:5.5 SS:5.5 CS:5.5
@@ -1150,7 +745,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6e6652a9ea1df953606a66ada545862d199c5972@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260311T214400
 DTEND;TZID=Europe/Amsterdam:20260311T231700
 SUMMARY:A S:A C:A S:6.5 SS:6.5 CS:6.5
@@ -1159,7 +754,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:91cd540d828db12d4c1b0de2df3677d876bbbaa0@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260311T231700
 DTEND;TZID=Europe/Amsterdam:20260312T005000
 SUMMARY:C S:A C:A S:4.5 SS:4.5 CS:4.5
@@ -1168,7 +763,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:1f1e9cf679cf58aec8c00e2667df212f5747f349@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260312T052900
 DTEND;TZID=Europe/Amsterdam:20260312T070200
 SUMMARY:U S:A C:A S:2.5 SS:2.5 CS:2.5
@@ -1177,7 +772,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a742079c681966480c4346cb3910dde3d03f6f42@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260312T112300
 DTEND;TZID=Europe/Amsterdam:20260312T125100
 SUMMARY:C S:A C:A S:2.5 SS:3.5 CS:3.5
@@ -1186,7 +781,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:5bb15c079eb74741a71920d6230e0c803e3b9706@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260312T125100
 DTEND;TZID=Europe/Amsterdam:20260312T141800
 SUMMARY:L S:A C:A S:3.5 SS:4.5 CS:4.5
@@ -1195,7 +790,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f6eb33b22e3fd9f075e3a8a337545a496f77a90b@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260312T183900
 DTEND;TZID=Europe/Amsterdam:20260312T201200
 SUMMARY:A S:A C:A S:4.5 SS:4.5 CS:4.5
@@ -1204,7 +799,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a5de913e3e7dd28bd0cadd6befbeae5b64ff0cb3@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260312T201200
 DTEND;TZID=Europe/Amsterdam:20260312T214400
 SUMMARY:C S:A C:A S:2.5 SS:2.5 CS:2.5
@@ -1213,7 +808,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f22dc8b61d2c45d3cea30679b8f10fd5eafa51fb@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260313T035500
 DTEND;TZID=Europe/Amsterdam:20260313T052700
 SUMMARY:S S:A C:A S:3.5 SS:3.5 CS:3.5
@@ -1222,7 +817,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f450d3fb98b3248ed96f8f793f9c3483aeefa744@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260313T052700
 DTEND;TZID=Europe/Amsterdam:20260313T070000
 SUMMARY:A S:A C:A S:4.5 SS:4.5 CS:4.5
@@ -1231,7 +826,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:af12053b9ac1171678795c6cd5703e22ef652b78@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260313T070000
 DTEND;TZID=Europe/Amsterdam:20260313T082700
 SUMMARY:C S:A C:A S:4.5 SS:4.5 CS:4.5
@@ -1240,7 +835,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:964fd529e051231e7f3256adb9e496346547b415@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260313T125000
 DTEND;TZID=Europe/Amsterdam:20260313T141800
 SUMMARY:S S:A C:A S:5.5 SS:6.5 CS:6.5
@@ -1249,7 +844,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:c38ff8db949c11c809b3838ebf889f54c5de2f5d@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260313T171300
 DTEND;TZID=Europe/Amsterdam:20260313T184100
 SUMMARY:C S:A C:A S:4.5 SS:4.5 CS:4.5
@@ -1258,7 +853,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:73addfb7616907166cc3b92cec60b22e9b16d588@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260313T231700
 DTEND;TZID=Europe/Amsterdam:20260314T004900
 SUMMARY:U S:A C:A S:2.5 SS:2.5 CS:2.5
@@ -1267,7 +862,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:40b27620a93d2ece5f78ca3750988df29e7b93ee@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260314T004900
 DTEND;TZID=Europe/Amsterdam:20260314T022100
 SUMMARY:S S:A C:A S:5.5 SS:5.5 CS:5.5
@@ -1276,7 +871,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:78245a00ce8c2967087a63dff882f91782c0d2dd@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260314T022100
 DTEND;TZID=Europe/Amsterdam:20260314T035300
 SUMMARY:A S:A C:A S:6.5 SS:6.5 CS:6.5
@@ -1285,7 +880,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:c70a5ed17a312c228ba18d68c73b723e99e100c1@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260314T035300
 DTEND;TZID=Europe/Amsterdam:20260314T052500
 SUMMARY:C S:A C:A S:4.5 SS:4.5 CS:4.5
@@ -1294,7 +889,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:3e141e1be90333f2cd690a3257f9ced96e7c291c@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260314T082500
 DTEND;TZID=Europe/Amsterdam:20260314T095400
 SUMMARY:S S:A C:A S:3.5 SS:3.5 CS:3.5
@@ -1303,7 +898,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a9ca0dde351e195f52e0fb4457c46a43bbaee2b2@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260314T125000
 DTEND;TZID=Europe/Amsterdam:20260314T141800
 SUMMARY:C S:A C:A S:2.5 SS:3.5 CS:3.5
@@ -1312,7 +907,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:c99ca49c771a5e5ba23d07627d8003c5ecee5451@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260314T154700
 DTEND;TZID=Europe/Amsterdam:20260314T171500
 SUMMARY:A S:A C:A S:4.5 SS:4.5 CS:4.5
@@ -1321,7 +916,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f5c7349b1da436148e2db33d0f0b88f534da562a@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260314T214600
 DTEND;TZID=Europe/Amsterdam:20260314T231700
 SUMMARY:S S:A C:A S:3.5 SS:3.5 CS:3.5
@@ -1330,7 +925,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:fd21b2dcb41ebffc1e241995902647e02342d4ac@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260314T231700
 DTEND;TZID=Europe/Amsterdam:20260315T004900
 SUMMARY:A S:A C:A S:4.5 SS:4.5 CS:4.5
@@ -1339,7 +934,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:cc12e968860b0689a5219fff5ff181cfed20f87e@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260315T004900
 DTEND;TZID=Europe/Amsterdam:20260315T022000
 SUMMARY:C S:A C:A S:2.5 SS:2.5 CS:2.5
@@ -1348,7 +943,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:c87c38b4e3ab52802dd338dd2c736740f9ff067d@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260315T065500
 DTEND;TZID=Europe/Amsterdam:20260315T082400
 SUMMARY:U S:A C:A S:3.5 SS:3.5 CS:3.5
@@ -1357,7 +952,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b39ae5364d68a545b0e27207ccdc49f6c33b76b1@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260315T082400
 DTEND;TZID=Europe/Amsterdam:20260315T095200
 SUMMARY:C S:A C:A S:5.5 SS:5.5 CS:5.5
@@ -1366,7 +961,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e0fb5d23510296d4108c3f3ecc78baa350ac3371@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260315T095200
 DTEND;TZID=Europe/Amsterdam:20260315T112100
 SUMMARY:L S:A C:A S:6.5 SS:6.5 CS:6.5
@@ -1375,7 +970,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f134efedf98709886b0fd7de1716aee7fab0a6e9@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260315T141900
 DTEND;TZID=Europe/Amsterdam:20260315T154700
 SUMMARY:S S:A C:A S:6.5 SS:6.5 CS:6.5
@@ -1384,7 +979,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:29919dcc7b96c86921fb3fc049f1b4e6a2dc5d88@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260315T184500
 DTEND;TZID=Europe/Amsterdam:20260315T201600
 SUMMARY:S S:A C:A S:6.5 SS:6.5 CS:6.5
@@ -1393,7 +988,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:4f291a45a969b526ebebe6f7b527df654a8d2c79@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260315T201600
 DTEND;TZID=Europe/Amsterdam:20260315T214700
 SUMMARY:A S:A C:A S:7.5 SS:7.5 CS:7.5
@@ -1402,7 +997,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2286b03c75a8af745c15694744d471dfdf98c98d@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260315T214700
 DTEND;TZID=Europe/Amsterdam:20260315T231800
 SUMMARY:C S:A C:A S:5.5 SS:5.5 CS:5.5
@@ -1411,7 +1006,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ca420951211e9ebb0262310e15e7f01909ed3af7@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260315T231800
 DTEND;TZID=Europe/Amsterdam:20260316T004900
 SUMMARY:R S:A C:A S:2.5 SS:2.5 CS:2.5
@@ -1420,7 +1015,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e8311c6f80d6c9ac028c26d84e6f97a31164be66@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260316T004900
 DTEND;TZID=Europe/Amsterdam:20260316T022000
 SUMMARY:K S:A C:A S:2.5 SS:2.5 CS:2.5
@@ -1429,7 +1024,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6a38ce2b7ee4c2f953ee454404ef1523b44894f3@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260316T035100
 DTEND;TZID=Europe/Amsterdam:20260316T052200
 SUMMARY:U S:A C:A S:3.5 SS:3.5 CS:3.5
@@ -1438,7 +1033,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b9caf8def7ff5354a05ea90d37712f4743c64c73@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260316T052200
 DTEND;TZID=Europe/Amsterdam:20260316T065300
 SUMMARY:S S:A C:A S:6.5 SS:6.5 CS:6.5
@@ -1447,7 +1042,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:7a8138889cf2ef8f252c05a5acc78cc46c21d43b@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260316T065300
 DTEND;TZID=Europe/Amsterdam:20260316T082200
 SUMMARY:A S:A C:A S:3.5 SS:3.5 CS:3.5
@@ -1456,7 +1051,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:4a20e4752fb5af4f2de9fae016fe493a68f27cb2@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260316T095100
 DTEND;TZID=Europe/Amsterdam:20260316T112000
 SUMMARY:S S:A C:A S:2.5 SS:2.5 CS:2.5
@@ -1465,7 +1060,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:675c5238f519667a8dd77bd5f2a479280acf2a85@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260316T171700
 DTEND;TZID=Europe/Amsterdam:20260316T184600
 SUMMARY:A S:A C:A S:3.5 SS:3.5 CS:3.5
@@ -1474,7 +1069,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:75acb534e1b067fca0c688c4c603ed4ed320bd22@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260317T021900
 DTEND;TZID=Europe/Amsterdam:20260317T034900
 SUMMARY:S S:A C:A S:2.5 SS:2.5 CS:2.5
@@ -1483,7 +1078,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b987bcfd4d318152c8d63850d4ede910ccf49a30@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260317T034900
 DTEND;TZID=Europe/Amsterdam:20260317T052000
 SUMMARY:A S:A C:A S:3.5 SS:3.5 CS:3.5
@@ -1492,7 +1087,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:67c6734dac3d30e191fc8805b787dd40e2a54b00@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260317T112000
 DTEND;TZID=Europe/Amsterdam:20260317T124900
 SUMMARY:L S:A C:A S:3.5 SS:4.5 CS:4.5
@@ -1501,7 +1096,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:0ab0f7a87477143059811769f429188e54bf1936@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260317T231800
 DTEND;TZID=Europe/Amsterdam:20260318T004800
 SUMMARY:S S:A C:A S:3.5 SS:3.5 CS:3.5
@@ -1510,7 +1105,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:c611a73efbb7c5b7b956b4764509616cf15020b1@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260318T004800
 DTEND;TZID=Europe/Amsterdam:20260318T021800
 SUMMARY:A S:A C:A S:4.5 SS:4.5 CS:4.5
@@ -1519,7 +1114,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:821123e0b0e4971bb3c8d775f8adadf57525374f@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260318T021800
 DTEND;TZID=Europe/Amsterdam:20260318T034800
 SUMMARY:C S:A C:A S:2.5 SS:2.5 CS:2.5
@@ -1528,7 +1123,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e8903d8b44150da84ae1048c1dfd9566c44da505@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260318T064800
 DTEND;TZID=Europe/Amsterdam:20260318T081800
 SUMMARY:L S:A C:A S:4.5 SS:4.5 CS:4.5
@@ -1537,7 +1132,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:54b1d0a970c6367e03b6f25bc05504c858764fb7@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260318T154900
 DTEND;TZID=Europe/Amsterdam:20260318T172000
 SUMMARY:C S:A C:A S:3.5 SS:3.5 CS:3.5
@@ -1546,7 +1141,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d3925e3b59901ccfae451a9d7611120b6af3dd8e@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260318T172000
 DTEND;TZID=Europe/Amsterdam:20260318T185000
 SUMMARY:L S:A C:A S:4.5 SS:4.5 CS:4.5
@@ -1555,7 +1150,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2e54af7b30afa9ad7a522a514a01fbeab0dc6669@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260318T201900
 DTEND;TZID=Europe/Amsterdam:20260318T214900
 SUMMARY:S S:A C:A S:4.5 SS:4.5 CS:4.5
@@ -1564,7 +1159,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:9df4e1cde256d3d073c7f4bc07a86fa99d5326c1@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260318T214900
 DTEND;TZID=Europe/Amsterdam:20260318T231800
 SUMMARY:A S:A C:A S:5.5 SS:5.5 CS:5.5
@@ -1573,7 +1168,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ddd8c13f22e9dbb7aa7079d2cb8e5bfcc748458a@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260318T231800
 DTEND;TZID=Europe/Amsterdam:20260319T004800
 SUMMARY:C S:A C:A S:3.5 SS:3.5 CS:3.5
@@ -1582,7 +1177,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:3db92b4c3d1a462ad2a2f65c5d4f04513ccc95d5@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260319T111800
 DTEND;TZID=Europe/Amsterdam:20260319T124900
 SUMMARY:C S:A C:A S:1.5 SS:2.5 CS:2.5
@@ -1591,7 +1186,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:47372028bc29a8fa10e62bb822b5d081344d31de@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260319T124900
 DTEND;TZID=Europe/Amsterdam:20260319T141900
 SUMMARY:L S:A C:A S:2.5 SS:3.5 CS:3.5
@@ -1600,7 +1195,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:3fa7329fced0eeb17176c0ee4d93a10ad5972226@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260319T185200
 DTEND;TZID=Europe/Amsterdam:20260319T202100
 SUMMARY:A S:A C:A S:3.5 SS:3.5 CS:3.5
@@ -1609,7 +1204,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:5e3585b9949e09fe64e7ca8aea887681e3a95149@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260320T034500
 DTEND;TZID=Europe/Amsterdam:20260320T051400
 SUMMARY:S S:A C:A S:2.5 SS:2.5 CS:2.5
@@ -1618,7 +1213,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e05c22484e6bda38fae7e2c00d01998f894c3a83@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260320T051400
 DTEND;TZID=Europe/Amsterdam:20260320T064300
 SUMMARY:A S:A C:A S:3.5 SS:3.5 CS:3.5
@@ -1627,7 +1222,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:94ee7f5d48b68124178fac898685881ed73f2f0a@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260320T064300
 DTEND;TZID=Europe/Amsterdam:20260320T081500
 SUMMARY:C S:A C:A S:4.5 SS:4.5 CS:4.5
@@ -1636,7 +1231,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a41d592baade670703e8fbded9648b743b47895f@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260320T124800
 DTEND;TZID=Europe/Amsterdam:20260320T142000
 SUMMARY:S S:A C:A S:5.5 SS:6.5 CS:6.5
@@ -1645,7 +1240,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:0348255538c1490d9d59abd44615ea2f39ab81c5@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260320T172200
 DTEND;TZID=Europe/Amsterdam:20260320T185400
 SUMMARY:C S:A C:A S:4.5 SS:4.5 CS:4.5
@@ -1654,7 +1249,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2dca27c96a50e4ea01546b8cf15b627489e54a99@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260320T231900
 DTEND;TZID=Europe/Amsterdam:20260321T004700
 SUMMARY:U S:A C:A S:2.5 SS:2.5 CS:2.5
@@ -1663,7 +1258,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:1011b29eeda38d28057e7b3f1fac3833cda0041c@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260321T004700
 DTEND;TZID=Europe/Amsterdam:20260321T021600
 SUMMARY:S S:A C:A S:5.5 SS:5.5 CS:5.5
@@ -1672,7 +1267,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6b454f9fa5495099ad2ed73e97d9ed5775619c19@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260321T021600
 DTEND;TZID=Europe/Amsterdam:20260321T034400
 SUMMARY:A S:A C:A S:6.5 SS:6.5 CS:6.5
@@ -1681,7 +1276,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:1f865f51c1533ea0ed7b1adb77733870e3852869@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260321T034400
 DTEND;TZID=Europe/Amsterdam:20260321T051200
 SUMMARY:C S:A C:A S:4.5 SS:4.5 CS:4.5
@@ -1690,7 +1285,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f84013e04b64c0a0740e9675feca06132f315e23@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260321T081300
 DTEND;TZID=Europe/Amsterdam:20260321T094500
 SUMMARY:S S:A C:A S:3.5 SS:3.5 CS:3.5
@@ -1699,7 +1294,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:89de8452ad7b7bf8ad696a438f0c60455c183cfa@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260321T124800
 DTEND;TZID=Europe/Amsterdam:20260321T142000
 SUMMARY:C S:A C:A S:2.5 SS:3.5 CS:3.5
@@ -1708,7 +1303,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:3eaa670af4f6f3b1db36b5fa9210cc3ebfc8ba01@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260321T155200
 DTEND;TZID=Europe/Amsterdam:20260321T172300
 SUMMARY:A S:A C:A S:4.5 SS:4.5 CS:4.5
@@ -1717,7 +1312,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:30b092bf6fee926c93377f4f2de32e1eec5c682b@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260321T215100
 DTEND;TZID=Europe/Amsterdam:20260321T231900
 SUMMARY:S S:A C:A S:3.5 SS:3.5 CS:3.5
@@ -1726,7 +1321,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2a5862e5b8f5f5181aa780f4c7115d9780af0c36@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260321T231900
 DTEND;TZID=Europe/Amsterdam:20260322T004700
 SUMMARY:A S:A C:A S:4.5 SS:4.5 CS:4.5
@@ -1735,11 +1330,461 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d40b18461af3974f6fd5b21cbb121a362e818b42@muhurat-ams
-DTSTAMP:20260220T080039
+DTSTAMP:20260227T080035
 DTSTART;TZID=Europe/Amsterdam:20260322T004700
 DTEND;TZID=Europe/Amsterdam:20260322T021500
 SUMMARY:C S:A C:A S:2.5 SS:2.5 CS:2.5
 DESCRIPTION:BaseScore: 2.5 (Chogh:1\, Tara:-1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 2.5\nContinueScore: 2.5\nAbhijit: No\nTransit: Ashwini / Mesha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:1a5caafd75b7c489a0a43c182f894153250f91bc@muhurat-ams
+DTSTAMP:20260227T080035
+DTSTART;TZID=Europe/Amsterdam:20260322T063900
+DTEND;TZID=Europe/Amsterdam:20260322T081100
+SUMMARY:U S:A C:A S:2.5 SS:2.5 CS:2.5
+DESCRIPTION:BaseScore: 2.5 (Chogh:-1\, Tara:1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 2.5\nContinueScore: 2.5\nAbhijit: No\nTransit: Bharani / Mesha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f32d2629acd7be72be4938f26619db9675e9b9ae@muhurat-ams
+DTSTAMP:20260227T080035
+DTSTART;TZID=Europe/Amsterdam:20260322T081100
+DTEND;TZID=Europe/Amsterdam:20260322T094300
+SUMMARY:C S:A C:A S:4.5 SS:4.5 CS:4.5
+DESCRIPTION:BaseScore: 4.5 (Chogh:1\, Tara:1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 4.5\nContinueScore: 4.5\nAbhijit: No\nTransit: Bharani / Mesha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:8e337dfe5a2388b8f96510dcaecd3d45a74d2486@muhurat-ams
+DTSTAMP:20260227T080035
+DTSTART;TZID=Europe/Amsterdam:20260322T094300
+DTEND;TZID=Europe/Amsterdam:20260322T111500
+SUMMARY:L S:A C:A S:5.5 SS:5.5 CS:5.5
+DESCRIPTION:BaseScore: 5.5 (Chogh:2\, Tara:1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 5.5\nContinueScore: 5.5\nAbhijit: No\nTransit: Bharani / Mesha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:1edd8a5b033165716be2e4a645ccdd87237a0573@muhurat-ams
+DTSTAMP:20260227T080035
+DTSTART;TZID=Europe/Amsterdam:20260322T142000
+DTEND;TZID=Europe/Amsterdam:20260322T155200
+SUMMARY:S S:A C:A S:5.5 SS:5.5 CS:5.5
+DESCRIPTION:BaseScore: 5.5 (Chogh:2\, Tara:1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 5.5\nContinueScore: 5.5\nAbhijit: No\nTransit: Bharani / Mesha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:76a010a3a0768b46828221cdee7f3ea84f66f95e@muhurat-ams
+DTSTAMP:20260227T080035
+DTSTART;TZID=Europe/Amsterdam:20260322T185700
+DTEND;TZID=Europe/Amsterdam:20260322T202400
+SUMMARY:S S:A C:A S:5.5 SS:5.5 CS:5.5
+DESCRIPTION:BaseScore: 5.5 (Chogh:2\, Tara:1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 5.5\nContinueScore: 5.5\nAbhijit: No\nTransit: Bharani / Mesha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6dc3a76f69f09f6fcbfbb76f1a9910289a7600b3@muhurat-ams
+DTSTAMP:20260227T080035
+DTSTART;TZID=Europe/Amsterdam:20260322T202400
+DTEND;TZID=Europe/Amsterdam:20260322T215200
+SUMMARY:A S:A C:A S:6.5 SS:6.5 CS:6.5
+DESCRIPTION:BaseScore: 6.5 (Chogh:3\, Tara:1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 6.5\nContinueScore: 6.5\nAbhijit: No\nTransit: Bharani / Mesha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:3c79e54faad96001417ce5c91facae7b9a14df5d@muhurat-ams
+DTSTAMP:20260227T080035
+DTSTART;TZID=Europe/Amsterdam:20260322T215200
+DTEND;TZID=Europe/Amsterdam:20260322T231900
+SUMMARY:C S:A C:A S:4.5 SS:4.5 CS:4.5
+DESCRIPTION:BaseScore: 4.5 (Chogh:1\, Tara:1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 4.5\nContinueScore: 4.5\nAbhijit: No\nTransit: Bharani / Mesha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:9b9ccfde6ebd8c360fd409368d5a7f82b5b85d8c@muhurat-ams
+DTSTAMP:20260227T080035
+DTSTART;TZID=Europe/Amsterdam:20260323T034100
+DTEND;TZID=Europe/Amsterdam:20260323T050900
+SUMMARY:U S:A C:A S:2.5 SS:2.5 CS:2.5
+DESCRIPTION:BaseScore: 2.5 (Chogh:-1\, Tara:1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 2.5\nContinueScore: 2.5\nAbhijit: No\nTransit: Bharani / Mesha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:68a1a5ab4dd89f9322374c8bba47f84b90a06c27@muhurat-ams
+DTSTAMP:20260227T080035
+DTSTART;TZID=Europe/Amsterdam:20260323T050900
+DTEND;TZID=Europe/Amsterdam:20260323T063600
+SUMMARY:S S:A C:A S:5.5 SS:5.5 CS:5.5
+DESCRIPTION:BaseScore: 5.5 (Chogh:2\, Tara:1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 5.5\nContinueScore: 5.5\nAbhijit: No\nTransit: Bharani / Mesha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:57b1c8e18485343791f4b03dc5b34b102118d32b@muhurat-ams
+DTSTAMP:20260227T080035
+DTSTART;TZID=Europe/Amsterdam:20260323T063600
+DTEND;TZID=Europe/Amsterdam:20260323T080900
+SUMMARY:A S:A C:A S:4.5 SS:4.5 CS:4.5
+DESCRIPTION:BaseScore: 4.5 (Chogh:3\, Tara:-1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 4.5\nContinueScore: 4.5\nAbhijit: No\nTransit: Krittika / Vrishabha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f7deb36843bb51aa693147fbcd7cf94814d2b6ee@muhurat-ams
+DTSTAMP:20260227T080035
+DTSTART;TZID=Europe/Amsterdam:20260323T094200
+DTEND;TZID=Europe/Amsterdam:20260323T111500
+SUMMARY:S S:A C:A S:3.5 SS:3.5 CS:3.5
+DESCRIPTION:BaseScore: 3.5 (Chogh:2\, Tara:-1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 3.5\nContinueScore: 3.5\nAbhijit: No\nTransit: Krittika / Vrishabha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:d83f75b5bde63fb5c858d1a00fba7e16878ee2d7@muhurat-ams
+DTSTAMP:20260227T080035
+DTSTART;TZID=Europe/Amsterdam:20260323T172600
+DTEND;TZID=Europe/Amsterdam:20260323T185900
+SUMMARY:A S:A C:A S:4.5 SS:4.5 CS:4.5
+DESCRIPTION:BaseScore: 4.5 (Chogh:3\, Tara:-1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 4.5\nContinueScore: 4.5\nAbhijit: No\nTransit: Krittika / Vrishabha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:92e282b48ddf69fafc461d9298fee4771f86d5da@muhurat-ams
+DTSTAMP:20260227T080035
+DTSTART;TZID=Europe/Amsterdam:20260323T185900
+DTEND;TZID=Europe/Amsterdam:20260323T202600
+SUMMARY:C S:A C:A S:2.5 SS:2.5 CS:2.5
+DESCRIPTION:BaseScore: 2.5 (Chogh:1\, Tara:-1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 2.5\nContinueScore: 2.5\nAbhijit: No\nTransit: Krittika / Vrishabha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:3d3e87ed972c4da9c84a959244328643acc43164@muhurat-ams
+DTSTAMP:20260227T080035
+DTSTART;TZID=Europe/Amsterdam:20260324T021300
+DTEND;TZID=Europe/Amsterdam:20260324T034000
+SUMMARY:S S:A C:A S:3.5 SS:3.5 CS:3.5
+DESCRIPTION:BaseScore: 3.5 (Chogh:2\, Tara:-1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 3.5\nContinueScore: 3.5\nAbhijit: No\nTransit: Krittika / Vrishabha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:76af01009699cee9d474db2d20257849d45ae17f@muhurat-ams
+DTSTAMP:20260227T080035
+DTSTART;TZID=Europe/Amsterdam:20260324T034000
+DTEND;TZID=Europe/Amsterdam:20260324T050700
+SUMMARY:A S:A C:A S:4.5 SS:4.5 CS:4.5
+DESCRIPTION:BaseScore: 4.5 (Chogh:3\, Tara:-1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 4.5\nContinueScore: 4.5\nAbhijit: No\nTransit: Krittika / Vrishabha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:9c1d30966fcbc452bc124d10ebda8a11e78073e4@muhurat-ams
+DTSTAMP:20260227T080035
+DTSTART;TZID=Europe/Amsterdam:20260324T050700
+DTEND;TZID=Europe/Amsterdam:20260324T063400
+SUMMARY:C S:A C:A S:2.5 SS:2.5 CS:2.5
+DESCRIPTION:BaseScore: 2.5 (Chogh:1\, Tara:-1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 2.5\nContinueScore: 2.5\nAbhijit: No\nTransit: Krittika / Vrishabha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:5423f45dbdf6f1f25c151b49c893de55d6d650d8@muhurat-ams
+DTSTAMP:20260227T080035
+DTSTART;TZID=Europe/Amsterdam:20260324T063400
+DTEND;TZID=Europe/Amsterdam:20260324T080700
+SUMMARY:R S:A C:A S:2.5 SS:2.5 CS:2.5
+DESCRIPTION:BaseScore: 2.5 (Chogh:-2\, Tara:2\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 2.5\nContinueScore: 2.5\nAbhijit: No\nTransit: Rohini / Vrishabha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fe4bff33572a7145252405740f6412a104b6ad5e@muhurat-ams
+DTSTAMP:20260227T080035
+DTSTART;TZID=Europe/Amsterdam:20260324T111400
+DTEND;TZID=Europe/Amsterdam:20260324T124700
+SUMMARY:L S:A C:A S:6.5 SS:7.5 CS:7.5
+DESCRIPTION:BaseScore: 6.5 (Chogh:2\, Tara:2\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 7.5\nContinueScore: 7.5\nAbhijit: Yes\nTransit: Rohini / Vrishabha\nStart: Allowed\nContinue: Allowed\nTags: Abhijit Muhurat\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:c1daaad4643f17bdb9800b9e92eca996e23b57fe@muhurat-ams
+DTSTAMP:20260227T080035
+DTSTART;TZID=Europe/Amsterdam:20260324T172700
+DTEND;TZID=Europe/Amsterdam:20260324T190100
+SUMMARY:R S:A C:A S:2.5 SS:2.5 CS:2.5
+DESCRIPTION:BaseScore: 2.5 (Chogh:-2\, Tara:2\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 2.5\nContinueScore: 2.5\nAbhijit: No\nTransit: Rohini / Vrishabha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:05224d9ad4af113c5a9d77ba2b167c5b5baff9a8@muhurat-ams
+DTSTAMP:20260227T080035
+DTSTART;TZID=Europe/Amsterdam:20260324T190100
+DTEND;TZID=Europe/Amsterdam:20260324T202700
+SUMMARY:K S:A C:A S:2.5 SS:2.5 CS:2.5
+DESCRIPTION:BaseScore: 2.5 (Chogh:-2\, Tara:2\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 2.5\nContinueScore: 2.5\nAbhijit: No\nTransit: Rohini / Vrishabha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:8547eabba73b7c8e777943e6f8f2403026e33a7c@muhurat-ams
+DTSTAMP:20260227T080035
+DTSTART;TZID=Europe/Amsterdam:20260324T215300
+DTEND;TZID=Europe/Amsterdam:20260324T232000
+SUMMARY:U S:A C:A S:3.5 SS:3.5 CS:3.5
+DESCRIPTION:BaseScore: 3.5 (Chogh:-1\, Tara:2\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 3.5\nContinueScore: 3.5\nAbhijit: No\nTransit: Rohini / Vrishabha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:072aba204abc22192976f873f877cb0f338cf2c2@muhurat-ams
+DTSTAMP:20260227T080035
+DTSTART;TZID=Europe/Amsterdam:20260324T232000
+DTEND;TZID=Europe/Amsterdam:20260325T004600
+SUMMARY:S S:A C:A S:6.5 SS:6.5 CS:6.5
+DESCRIPTION:BaseScore: 6.5 (Chogh:2\, Tara:2\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 6.5\nContinueScore: 6.5\nAbhijit: No\nTransit: Rohini / Vrishabha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:19c436d50e27ad92ecd4adb10945b969d64f85d0@muhurat-ams
+DTSTAMP:20260227T080035
+DTSTART;TZID=Europe/Amsterdam:20260325T004600
+DTEND;TZID=Europe/Amsterdam:20260325T021200
+SUMMARY:A S:A C:A S:7.5 SS:7.5 CS:7.5
+DESCRIPTION:BaseScore: 7.5 (Chogh:3\, Tara:2\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 7.5\nContinueScore: 7.5\nAbhijit: No\nTransit: Rohini / Vrishabha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:7b34874710aad0659ce4748b59a6eee0ddc057b8@muhurat-ams
+DTSTAMP:20260227T080035
+DTSTART;TZID=Europe/Amsterdam:20260325T021200
+DTEND;TZID=Europe/Amsterdam:20260325T033900
+SUMMARY:C S:A C:A S:5.5 SS:5.5 CS:5.5
+DESCRIPTION:BaseScore: 5.5 (Chogh:1\, Tara:2\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 5.5\nContinueScore: 5.5\nAbhijit: No\nTransit: Rohini / Vrishabha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:605caab7cd70740c9be4031be703e1aa24da6de8@muhurat-ams
+DTSTAMP:20260227T080035
+DTSTART;TZID=Europe/Amsterdam:20260325T033900
+DTEND;TZID=Europe/Amsterdam:20260325T050500
+SUMMARY:R S:A C:A S:2.5 SS:2.5 CS:2.5
+DESCRIPTION:BaseScore: 2.5 (Chogh:-2\, Tara:2\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 2.5\nContinueScore: 2.5\nAbhijit: No\nTransit: Rohini / Vrishabha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b5e07cad6b0683ad06c2b36c5b63b59dee6c1f73@muhurat-ams
+DTSTAMP:20260227T080035
+DTSTART;TZID=Europe/Amsterdam:20260325T050500
+DTEND;TZID=Europe/Amsterdam:20260325T063200
+SUMMARY:K S:A C:A S:2.5 SS:2.5 CS:2.5
+DESCRIPTION:BaseScore: 2.5 (Chogh:-2\, Tara:2\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 2.5\nContinueScore: 2.5\nAbhijit: No\nTransit: Rohini / Vrishabha\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:db723995ed6cc7e3f8a0ba7fd5ad1d7ea0f74533@muhurat-ams
+DTSTAMP:20260227T080035
+DTSTART;TZID=Europe/Amsterdam:20260325T215400
+DTEND;TZID=Europe/Amsterdam:20260325T232000
+SUMMARY:A S:A C:A S:2.5 SS:2.5 CS:2.5
+DESCRIPTION:BaseScore: 2.5 (Chogh:3\, Tara:-2\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 2.5\nContinueScore: 2.5\nAbhijit: No\nTransit: Mrigashira / Mithuna\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:7d83674d5da41e0e08fd204ed2705ae9a8c49d66@muhurat-ams
+DTSTAMP:20260227T080035
+DTSTART;TZID=Europe/Amsterdam:20260326T111200
+DTEND;TZID=Europe/Amsterdam:20260326T124700
+SUMMARY:C S:A C:A S:3.5 SS:4.5 CS:4.5
+DESCRIPTION:BaseScore: 3.5 (Chogh:1\, Tara:1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 4.5\nContinueScore: 4.5\nAbhijit: Yes\nTransit: Ardra / Mithuna\nStart: Allowed\nContinue: Allowed\nTags: Abhijit Muhurat\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:73a6cc7be0182dfcabaf20752f90512400d5d9f9@muhurat-ams
+DTSTAMP:20260227T080035
+DTSTART;TZID=Europe/Amsterdam:20260326T124700
+DTEND;TZID=Europe/Amsterdam:20260326T142100
+SUMMARY:L S:A C:A S:4.5 SS:5.5 CS:5.5
+DESCRIPTION:BaseScore: 4.5 (Chogh:2\, Tara:1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 5.5\nContinueScore: 5.5\nAbhijit: Yes\nTransit: Ardra / Mithuna\nStart: Allowed\nContinue: Allowed\nTags: Abhijit Muhurat\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6869ee6658e63c4428952d958fa4aa0ccec58075@muhurat-ams
+DTSTAMP:20260227T080035
+DTSTART;TZID=Europe/Amsterdam:20260326T190400
+DTEND;TZID=Europe/Amsterdam:20260326T202900
+SUMMARY:A S:A C:A S:5.5 SS:5.5 CS:5.5
+DESCRIPTION:BaseScore: 5.5 (Chogh:3\, Tara:1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 5.5\nContinueScore: 5.5\nAbhijit: No\nTransit: Ardra / Mithuna\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:9c7f029830b4ae7ed1fe99a686b1dbaba1b8c6ed@muhurat-ams
+DTSTAMP:20260227T080035
+DTSTART;TZID=Europe/Amsterdam:20260326T202900
+DTEND;TZID=Europe/Amsterdam:20260326T215500
+SUMMARY:C S:A C:A S:3.5 SS:3.5 CS:3.5
+DESCRIPTION:BaseScore: 3.5 (Chogh:1\, Tara:1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 3.5\nContinueScore: 3.5\nAbhijit: No\nTransit: Ardra / Mithuna\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:c1d11497e08615539618c2ff4f81b1511616527b@muhurat-ams
+DTSTAMP:20260227T080035
+DTSTART;TZID=Europe/Amsterdam:20260327T033600
+DTEND;TZID=Europe/Amsterdam:20260327T050100
+SUMMARY:S S:A C:A S:4.5 SS:4.5 CS:4.5
+DESCRIPTION:BaseScore: 4.5 (Chogh:2\, Tara:1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 4.5\nContinueScore: 4.5\nAbhijit: No\nTransit: Ardra / Mithuna\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:80b9621e56b3f90641b0c58dba5ce4db257a23f2@muhurat-ams
+DTSTAMP:20260227T080035
+DTSTART;TZID=Europe/Amsterdam:20260327T050100
+DTEND;TZID=Europe/Amsterdam:20260327T062700
+SUMMARY:A S:A C:A S:5.5 SS:5.5 CS:5.5
+DESCRIPTION:BaseScore: 5.5 (Chogh:3\, Tara:1\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 5.5\nContinueScore: 5.5\nAbhijit: No\nTransit: Ardra / Mithuna\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fb82ccae199c45e7fe67d9a0456dd80dff1803a5@muhurat-ams
+DTSTAMP:20260227T080035
+DTSTART;TZID=Europe/Amsterdam:20260327T062700
+DTEND;TZID=Europe/Amsterdam:20260327T080200
+SUMMARY:C S:A C:A S:5.5 SS:5.5 CS:5.5
+DESCRIPTION:BaseScore: 5.5 (Chogh:1\, Tara:2\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 5.5\nContinueScore: 5.5\nAbhijit: No\nTransit: Punarvasu / Karka\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:d34dca8a2a6766a81fd8d33b0171e025f2799d06@muhurat-ams
+DTSTAMP:20260227T080035
+DTSTART;TZID=Europe/Amsterdam:20260327T124600
+DTEND;TZID=Europe/Amsterdam:20260327T142100
+SUMMARY:S S:A C:A S:6.5 SS:7.5 CS:7.5
+DESCRIPTION:BaseScore: 6.5 (Chogh:2\, Tara:2\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 7.5\nContinueScore: 7.5\nAbhijit: Yes\nTransit: Punarvasu / Karka\nStart: Allowed\nContinue: Allowed\nTags: Abhijit Muhurat\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:dd5ffa4fa456e310e1a3a7e458d1a92f15239437@muhurat-ams
+DTSTAMP:20260227T080035
+DTSTART;TZID=Europe/Amsterdam:20260327T142100
+DTEND;TZID=Europe/Amsterdam:20260327T155600
+SUMMARY:R S:A C:A S:2.5 SS:2.5 CS:2.5
+DESCRIPTION:BaseScore: 2.5 (Chogh:-2\, Tara:2\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 2.5\nContinueScore: 2.5\nAbhijit: No\nTransit: Punarvasu / Karka\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:5f300483fb9e2f212a9e77dc0fc3e592ae748b52@muhurat-ams
+DTSTAMP:20260227T080035
+DTSTART;TZID=Europe/Amsterdam:20260327T173100
+DTEND;TZID=Europe/Amsterdam:20260327T190600
+SUMMARY:C S:A C:A S:5.5 SS:5.5 CS:5.5
+DESCRIPTION:BaseScore: 5.5 (Chogh:1\, Tara:2\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 5.5\nContinueScore: 5.5\nAbhijit: No\nTransit: Punarvasu / Karka\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:779efdaf5efd25f7eefeb2d00342467cd203550a@muhurat-ams
+DTSTAMP:20260227T080035
+DTSTART;TZID=Europe/Amsterdam:20260327T190600
+DTEND;TZID=Europe/Amsterdam:20260327T203100
+SUMMARY:R S:A C:A S:2.5 SS:2.5 CS:2.5
+DESCRIPTION:BaseScore: 2.5 (Chogh:-2\, Tara:2\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 2.5\nContinueScore: 2.5\nAbhijit: No\nTransit: Punarvasu / Karka\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:49ce4dc184240e93697626809d4e5efab1e31ab7@muhurat-ams
+DTSTAMP:20260227T080035
+DTSTART;TZID=Europe/Amsterdam:20260327T203100
+DTEND;TZID=Europe/Amsterdam:20260327T215500
+SUMMARY:K S:A C:A S:2.5 SS:2.5 CS:2.5
+DESCRIPTION:BaseScore: 2.5 (Chogh:-2\, Tara:2\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 2.5\nContinueScore: 2.5\nAbhijit: No\nTransit: Punarvasu / Karka\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:c7db89588110df903e857b4305dec40476c34f38@muhurat-ams
+DTSTAMP:20260227T080035
+DTSTART;TZID=Europe/Amsterdam:20260327T232000
+DTEND;TZID=Europe/Amsterdam:20260328T004500
+SUMMARY:U S:A C:A S:3.5 SS:3.5 CS:3.5
+DESCRIPTION:BaseScore: 3.5 (Chogh:-1\, Tara:2\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 3.5\nContinueScore: 3.5\nAbhijit: No\nTransit: Punarvasu / Karka\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:c4d4544f49362ffd832aa70e3cd28655b5343971@muhurat-ams
+DTSTAMP:20260227T080035
+DTSTART;TZID=Europe/Amsterdam:20260328T004500
+DTEND;TZID=Europe/Amsterdam:20260328T021000
+SUMMARY:S S:A C:A S:6.5 SS:6.5 CS:6.5
+DESCRIPTION:BaseScore: 6.5 (Chogh:2\, Tara:2\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 6.5\nContinueScore: 6.5\nAbhijit: No\nTransit: Punarvasu / Karka\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b96cc76e6e2652c6d5f392dcb414c0e5fb85e665@muhurat-ams
+DTSTAMP:20260227T080035
+DTSTART;TZID=Europe/Amsterdam:20260328T021000
+DTEND;TZID=Europe/Amsterdam:20260328T033500
+SUMMARY:A S:A C:A S:7.5 SS:7.5 CS:7.5
+DESCRIPTION:BaseScore: 7.5 (Chogh:3\, Tara:2\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 7.5\nContinueScore: 7.5\nAbhijit: No\nTransit: Punarvasu / Karka\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f541807a45283b7d2700d4556ca02d83d241ff28@muhurat-ams
+DTSTAMP:20260227T080035
+DTSTART;TZID=Europe/Amsterdam:20260328T033500
+DTEND;TZID=Europe/Amsterdam:20260328T050000
+SUMMARY:C S:A C:A S:5.5 SS:5.5 CS:5.5
+DESCRIPTION:BaseScore: 5.5 (Chogh:1\, Tara:2\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 5.5\nContinueScore: 5.5\nAbhijit: No\nTransit: Punarvasu / Karka\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:8edd653abcc425d0d73409c09540cffcd1c4bea7@muhurat-ams
+DTSTAMP:20260227T080035
+DTSTART;TZID=Europe/Amsterdam:20260328T050000
+DTEND;TZID=Europe/Amsterdam:20260328T062500
+SUMMARY:R S:A C:A S:2.5 SS:2.5 CS:2.5
+DESCRIPTION:BaseScore: 2.5 (Chogh:-2\, Tara:2\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 2.5\nContinueScore: 2.5\nAbhijit: No\nTransit: Punarvasu / Karka\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:331658e35a5fc0755c821eb83594be738612533d@muhurat-ams
+DTSTAMP:20260227T080035
+DTSTART;TZID=Europe/Amsterdam:20260328T080000
+DTEND;TZID=Europe/Amsterdam:20260328T093500
+SUMMARY:S S:A C:A S:3.5 SS:3.5 CS:3.5
+DESCRIPTION:BaseScore: 3.5 (Chogh:2\, Tara:-1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 3.5\nContinueScore: 3.5\nAbhijit: No\nTransit: Pushya / Karka\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:7dc35636405c6a3abd190e57008832f9e362874e@muhurat-ams
+DTSTAMP:20260227T080035
+DTSTART;TZID=Europe/Amsterdam:20260328T124600
+DTEND;TZID=Europe/Amsterdam:20260328T142100
+SUMMARY:C S:A C:A S:2.5 SS:3.5 CS:3.5
+DESCRIPTION:BaseScore: 2.5 (Chogh:1\, Tara:-1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 3.5\nContinueScore: 3.5\nAbhijit: Yes\nTransit: Pushya / Karka\nStart: Allowed\nContinue: Allowed\nTags: Abhijit Muhurat\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:15a1449d3e90d7536437b21fc36b681866039c00@muhurat-ams
+DTSTAMP:20260227T080035
+DTSTART;TZID=Europe/Amsterdam:20260328T155700
+DTEND;TZID=Europe/Amsterdam:20260328T173200
+SUMMARY:A S:A C:A S:4.5 SS:4.5 CS:4.5
+DESCRIPTION:BaseScore: 4.5 (Chogh:3\, Tara:-1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 4.5\nContinueScore: 4.5\nAbhijit: No\nTransit: Pushya / Karka\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:1d76886e336cfbb9468a721cc8c10c499868cf9c@muhurat-ams
+DTSTAMP:20260227T080035
+DTSTART;TZID=Europe/Amsterdam:20260328T215600
+DTEND;TZID=Europe/Amsterdam:20260328T232100
+SUMMARY:S S:A C:A S:3.5 SS:3.5 CS:3.5
+DESCRIPTION:BaseScore: 3.5 (Chogh:2\, Tara:-1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 3.5\nContinueScore: 3.5\nAbhijit: No\nTransit: Pushya / Karka\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:70f20b0221d6ca70cef7b0e8da99928e4355238d@muhurat-ams
+DTSTAMP:20260227T080035
+DTSTART;TZID=Europe/Amsterdam:20260328T232100
+DTEND;TZID=Europe/Amsterdam:20260329T004500
+SUMMARY:A S:A C:A S:4.5 SS:4.5 CS:4.5
+DESCRIPTION:BaseScore: 4.5 (Chogh:3\, Tara:-1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 4.5\nContinueScore: 4.5\nAbhijit: No\nTransit: Pushya / Karka\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b570be56ff530260215d70fcf105ba7000c6408c@muhurat-ams
+DTSTAMP:20260227T080035
+DTSTART;TZID=Europe/Amsterdam:20260329T004500
+DTEND;TZID=Europe/Amsterdam:20260329T030900
+SUMMARY:C S:A C:A S:2.5 SS:2.5 CS:2.5
+DESCRIPTION:BaseScore: 2.5 (Chogh:1\, Tara:-1\, Chandra:1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: 2.5\nContinueScore: 2.5\nAbhijit: No\nTransit: Pushya / Karka\nStart: Allowed\nContinue: Allowed\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
