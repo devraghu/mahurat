@@ -7,7 +7,7 @@ X-WR-CALNAME:Choghadiya AVOID (Amsterdam)
 X-WR-TIMEZONE:Europe/Amsterdam
 BEGIN:VEVENT
 UID:8e6eb349932e5be6663788791d40cec7270b298f@muhurat-ams
-DTSTAMP:20260227T080035
+DTSTAMP:20260306T080032
 DTSTART;TZID=Europe/Amsterdam:20260325T093900
 DTEND;TZID=Europe/Amsterdam:20260325T111300
 SUMMARY:K S:N C:N S:-2.5 SS:-3.5 CS:-2.5
@@ -16,11 +16,20 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:dc42a6e0e1946dc9fa708192953162476bd5f097@muhurat-ams
-DTSTAMP:20260227T080035
+DTSTAMP:20260306T080032
 DTSTART;TZID=Europe/Amsterdam:20260325T124700
 DTEND;TZID=Europe/Amsterdam:20260325T142100
 SUMMARY:R S:N C:N S:-2.5 SS:-4.5 CS:-2.5
 DESCRIPTION:BaseScore: -2.5 (Chogh:-2\, Tara:-2\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -4.5\nContinueScore: -2.5\nAbhijit: No\nTransit: Mrigashira / Mithuna\nStart: Avoid\nContinue: Avoid\nTags: Vaar Vela\, Rahu Kalam\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:17e571f4b5a740d7b1811ceae557359836e0c35f@muhurat-ams
+DTSTAMP:20260306T080032
+DTSTART;TZID=Europe/Amsterdam:20260403T120600
+DTEND;TZID=Europe/Amsterdam:20260403T134400
+SUMMARY:K S:N C:N S:-2.5 SS:-3.5 CS:-1.5
+DESCRIPTION:BaseScore: -2.5 (Chogh:-2\, Tara:-2\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -3.5\nContinueScore: -1.5\nAbhijit: Yes\nTransit: Chitra / Tula\nStart: Avoid\nContinue: Avoid\nTags: Kaal Vela\, Abhijit Muhurat\, Rahu Kalam\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
