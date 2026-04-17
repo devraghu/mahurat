@@ -5,40 +5,4 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Choghadiya AVOID (Amsterdam)
 X-WR-TIMEZONE:Europe/Amsterdam
-BEGIN:VEVENT
-UID:6074e6c0606a205e3aa7bcefb81baace1a3d29c0@muhurat-ams
-DTSTAMP:20260410T080034
-DTSTART;TZID=Europe/Amsterdam:20260413T083100
-DTEND;TZID=Europe/Amsterdam:20260413T101500
-SUMMARY:K S:N C:N S:-3.5 SS:-5.5 CS:-3.5
-DESCRIPTION:BaseScore: -3.5 (Chogh:-2\, Tara:-2\, Chandra:-1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -5.5\nContinueScore: -3.5\nAbhijit: No\nTransit: Dhanishtha / Kumbha\nStart: Avoid\nContinue: Avoid\nTags: Kaal Vela\, Rahu Kalam\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:4d2708dda410d5e4d0cebda0f817f7c5b39d2dd4@muhurat-ams
-DTSTAMP:20260410T080034
-DTSTART;TZID=Europe/Amsterdam:20260413T115800
-DTEND;TZID=Europe/Amsterdam:20260413T134200
-SUMMARY:R S:N C:N S:-3.5 SS:-3.5 CS:-2.5
-DESCRIPTION:BaseScore: -3.5 (Chogh:-2\, Tara:-2\, Chandra:-1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -3.5\nContinueScore: -2.5\nAbhijit: Yes\nTransit: Dhanishtha / Kumbha\nStart: Avoid\nContinue: Avoid\nTags: Abhijit Muhurat\, Yamaganda\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:961b214a3473db60d4b194e1bb67aa85cb1957bf@muhurat-ams
-DTSTAMP:20260410T080034
-DTSTART;TZID=Europe/Amsterdam:20260413T215200
-DTEND;TZID=Europe/Amsterdam:20260413T230800
-SUMMARY:R S:N C:N S:-3.5 SS:-3.5 CS:-3.5
-DESCRIPTION:BaseScore: -3.5 (Chogh:-2\, Tara:-2\, Chandra:-1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -3.5\nContinueScore: -3.5\nAbhijit: No\nTransit: Dhanishtha / Kumbha\nStart: Avoid\nContinue: Avoid\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:2ca56d50ad98ef0541c15dcf32d6c0d70723f9c6@muhurat-ams
-DTSTAMP:20260410T080034
-DTSTART;TZID=Europe/Amsterdam:20260413T230800
-DTEND;TZID=Europe/Amsterdam:20260414T002400
-SUMMARY:K S:N C:N S:-3.5 SS:-3.5 CS:-3.5
-DESCRIPTION:BaseScore: -3.5 (Chogh:-2\, Tara:-2\, Chandra:-1\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -3.5\nContinueScore: -3.5\nAbhijit: No\nTransit: Dhanishtha / Kumbha\nStart: Avoid\nContinue: Avoid\nTags: None\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
-STATUS:CONFIRMED
-END:VEVENT
 END:VCALENDAR
