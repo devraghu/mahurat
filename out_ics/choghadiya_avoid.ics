@@ -7,7 +7,7 @@ X-WR-CALNAME:Choghadiya AVOID (Amsterdam)
 X-WR-TIMEZONE:Europe/Amsterdam
 BEGIN:VEVENT
 UID:d7f00e12588e1e7ba14484ea722ee3fef4d55136@muhurat-ams
-DTSTAMP:20260522T080033
+DTSTAMP:20260529T080039
 DTSTART;TZID=Europe/Amsterdam:20260615T072400
 DTEND;TZID=Europe/Amsterdam:20260615T092900
 SUMMARY:K S:N C:N S:-2.5 SS:-4.5 CS:-2.5
@@ -16,11 +16,29 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a1c448b3b7f087564d9a9653f50c248932eaacbc@muhurat-ams
-DTSTAMP:20260522T080033
+DTSTAMP:20260529T080039
 DTSTART;TZID=Europe/Amsterdam:20260615T113500
 DTEND;TZID=Europe/Amsterdam:20260615T134100
 SUMMARY:R S:N C:N S:-2.5 SS:-2.5 CS:-1.5
 DESCRIPTION:BaseScore: -2.5 (Chogh:-2\, Tara:-2\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -2.5\nContinueScore: -1.5\nAbhijit: Yes\nTransit: Mrigashira / Mithuna\nStart: Avoid\nContinue: Avoid\nTags: Abhijit Muhurat\, Yamaganda\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:74d2d17da1e20e044a4b6e131c83fbfc57dcf729@muhurat-ams
+DTSTAMP:20260529T080039
+DTSTART;TZID=Europe/Amsterdam:20260624T093100
+DTEND;TZID=Europe/Amsterdam:20260624T113700
+SUMMARY:K S:N C:N S:-2.5 SS:-3.5 CS:-2.5
+DESCRIPTION:BaseScore: -2.5 (Chogh:-2\, Tara:-2\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -3.5\nContinueScore: -2.5\nAbhijit: No\nTransit: Chitra / Tula\nStart: Avoid\nContinue: Avoid\nTags: Kaal Vela\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:3c4b311fcb1224806c213951237196f622fe2b82@muhurat-ams
+DTSTAMP:20260529T080039
+DTSTART;TZID=Europe/Amsterdam:20260624T134300
+DTEND;TZID=Europe/Amsterdam:20260624T154900
+SUMMARY:R S:N C:N S:-2.5 SS:-4.5 CS:-2.5
+DESCRIPTION:BaseScore: -2.5 (Chogh:-2\, Tara:-2\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -4.5\nContinueScore: -2.5\nAbhijit: No\nTransit: Chitra / Tula\nStart: Avoid\nContinue: Avoid\nTags: Vaar Vela\, Rahu Kalam\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
