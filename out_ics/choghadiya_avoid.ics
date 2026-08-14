@@ -6,26 +6,8 @@ METHOD:PUBLISH
 X-WR-CALNAME:Choghadiya AVOID (Amsterdam)
 X-WR-TIMEZONE:Europe/Amsterdam
 BEGIN:VEVENT
-UID:404f9e5b4578caff32a1d97b129348a7b6ce9f53@muhurat-ams
-DTSTAMP:20260807T080037
-DTSTART;TZID=Europe/Amsterdam:20260809T134500
-DTEND;TZID=Europe/Amsterdam:20260809T153800
-SUMMARY:K S:N C:N S:-2.5 SS:-3.5 CS:-1.5
-DESCRIPTION:BaseScore: -2.5 (Chogh:-2\, Tara:-2\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -3.5\nContinueScore: -1.5\nAbhijit: Yes\nTransit: Mrigashira / Mithuna\nStart: Avoid\nContinue: Avoid\nTags: Kaal Vela\, Abhijit Muhurat\, Yamaganda\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:bb501b8b841ca140dc81e7f36f0bbd16b2aa5d80@muhurat-ams
-DTSTAMP:20260807T080037
-DTSTART;TZID=Europe/Amsterdam:20260809T173100
-DTEND;TZID=Europe/Amsterdam:20260809T192400
-SUMMARY:R S:N C:N S:-2.5 SS:-3.5 CS:-2.5
-DESCRIPTION:BaseScore: -2.5 (Chogh:-2\, Tara:-2\, Chandra:0\, Dasha:1.5 (MD:Venus AD:Jupiter))\nStartScore: -3.5\nContinueScore: -2.5\nAbhijit: No\nTransit: Mrigashira / Mithuna\nStart: Avoid\nContinue: Avoid\nTags: Gulikai Kalam\nLocation: Amsterdam (geoname-id=2759794)\nSource: drikpanchang.com
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:fc50f12003cd023049504fc4657829335454708e@muhurat-ams
-DTSTAMP:20260807T080037
+DTSTAMP:20260814T080039
 DTSTART;TZID=Europe/Amsterdam:20260905T065800
 DTEND;TZID=Europe/Amsterdam:20260905T083800
 SUMMARY:K S:N C:N S:-2.5 SS:-4.5 CS:-2.5
@@ -34,7 +16,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b5cf75ee55773e104ff87a2bd287503fb8440000@muhurat-ams
-DTSTAMP:20260807T080037
+DTSTAMP:20260814T080039
 DTSTART;TZID=Europe/Amsterdam:20260905T101800
 DTEND;TZID=Europe/Amsterdam:20260905T115800
 SUMMARY:R S:N C:N S:-2.5 SS:-3.5 CS:-2.5
@@ -43,7 +25,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:14e951ba536711f8dcd2703c342b1eb5483f58a9@muhurat-ams
-DTSTAMP:20260807T080037
+DTSTAMP:20260814T080039
 DTSTART;TZID=Europe/Amsterdam:20260905T183900
 DTEND;TZID=Europe/Amsterdam:20260905T201900
 SUMMARY:K S:N C:N S:-2.5 SS:-3.5 CS:-2.5
